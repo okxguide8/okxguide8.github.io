@@ -71,8 +71,7 @@
     }
     .badge {
       display: inline-block;
-      background: rgba(0, 180, 100, 0.12);
-      color: var(--green);
+      background: rgba(0, 180, 100, 0.12);      color: var(--green);
       font-weight: 700;
       font-size: 0.82rem;
       padding: 4px 12px;
@@ -159,21 +158,20 @@
   </style>
 </head>
 <body>
-
   <header class="header-bar">
     <div class="logo">⬛ OKX 官方快速指南</div>
-    <a href="https://www.mitnpkwxvfr.net/join/N4LJDJWM" target="_blank" rel="noopener" style="font-weight: 600; font-size: 0.9rem;">直达注册 ➔</a>
+    <a class="aff-link" href="#" target="_blank" rel="noopener" style="font-weight: 600; font-size: 0.9rem;">直达注册 ➔</a>
   </header>
 
   <div class="container">
     <div class="hero-banner">
-      <div class="badge">🔥 官方官方返佣优惠通道</div>
+      <div class="badge">🔥 官方返佣优惠通道</div>
       <h1 class="hero-title">欧易 OKX 新手入门全流程操作指南</h1>
       <p class="hero-subtitle">国内免翻墙官方通道 · 身份证快速实名认证 · 人民币 C2C 安全出入金与防冻卡法则</p>
 
       <div class="cta-box">
         <div>专属邀请码：<span class="code-tag">N4LJDJWM</span> (永久享受20%手续费折扣与盲盒)</div>
-        <a class="btn-main" href="https://www.mitnpkwxvfr.net/join/N4LJDJWM" target="_blank" rel="noopener">👉 点击直达欧易 OKX 官方专属注册页</a>
+        <a class="btn-main aff-link" href="#" target="_blank" rel="noopener">👉 点击直达欧易 OKX 官方专属注册页</a>
       </div>
     </div>
 
@@ -233,7 +231,7 @@
       </ul>
 
       <div style="text-align: center; margin: 40px 0;">
-        <a class="btn-main" style="max-width: 380px; margin: 0 auto;" href="https://www.mitnpkwxvfr.net/join/N4LJDJWM" target="_blank" rel="noopener">立即前往 OKX 欧易注册领福利</a>
+        <a class="btn-main aff-link" style="max-width: 380px; margin: 0 auto;" href="#" target="_blank" rel="noopener">立即前往 OKX 欧易注册领福利</a>
       </div>
     </article>
 
@@ -242,5 +240,12 @@
     </footer>
   </div>
 
+  <!-- 动态统一管理链接脚本 -->
+  <script>
+    const AFFILIATE_URL = "https://www.mitnpkwxvfr.net/join/N4LJDJWM";
+    document.querySelectorAll('.aff-link').forEach(el => {
+      el.href = AFFILIATE_URL;
+    });
+  </script>
 </body>
 </html>
