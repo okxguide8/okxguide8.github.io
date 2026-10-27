@@ -8,14 +8,12 @@
   <meta name="description" content="2026最新欧易OKX国内注册与使用全攻略。提供官方免翻墙直连入口与专属返佣邀请码N4LJDJWM，详解大陆身份证KYC认证、人民币C2C买币避坑、苹果iOS下载与Web3钱包入门。">
   <meta name="keywords" content="欧易注册,OKX官网,欧易国内直连,OKX邀请码,C2C买币防冻卡,欧易KYC认证,Web3新手教程">
   
-  <!-- Open Graph 社交分享优化 -->
   <meta property="og:title" content="2026欧易OKX注册与新手买币指南｜国内免翻墙直连与防冻卡法则">
   <meta property="og:description" content="官方免翻墙直连通道与专属邀请码 N4LJDJWM，永久享受 20% 手续费减免。">
   <meta property="og:type" content="article">
   
   <link rel="icon" href="https://static.okx.com/cdn/assets/imgs/247/E0C93876B46114EB.png">
   
-  <!-- SEO 结构化数据 (JSON-LD 教程与FAQ) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -49,7 +47,6 @@
       --border: #e6e8eb;
       --card-bg: #f7f9fa;
       --primary: #000000;
-      --primary-hover: #333333;
       --accent: #2752e7;
       --green: #00b464;
     }
@@ -60,7 +57,6 @@
         --border: #262930;
         --card-bg: #161a1f;
         --primary: #ffffff;
-        --primary-hover: #cccccc;
         --accent: #4a72ff;
       }
     }
@@ -184,6 +180,23 @@
       border-radius: 0 8px 8px 0;
       margin: 20px 0;
     }
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+      margin: 20px 0;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 18px;
+      border-radius: 8px;
+      color: inherit;
+      text-decoration: none;
+      display: block;
+      transition: transform 0.2s;
+    }
+    .article-card:hover { transform: translateY(-2px); text-decoration: none; }
     footer {
       border-top: 1px solid var(--border);
       padding: 24px 0;
@@ -267,7 +280,25 @@
         <li><strong>资金沉淀</strong>：收到卖币款项后，避免立刻几分钟内全额转出，建议在卡内静置 1~2 天更安全。</li>
       </ul>
 
-      <h2>五、 欧易 OKX 新手注册常见问题（FAQ）</h2>
+      <h2>五、 📚 Web3 新手进阶干货教程</h2>
+      <div class="article-grid">
+        <a href="./article-kyc.html" class="article-card">
+          <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">📄 大陆身份证 KYC 认证流程 ➔</h3>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">手把手教你如何顺利通过动态人脸识别与证件审核，避开审核失败雷区。</p>
+        </a>
+
+        <a href="./article-ios.html" class="article-card">
+          <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">📱 苹果 iOS 端 App 下载指南 ➔</h3>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">无须转区，教你 3 分钟搞定海外 Apple ID 并安全安装官方正版 App。</p>
+        </a>
+
+        <a href="./article-deposit.html" class="article-card">
+          <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">🛡️ 人民币买 U 防冻卡终极法则 ➔</h3>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">剖析 C2C 商家筛选标准、转账备注注意事项及银行卡资金隔离技巧。</p>
+        </a>
+      </div>
+
+      <h2>六、 欧易 OKX 新手注册常见问题（FAQ）</h2>
       
       <h3>1. 中国大陆身份证目前真的可以正常实名认证（KYC）吗？</h3>
       <p>可以。欧易官方对中国大陆用户完全开放，国籍选择【中国】，直接使用二代身份证扫描并完成人脸识别即可通过认证。</p>
@@ -291,7 +322,6 @@
     </footer>
   </div>
 
-  <!-- 动态统一管理链接脚本 -->
   <script>
     const AFFILIATE_URL = "https://www.mitnpkwxvfr.net/join/N4LJDJWM";
     document.querySelectorAll('.aff-link').forEach(el => {
