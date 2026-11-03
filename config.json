@@ -1,30 +1,37 @@
 {
   "okx": {
     "name": "欧易 OKX",
-    "badge": "第一梯队 / 节点主推",
-    "desc": "全球领先的 Web3 交易所，资产与出入金深度极佳，新手首选。",
+    "badge": "20% 手续费返现",
+    "desc": "国内免翻墙直连，C2C防冻卡机制成熟，Web3生态最强。",
     "code": "N4LJDJWM",
     "link": "https://www.topfgcnzqwl.net/join/N4LJDJWM"
   },
   "binance": {
     "name": "币安 Binance",
-    "badge": "全球第一大厂",
-    "desc": "全球交易量第一大厂，资金深度最强，交易对极其丰富。",
+    "badge": "全球交易量第一",
+    "desc": "全球最大的加密货币交易所，深度极佳，币种最丰富。",
     "code": "ZV2BH3A6",
-    "link": "https://www.bsmkweb.net/register?ref=ZV2BH3A6"
+    "link": "https://www.binance.com/zh-CN/register?ref=ZV2BH3A6"
   },
   "gate": {
-    "name": "Gate.io (芝麻开门)",
-    "badge": "新币/山寨首选",
-    "desc": "老牌主流交易所，上线新币与优质山寨币种类极多。",
+    "name": "芝麻开门 Gate.io",
+    "badge": "老牌山寨币首选",
+    "desc": "上币速度快，适合寻找早期潜力币种与参与创新板块。",
     "code": "VAMVUF1BBA",
     "link": "https://www.gate.com/zh-tw/signup/VAMVUF1BBA?ref_type=103"
   },
   "htx": {
-    "name": "HTX (火币)",
-    "badge": "老牌头部大厂",
-    "desc": "老牌交易平台，新人群体大，快捷体验顺畅。",
+    "name": "HTX 火币",
+    "badge": "老牌大厂信誉",
+    "desc": "多年行业沉淀，法币通道顺畅，新人福利活动丰富。",
     "code": "pyb3e223",
     "link": "https://www.htx.com/invite/zh-cn/1f?invite_code=pyb3e223"
+  },
+  "bitget": {
+    "name": "Bitget 交易所",
+    "badge": "跟单与衍生品热门",
+    "desc": "全球领先的跟单交易平台，新人注册享专属礼包与手续费折扣。",
+    "code": "J3P5Z15T",
+    "link": "https://share.glassgs.com/u/J3P5Z15T"
   }
 }
