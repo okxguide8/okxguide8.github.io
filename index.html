@@ -14,32 +14,6 @@
   
   <link rel="icon" href="https://static.okx.com/cdn/assets/imgs/247/E0C93876B46114EB.png">
   
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": "2026全球头部加密交易所注册与新手买币全流程指南",
-    "description": "详解中国大陆用户如何通过官方免翻墙通道注册欧易OKX、币安等大厂，完成KYC实名及安全进行C2C买币。",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "name": "访问官方注册通道",
-        "text": "选择头部大厂，确认推荐码显示并享受最高手续费折扣。"
-      },
-      {
-        "@type": "HowToStep",
-        "name": "完成身份证实名认证",
-        "text": "选择中国大陆地区，上传本人身份证并完成人脸识别核验。"
-      },
-      {
-        "@type": "HowToStep",
-        "name": "C2C人民币买币",
-        "text": "使用支付宝或银行卡安全买入USDT，严格注意转账备注留空防风控。"
-      }
-    ]
-  }
-  </script>
-
   <style>
     :root {
       --bg: #ffffff;
@@ -69,9 +43,11 @@
     }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
+    
+    /* 统一导航栏样式 */
     .header-bar {
       border-bottom: 1px solid var(--border);
-      padding: 16px 24px;
+      padding: 12px 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -79,15 +55,13 @@
       position: sticky;
       top: 0;
       z-index: 100;
+      flex-wrap: wrap;
+      gap: 10px;
     }
-    .logo {
-      font-size: 1.15rem;
-      font-weight: 900;
-      letter-spacing: -0.5px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
+    .nav-links { display: flex; gap: 12px; font-size: 0.88rem; align-items: center; flex-wrap: wrap; }
+    .nav-links a { color: var(--text); padding: 4px 8px; border-radius: 4px; transition: background 0.2s; }
+    .nav-links a:hover { background: var(--card-bg); color: var(--accent); text-decoration: none; }
+
     .container {
       max-width: 860px;
       margin: 0 auto;
@@ -127,7 +101,7 @@
     /* 交易所卡片矩阵 */
     .exchange-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
       gap: 16px;
       text-align: left;
       margin-top: 15px;
@@ -242,9 +216,16 @@
   </style>
 </head>
 <body>
+  <!-- 统一顶部导航栏 -->
   <header class="header-bar">
-    <div class="logo">⬛ Web3 交易所正版指南</div>
-    <a href="#exchanges" style="font-weight: 600; font-size: 0.9rem;">选择交易所 ➔</a>
+    <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
+    <nav class="nav-links">
+      <a href="./article-kyc.html">KYC认证</a>
+      <a href="./article-ios.html">欧易下载</a>
+      <a href="./article-binance.html">币安下载</a>
+      <a href="./article-htx.html">HTX指南</a>
+      <a href="./article-deposit.html">防冻卡</a>
+    </nav>
   </header>
 
   <div class="container">
@@ -272,7 +253,7 @@
       <ol>
         <li>
           <strong>先注册后登录 App</strong>：<br>
-          点击上方对应的【前往注册】按钮完成账号注册，即可在数据库中<strong>自动锁定专属邀请码与手续费折扣</strong>。
+          点击上方对应的卡片按钮完成账号注册，即可在数据库中<strong>自动锁定专属邀请码与手续费折扣</strong>[cite: 1]。
         </li>
         <li>
           <strong>完成基础实名认证（KYC）</strong>：<br>
@@ -300,24 +281,24 @@
       <div class="article-grid">
         <a href="./article-kyc.html" class="article-card">
           <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">📄 大陆身份证 KYC 认证流程 ➔</h3>
-          <p style="font-size: 0.88rem; color: #666; margin: 0;">手把手教你如何顺利通过动态人脸识别与证件审核，避开审核失败雷区。[cite: 2]</p>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">手把手教你如何顺利通过动态人脸识别与证件审核，避开审核失败雷区[cite: 2]。</p>
         </a>
 
         <a href="./article-ios.html" class="article-card">
           <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">📱 苹果 iOS 端 App 下载指南 ➔</h3>
-          <p style="font-size: 0.88rem; color: #666; margin: 0;">无须转区，教你 3 分钟搞定海外 Apple ID 并安全安装官方正版 App。[cite: 2]</p>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">无须转区，教你 3 分钟搞定海外 Apple ID 并安全安装官方正版 App[cite: 2]。</p>
         </a>
 
         <a href="./article-deposit.html" class="article-card">
           <h3 style="margin: 0 0 8px 0; font-size: 1.05rem; color: var(--accent);">🛡️ 人民币买 U 防冻卡终极法则 ➔</h3>
-          <p style="font-size: 0.88rem; color: #666; margin: 0;">剖析 C2C 商家筛选标准、转账备注注意事项及银行卡资金隔离技巧。[cite: 2]</p>
+          <p style="font-size: 0.88rem; color: #666; margin: 0;">剖析 C2C 商家筛选标准、转账备注注意事项及银行卡资金隔离技巧[cite: 2]。</p>
         </a>
       </div>
 
       <h2>五、 交易所注册常见问题（FAQ）</h2>
       
       <h3>1. 注册时提示填写“邀请码”，必须填吗？</h3>
-      <p>通过本站按钮点击注册会自动带出邀请码，填写后可<strong>永久自动减免 20% 手续费</strong>，并激活大厂新手盲盒奖励。</p>
+      <p>通过本站按钮点击注册会自动带出邀请码，填写后可<strong>永久自动减免 20% 手续费</strong>，并激活大厂新手盲盒奖励[cite: 1]。</p>
 
       <h3>2. 苹果手机（iOS）搜索不到 App 怎么办？</h3>
       <p>由于区域限制，大陆 Apple ID 无法直接搜索下载。可以用海外 Apple ID 登录 App Store 后搜索【OKX】或【Binance】安全下载[cite: 1, 2]。</p>
@@ -329,7 +310,7 @@
   </div>
 
   <script>
-    // 动态读取 config.json 并生成卡片
+    // 动态读取 config.json 并根据里面的配置生成 4 大交易所卡片
     fetch('config.json')
       .then(res => res.json())
       .then(data => {
