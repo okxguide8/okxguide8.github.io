@@ -21,6 +21,7 @@
     .btn-main:hover { opacity: 0.88; transform: translateY(-1px); }
     h1 { font-size: 1.8rem; margin-bottom: 20px; line-height: 1.35; font-weight: 800; }
     h2 { font-size: 1.35rem; margin: 36px 0 18px; border-bottom: 2px solid var(--border); padding-bottom: 10px; color: var(--primary); }
+    h3 { font-size: 1.1rem; margin: 20px 0 10px; color: var(--accent); }
     p, ul, ol { margin-bottom: 16px; }
     ul, ol { padding-left: 22px; }
     li { margin-bottom: 10px; }
@@ -111,8 +112,17 @@
   </div>
 
   <script>
-    const AFFILIATE_URL = "https://www.mitnpkwxvfr.net/join/N4LJDJWM";
-    document.querySelectorAll('.aff-link').forEach(el => { el.href = AFFILIATE_URL; });
+    // 动态从根目录的 config.json 读取 OKX 最新中转链接
+    fetch('config.json')
+      .then(res => res.json())
+      .then(data => {
+        if (data.okx && data.okx.link) {
+          document.querySelectorAll('.aff-link').forEach(el => {
+            el.href = data.okx.link;
+          });
+        }
+      })
+      .catch(err => console.error('加载 OKX 返佣链接失败:', err));
   </script>
 </body>
 </html>
