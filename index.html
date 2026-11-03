@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="msvalidate.01" content="3D494A8F7989F3C153BA812B523965C5" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2026全球头部加密货币交易所注册指南｜欧易/币安/Gate/HTX/Bitget 官方入口</title>
-  <meta name="description" content="2026最新加密货币交易所国内注册全攻略。提供欧易OKX、币安Binance、Gate.io、HTX及Bitget官方直连入口与专属返佣邀请码，详解实名认证与C2C买币避坑。">
-  <meta name="keywords" content="欧易注册,币安注册,Bitget邀请码,OKX邀请码,Gate注册,HTX注册,C2C买币防冻卡,Web3新手教程">
+  <title>2026全球头部加密货币交易所注册指南｜欧易/币安/Gate/HTX/Bitget/Bybit 官方入口</title>
+  <meta name="description" content="2026最新加密货币交易所国内注册全攻略。提供欧易OKX、币安Binance、Gate.io、HTX、Bitget及Bybit官方直连入口与专属返佣邀请码，详解实名认证与C2C买币避坑。">
+  <meta name="keywords" content="欧易注册,币安注册,Bybit邀请码,Bitget邀请码,OKX邀请码,Gate注册,HTX注册,C2C买币防冻卡,Web3新手教程">
   
   <meta property="og:title" content="2026全球头部加密货币交易所注册与新手买币指南">
   <meta property="og:description" content="官方免翻墙直连通道与专属邀请码，永久享受最高手续费折扣与福利。">
@@ -174,13 +174,6 @@
     .content p { margin-bottom: 16px; }
     .content ul, .content ol { margin-bottom: 20px; padding-left: 22px; }
     .content li { margin-bottom: 8px; }
-    .alert-box {
-      background: var(--card-bg);
-      border-left: 4px solid var(--accent);
-      padding: 14px 18px;
-      border-radius: 0 8px 8px 0;
-      margin: 20px 0;
-    }
     .danger-box {
       background: rgba(235, 77, 75, 0.08);
       border-left: 4px solid #eb4d4b;
@@ -216,7 +209,7 @@
   </style>
 </head>
 <body>
-  <!-- 统一顶部导航栏（已包含 Bitget） -->
+  <!-- 统一顶部导航栏（包含完整的 6 大交易所与干货导航） -->
   <header class="header-bar">
     <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
     <nav class="nav-links">
@@ -224,7 +217,8 @@
       <a href="./article-ios.html">欧易下载</a>
       <a href="./article-binance.html">币安下载</a>
       <a href="./article-htx.html">HTX指南</a>
-      <a href="./article-bitget.html" style="color: var(--accent); font-weight: bold;">Bitget指南</a>
+      <a href="./article-bitget.html">Bitget指南</a>
+      <a href="./article-bybit.html">Bybit指南</a>
       <a href="./article-deposit.html">防冻卡</a>
     </nav>
   </header>
@@ -235,7 +229,7 @@
       <h1 class="hero-title">全球头部加密货币交易所正版注册</h1>
       <p class="hero-subtitle">国内免翻墙直连通道 · 身份证快速实名认证 · 专属邀请码解锁最高返佣与福利</p>
 
-      <!-- 动态渲染 5 大交易所区域 -->
+      <!-- 动态渲染 6 大交易所卡片区域 -->
       <div class="exchange-grid" id="exchange-grid">
         <p style="text-align: center; width: 100%; color: #888;">正在加载官方最新通道...</p>
       </div>
@@ -254,7 +248,7 @@
       <ol>
         <li>
           <strong>先注册后登录 App</strong>：<br>
-          点击上方对应的卡片按钮完成账号注册，即可在数据库中<strong>自动锁定专属邀请码与手续费折扣</strong>。
+          点击上方对应的卡片按钮完成账号注册，即可在数据库中自动锁定专属邀请码与手续费折扣。
         </li>
         <li>
           <strong>完成基础实名认证（KYC）</strong>：<br>
@@ -311,12 +305,12 @@
   </div>
 
   <script>
-    // 动态读取 config.json 并根据里面的配置生成 5 大交易所卡片
+    // 动态读取 config.json 并自动渲染 6 大交易所卡片
     fetch('config.json')
       .then(res => res.json())
       .then(data => {
         const container = document.getElementById('exchange-grid');
-        container.innerHTML = ''; // 清空加载提示
+        container.innerHTML = ''; 
         
         for (let key in data) {
           const item = data[key];
