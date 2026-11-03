@@ -42,7 +42,7 @@
   <div class="container">
     <h1>国内苹果 iPhone 如何下载欧易 OKX App？（2026 避坑小白通关教程）</h1>
     
-    <p>国内 iPhone 用户在App Store搜索 “OKX” 或 “欧易” 时，通常会发现<strong>搜不到官方 App</strong>，或者搜出来的都是假冒劣质软件。</p>
+    <p>国内 iPhone 用户在 App Store 搜索 “OKX” 或 “欧易” 时，通常会发现<strong>搜不到官方 App</strong>，或者搜出来的都是假冒劣质软件。</p>
     <p>这是因为受区域政策限制，OKX 上架的是海外区的 App Store。解决这个问题极简单：<strong>只需将 App Store 切换到一个海外地区的 Apple ID（如台湾、香港或美区）即可一键下载正版官方 App！</strong></p>
 
     <div class="danger-box">
@@ -120,8 +120,17 @@
   </div>
 
   <script>
-    const AFFILIATE_URL = "https://www.mitnpkwxvfr.net/join/N4LJDJWM";
-    document.querySelectorAll('.aff-link').forEach(el => { el.href = AFFILIATE_URL; });
+    // 自动从根目录的 config.json 中读取 OKX 的最新中转链接
+    fetch('config.json')
+      .then(res => res.json())
+      .then(data => {
+        if (data.okx && data.okx.link) {
+          document.querySelectorAll('.aff-link').forEach(el => {
+            el.href = data.okx.link;
+          });
+        }
+      })
+      .catch(err => console.error('加载返佣链接失败:', err));
   </script>
 </body>
 </html>
