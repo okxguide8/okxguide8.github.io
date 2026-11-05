@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:47:06.566021+08:00",
+  "degraded": false,
+  "items": [
+    {
+      "title": "Anza建议Solana验证者紧急升级至Agave 4.4.1，否则将被分叉",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2f-4a97-70a9-9531-81567a62fdf1",
+      "source": "PANews",
+      "published": "2026-11-06T03:28:40+08:00",
+      "summary": "PANews 11月6日消息，Solana开发团队Anza在X平台发帖称，建议Solana主网测试环境（mainnet-beta）验证者紧急升级至Agave 4.4.1版本，否则将被分叉出网络。该版本对loader-v3 ProgramDa…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，Solana开发团队Anza在X平台发帖称，建议Solana主网测试环境（mainnet-beta）验证者紧急升级至Agave 4.4.1版本，否则将被分叉出网络。该版本对loader-v3 ProgramData账户应用最低加载数据量限制，未安装补丁的节点计划在第1079个epoch（约北京时间11月6日21:30）被分叉出网络。</p>"
+    },
+    {
+      "title": "谷歌拟斥资170亿美元在美国怀俄明州建设数据中心",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2d-1613-7525-8013-49e64c83feae",
+      "source": "PANews",
+      "published": "2026-11-06T03:26:15+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，谷歌在博客中表示，将斥资170亿美元在美国怀俄明州拉勒米县建设数据中心，这将是其在该州的首个数据中心，谷歌将承担该数据中心的全部电力费用。该项目部分电力将来自一座采用Bloom Energy燃料电…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据彭博社报道，谷歌在博客中表示，将斥资170亿美元在美国怀俄明州拉勒米县建设数据中心，这将是其在该州的首个数据中心，谷歌将承担该数据中心的全部电力费用。该项目部分电力将来自一座采用Bloom Energy燃料电池的702兆瓦天然气燃料电池电站。报道称，在本周举行的美国中期选举中，选民在41项相关地方公投中有40项支持限制数据中心建设。</p>"
+    },
+    {
+      "title": "CFTC允许衍生品清算机构通过信托公司进行日常结算",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2c-6ea1-7618-b092-e4edcdf54b9b",
+      "source": "PANews",
+      "published": "2026-11-06T03:25:32+08:00",
+      "summary": "PANews 11月6日消息，据美国商品期货交易委员会（CFTC）官方声明，CFTC清算和风险部门发布一封不采取行动函，明确衍生品清算机构（DCO）可以使用信托公司与清算成员进行日常结算，前提是须按照CFTC的适用要求，将相关信托公司视同结…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据美国商品期货交易委员会（CFTC）官方声明，CFTC清算和风险部门发布一封不采取行动函，明确衍生品清算机构（DCO）可以使用信托公司与清算成员进行日常结算，前提是须按照CFTC的适用要求，将相关信托公司视同结算银行对待。</p>"
+    },
+    {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T03:02:19+08:00",
+      "summary": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, w…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png",
+      "image_local": "assets/newsbot/img/cc5771eaa1770bfe.jpg",
+      "content": "<p></p><p>SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full.</p>"
+    },
+    {
+      "title": "欧洲最大资管机构Amundi在以太坊推出代币化股票指数基金份额",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad10-8875-7649-bb65-155190e919ae",
+      "source": "PANews",
+      "published": "2026-11-06T02:55:04+08:00",
+      "summary": "PANews 11月6日消息，据Cointelegraph报道，欧洲最大资产管理公司Amundi在以太坊上为其STOXX Europe 600股票指数基金推出代币化份额，代币化基础设施由欧洲资产服务公司CACEIS提供。STOXX Euro…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据Cointelegraph报道，欧洲最大资产管理公司Amundi在以太坊上为其STOXX Europe 600股票指数基金推出代币化份额，代币化基础设施由欧洲资产服务公司CACEIS提供。STOXX Europe 600指数覆盖欧洲发达市场600家大、中、小盘公司。Amundi表示，该基金仍将通过传统渠道销售，未来计划推出更多代币化基金。此前，Amundi曾于2025年11月推出首个代币化货币市场基金份额。</p>"
+    },
+    {
+      "title": "白宫正审查SEC加密经纪商规则修订提案",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad0e-88c9-77a9-8990-de3ba3a69720",
+      "source": "PANews",
+      "published": "2026-11-06T02:52:53+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，美国白宫管理和预算办公室（OMB）正在审查美国证交会（SEC）一项关于经纪商如何开展数字资产业务的提案，该提案已于本周早些时候提交。SEC发言人表示，SEC预计将审议一项修订经纪交易商财务责任、记…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据彭博社报道，美国白宫管理和预算办公室（OMB）正在审查美国证交会（SEC）一项关于经纪商如何开展数字资产业务的提案，该提案已于本周早些时候提交。SEC发言人表示，SEC预计将审议一项修订经纪交易商财务责任、记录保存及报告要求的提案，以明确上述规则对加密资产的适用方式。此外，美国商品期货交易委员会（CFTC）本周也向OMB提交了另一项提案，拟加强预测市场的消费者保护措施。</p>"
+    },
+    {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T02:32:45+08:00",
+      "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png",
+      "image_local": "assets/newsbot/img/b371e76352283d85.jpg",
+      "content": "<p></p><p>US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.</p>"
+    },
+    {
+      "title": "Claude推出个人财务功能，可通过Plaid连接银行账户",
+      "url": "https://www.panewslab.com/zh/articles/01a1acf3-d602-75a2-a30e-c7e491250c6f",
+      "source": "PANews",
+      "published": "2026-11-06T02:23:43+08:00",
+      "summary": "PANews 11月6日消息，Anthropic旗下Claude官方账号在X平台发帖称，Claude推出个人财务（Personal Finance）功能，目前在美国以测试版形式向Pro、Max和Ultra订阅用户逐步开放。用户可通过Plai…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，Anthropic旗下Claude官方账号在X平台发帖称，Claude推出个人财务（Personal Finance）功能，目前在美国以测试版形式向Pro、Max和Ultra订阅用户逐步开放。用户可通过Plaid连接自选的银行和信用卡账户，用日常语言询问余额、支出和账单等问题。</p> <p>据TechCrunch报道，该功能为只读权限，无法转移、管理或投资资金，Claude可查看最多两年的交易记录，个人财务相关对话不会用于模型训练。Anthropic称，该功能不含广告或赞助推荐，也并非用于提供投资建议。</p>"
+    },
+    {
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T02:09:38+08:00",
+      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png",
+      "image_local": "assets/newsbot/img/88ed3b08cc89577f.jpg",
+      "content": "<p></p><p>The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets. </p>"
+    },
+    {
+      "title": "无人机配送公司Zipline估值达215亿美元，Paradigm等领投",
+      "url": "https://www.panewslab.com/zh/articles/01a1acd9-64ee-76f9-9122-b4a4fca4e862",
+      "source": "PANews",
+      "published": "2026-11-06T01:54:50+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，无人机配送公司Zipline完成15亿美元新一轮融资，投后估值达215亿美元，约为今年1月76亿美元估值的2.8倍。本轮由Paradigm、WCM Investment Management、La…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据彭博社报道，无人机配送公司Zipline完成15亿美元新一轮融资，投后估值达215亿美元，约为今年1月76亿美元估值的2.8倍。本轮由Paradigm、WCM Investment Management、Layer Global领投，Valor Equity Partners、富达（Fidelity Management &amp; Research Company）、Uber、Tiger Global、摩根大通、ARK Invest、Salesforce Ventures参投，资金将用于美国本土制造和招聘。此外，沃尔玛与Zipline签署全国性多年协议，将新增300个无人机配送站点。</p>"
+    },
+    {
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T01:40:25+08:00",
+      "summary": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s co…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PC0KXVM1KKT7EEB7A24X5R/hi-bitcoin-a-property-as-of-paraguay.png",
+      "image_local": "assets/newsbot/img/c204edab089e1b48.jpg",
+      "content": "<p></p><p>Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds.</p>"
+    },
+    {
+      "title": "谷歌发布视频模型Gemini Omni 1.2 Flash，成本降低30%",
+      "url": "https://www.panewslab.com/zh/articles/01a1acc0-a3a7-73ac-b74e-4ba3d789c229",
+      "source": "PANews",
+      "published": "2026-11-06T01:27:48+08:00",
+      "summary": "PANews 11月6日消息，Google AI Studio在X平台发帖称，谷歌推出Gemini Omni 1.2 Flash，现已在AI Studio和Gemini API上线。新版本生成速度更快、成本降低30%，支持更长的视频片段、在…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，Google AI Studio在X平台发帖称，谷歌推出Gemini Omni 1.2 Flash，现已在AI Studio和Gemini API上线。新版本生成速度更快、成本降低30%，支持更长的视频片段、在对话中编辑，语音更自然，镜头也更可控。</p>"
+    }
+  ]
+}

@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T18:31:42.769975+08:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:47:05.029361+08:00",
   "items": [
     {
-      "title": "某交易员做多原油亏损582万美元，在Hyperliquid平台累计亏损达1379万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab40-0b2b-7752-a248-ef788cc3cba3",
+      "title": "Anza建议Solana验证者紧急升级至Agave 4.4.1，否则将被分叉",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2f-4a97-70a9-9531-81567a62fdf1",
       "source": "PANews",
-      "published": "2026-11-05T18:27:43+08:00",
-      "summary": "PANews 11月5日消息，据 Onchain Lens 监测，一位交易员平仓了一笔价值 5660 万美元的 CL（WTI 原油）多单，亏损 582 万美元。该钱包目前仍持有一笔价值 9570 万美元的布伦特原油（Brent）杠杆多单，另…",
+      "published": "2026-11-06T03:28:40+08:00",
+      "summary": "PANews 11月6日消息，Solana开发团队Anza在X平台发帖称，建议Solana主网测试环境（mainnet-beta）验证者紧急升级至Agave 4.4.1版本，否则将被分叉出网络。该版本对loader-v3 ProgramDa…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，据 Onchain Lens 监测，一位交易员平仓了一笔价值 5660 万美元的 CL（WTI 原油）多单，亏损 582 万美元。该钱包目前仍持有一笔价值 9570 万美元的布伦特原油（Brent）杠杆多单，另有 706 万美元的未实现亏损。其在 Hyperliquid 平台累计盈亏从盈利 1.84 万美元变为亏损 1379 万美元。</p>"
+      "content": "<p>PANews 11月6日消息，Solana开发团队Anza在X平台发帖称，建议Solana主网测试环境（mainnet-beta）验证者紧急升级至Agave 4.4.1版本，否则将被分叉出网络。该版本对loader-v3 ProgramData账户应用最低加载数据量限制，未安装补丁的节点计划在第1079个epoch（约北京时间11月6日21:30）被分叉出网络。</p>"
     },
     {
-      "title": "GoPlus：Android多版本存在严重漏洞，建议用户检查更新",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab3b-f66d-7153-a124-fc5d9b8c1a75",
+      "title": "谷歌拟斥资170亿美元在美国怀俄明州建设数据中心",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2d-1613-7525-8013-49e64c83feae",
       "source": "PANews",
-      "published": "2026-11-05T18:23:16+08:00",
-      "summary": "PANews 11月5日消息，GoPlus 发布安全提醒，Android 最新安全公告涉及多个严重漏洞，受影响版本包括 Android 14、15、16、16 QPR2 和 17，建议用户检查设备并及时安装厂商提供的系统更新。",
+      "published": "2026-11-06T03:26:15+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，谷歌在博客中表示，将斥资170亿美元在美国怀俄明州拉勒米县建设数据中心，这将是其在该州的首个数据中心，谷歌将承担该数据中心的全部电力费用。该项目部分电力将来自一座采用Bloom Energy燃料电…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，GoPlus 发布安全提醒，Android 最新安全公告涉及多个严重漏洞，受影响版本包括 Android 14、15、16、16 QPR2 和 17，建议用户检查设备并及时安装厂商提供的系统更新。</p>"
+      "content": "<p>PANews 11月6日消息，据彭博社报道，谷歌在博客中表示，将斥资170亿美元在美国怀俄明州拉勒米县建设数据中心，这将是其在该州的首个数据中心，谷歌将承担该数据中心的全部电力费用。该项目部分电力将来自一座采用Bloom Energy燃料电池的702兆瓦天然气燃料电池电站。报道称，在本周举行的美国中期选举中，选民在41项相关地方公投中有40项支持限制数据中心建设。</p>"
     },
     {
-      "title": "Binance Wallet调整PREDICT空投发放规则，未发放批次将在上线后合并发放",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab38-eaea-707b-821d-dd463f48dfdc",
+      "title": "CFTC允许衍生品清算机构通过信托公司进行日常结算",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad2c-6ea1-7618-b092-e4edcdf54b9b",
       "source": "PANews",
-      "published": "2026-11-05T18:19:56+08:00",
-      "summary": "PANews 11月5日消息，Binance Wallet 发布 $PREDICT 空投批次合并通知，原定的五个发放日期（即 $PREDICT 上线日、2026 年 11 月 6 日、11 月 13 日、11 月 20 日和 11 月 27…",
+      "published": "2026-11-06T03:25:32+08:00",
+      "summary": "PANews 11月6日消息，据美国商品期货交易委员会（CFTC）官方声明，CFTC清算和风险部门发布一封不采取行动函，明确衍生品清算机构（DCO）可以使用信托公司与清算成员进行日常结算，前提是须按照CFTC的适用要求，将相关信托公司视同结…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，Binance Wallet 发布 $PREDICT 空投批次合并通知，原定的五个发放日期（即 $PREDICT 上线日、2026 年 11 月 6 日、11 月 13 日、11 月 20 日和 11 月 27 日）及其对应的问卷提交截止日期均保持不变。</p> <p>若 $PREDICT 在上述任一预定发放日期之后上线，则该批次及此前尚未发放的所有批次将合并，并在代币上线后的首批发放中一并进行分发。用户无需重新提交问卷。各批次的获取资格仍将依据其原定的问卷提交截止日期进行判定。</p>"
+      "content": "<p>PANews 11月6日消息，据美国商品期货交易委员会（CFTC）官方声明，CFTC清算和风险部门发布一封不采取行动函，明确衍生品清算机构（DCO）可以使用信托公司与清算成员进行日常结算，前提是须按照CFTC的适用要求，将相关信托公司视同结算银行对待。</p>"
     },
     {
-      "title": "Gate 首创 PoSEC 资金安全证明，冷存储覆盖率达 104.58% 强化安全保障",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab33-18a6-7383-aca1-242f8e9550ef",
-      "source": "PANews",
-      "published": "2026-11-05T18:13:35+08:00",
-      "summary": "PANews 11月5日消息，据官方公告，Gate 正式推出全新资金安全证明 (Proof of Security, PoSEC)，成为行业首家提出 PoSEC 安全证明体系的数字资产交易平台，将安全验证从储备金充足性延伸至资产存储结构与风…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，据官方公告，Gate 正式推出全新资金安全证明 (Proof of Security, PoSEC)，成为行业首家提出 PoSEC 安全证明体系的数字资产交易平台，将安全验证从储备金充足性延伸至资产存储结构与风险保障。</p> <p>据 Gate 官方页面披露，截至 11 月 4 日 08:00 (UTC+8) 快照，平台冷存储覆盖率达 104.58%，冷存储与热钱包资产占比分别为 88.26% 和 11.74%，意味着按相应统计口径，即使热钱包资产全部损失，冷存储仍可覆盖全部用户资产。目前，本期数据正由独立第三方审计机构核验，报告完成后将在官网公布。</p> <p>2020 年，Gate 率先推出开源储备金证明 (PoR) 相关方案，此后持续强化涵盖冷热钱包分离、多重签名、多方安全计算 (MPC) 及动态风险监控等机制的多层次安全体系。此次首创 PoSEC，进一步将资金安全验证从储备充足性延伸至存储安全与极端风险覆盖能力，为行业建立更全面、透明的资金安全标准提供新的实践路径。</p>"
-    },
-    {
-      "title": "资管机构Amundi与CACEIS合作推出AMUNDI FUNDS CASH EUR代币化份额",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab25-6aec-7439-a3ab-3ac659e8673c",
-      "source": "PANews",
-      "published": "2026-11-05T17:58:38+08:00",
-      "summary": "PANews 11月5日消息，欧洲资管机构 Amundi 与 CACEIS 合作，为其旗下的“AMUNDI FUNDS CASH EUR”货币市场基金推出了首个代币化份额。该基金采用混合分销模式：投资者既可通过传统渠道进行投资，也能通过代币…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，欧洲资管机构 Amundi 与 CACEIS 合作，为其旗下的“AMUNDI FUNDS CASH EUR”货币市场基金推出了首个代币化份额。该基金采用混合分销模式：投资者既可通过传统渠道进行投资，也能通过代币化份额“AMUNDI FUNDS CASH EUR - J28 EUR DLT (C)”进行认购。该解决方案利用公共以太坊区块链上的分布式账本技术，确保了基金份额记录的透明度，并增强了交易的可追溯性。</p>"
-    },
-    {
-      "title": "币贝积分首期「元点」上线首日，逾 1.4 万名用户获得积分",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab19-f15b-76de-ad84-04627511cd4d",
-      "source": "PANews",
-      "published": "2026-11-05T17:46:06+08:00",
-      "summary": "PANews 11月5日消息，据官方数据，数字资产交易平台币贝（Bitbase）积分体系「币贝积分」首期——「元点」（ORIGIN）于 11 月 4 日开启，首日共有 14,161 名用户获得积分。截至目前，币贝已累计发放积分超过 600…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，据官方数据，数字资产交易平台币贝（Bitbase）积分体系「币贝积分」首期——「元点」（ORIGIN）于 11 月 4 日开启，首日共有 14,161 名用户获得积分。截至目前，币贝已累计发放积分超过 600 万，其中包括此前向已有用户发放的 Alpha 积分。元点为期 26 周，每周发放 100 万积分，所有币贝用户自动参与，无需报名。</p>"
-    },
-    {
-      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-05T17:35:29+08:00",
-      "summary": "South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asse…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png",
-      "image_local": "assets/newsbot/img/773b2d13c73768dc.jpg",
-      "content": "<p></p><p>South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.</p>"
+      "published": "2026-11-06T03:02:19+08:00",
+      "summary": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, w…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png",
+      "image_local": "assets/newsbot/img/cc5771eaa1770bfe.jpg",
+      "content": "<p></p><p>SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full.</p>"
     },
     {
-      "title": "法国预算案遭否决，稳定币征税及自托管钱包申报相关条款被搁置",
-      "url": "https://www.panewslab.com/zh/articles/01a1ab08-7c4d-718c-8663-cf642252b94a",
+      "title": "欧洲最大资管机构Amundi在以太坊推出代币化股票指数基金份额",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad10-8875-7649-bb65-155190e919ae",
       "source": "PANews",
-      "published": "2026-11-05T17:27:02+08:00",
-      "summary": "PANews 11月5日消息，据 Cointelegraph 报道，法国国民议会于周三晚间否决了 2027 年国家预算案中的“收入”部分，导致此前已纳入法案的三项加密货币相关修正案被剔除，不再包含在即将提交给参议院的法案版本中，但未来仍有可…",
+      "published": "2026-11-06T02:55:04+08:00",
+      "summary": "PANews 11月6日消息，据Cointelegraph报道，欧洲最大资产管理公司Amundi在以太坊上为其STOXX Europe 600股票指数基金推出代币化份额，代币化基础设施由欧洲资产服务公司CACEIS提供。STOXX Euro…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，据 Cointelegraph 报道，法国国民议会于周三晚间否决了 2027 年国家预算案中的“收入”部分，导致此前已纳入法案的三项加密货币相关修正案被剔除，不再包含在即将提交给参议院的法案版本中，但未来仍有可能在参议院审议阶段被重新提出。</p> <p>国民议会曾通过了三项与加密货币相关的修正案。10月16日，议员们通过了一项修正案，规定将加密货币兑换为稳定币所产生的收益纳入征税范围。周二，议员们又通过了另一项修正案，要求纳税人申报其持有的自托管加密资产；若总额达到或超过10万欧元（约合11.2万美元），即需申报。该门槛的评估基准日为纳税年度的12月31日。此外，还有一项修正案提出，若加密货币平台未能按税务机关要求提供相关信息，其面临的罚款金额将从1万欧元提高至5万欧元。</p>"
+      "content": "<p>PANews 11月6日消息，据Cointelegraph报道，欧洲最大资产管理公司Amundi在以太坊上为其STOXX Europe 600股票指数基金推出代币化份额，代币化基础设施由欧洲资产服务公司CACEIS提供。STOXX Europe 600指数覆盖欧洲发达市场600家大、中、小盘公司。Amundi表示，该基金仍将通过传统渠道销售，未来计划推出更多代币化基金。此前，Amundi曾于2025年11月推出首个代币化货币市场基金份额。</p>"
     },
     {
-      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
-      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "白宫正审查SEC加密经纪商规则修订提案",
+      "url": "https://www.panewslab.com/zh/articles/01a1ad0e-88c9-77a9-8990-de3ba3a69720",
+      "source": "PANews",
+      "published": "2026-11-06T02:52:53+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，美国白宫管理和预算办公室（OMB）正在审查美国证交会（SEC）一项关于经纪商如何开展数字资产业务的提案，该提案已于本周早些时候提交。SEC发言人表示，SEC预计将审议一项修订经纪交易商财务责任、记…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据彭博社报道，美国白宫管理和预算办公室（OMB）正在审查美国证交会（SEC）一项关于经纪商如何开展数字资产业务的提案，该提案已于本周早些时候提交。SEC发言人表示，SEC预计将审议一项修订经纪交易商财务责任、记录保存及报告要求的提案，以明确上述规则对加密资产的适用方式。此外，美国商品期货交易委员会（CFTC）本周也向OMB提交了另一项提案，拟加强预测市场的消费者保护措施。</p>"
+    },
+    {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-05T17:04:42+08:00",
-      "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg",
-      "image_local": "assets/newsbot/img/3ed8a602f90cad72.jpg",
-      "content": "<p></p><p>Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.</p>"
+      "published": "2026-11-06T02:32:45+08:00",
+      "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png",
+      "image_local": "assets/newsbot/img/b371e76352283d85.jpg",
+      "content": "<p></p><p>US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.</p>"
     },
     {
-      "title": "Genius推出由费用支持的代币回购机制，首先从GSTOCK代币开始",
-      "url": "https://www.panewslab.com/zh/articles/01a1aaf3-0384-7041-b15b-3b535dd73626",
+      "title": "Claude推出个人财务功能，可通过Plaid连接银行账户",
+      "url": "https://www.panewslab.com/zh/articles/01a1acf3-d602-75a2-a30e-c7e491250c6f",
       "source": "PANews",
-      "published": "2026-11-05T17:03:35+08:00",
-      "summary": "PANews 11月5日消息，链上交易终端Genius在X平台发文称，其已在Genius.fun推出由费用支持的代币回购机制，该机制首先从GSTOCK代币开始。针对GSTOCK交易对，Genius基金会产生费用的20%将用于回购。此外，市值…",
+      "published": "2026-11-06T02:23:43+08:00",
+      "summary": "PANews 11月6日消息，Anthropic旗下Claude官方账号在X平台发帖称，Claude推出个人财务（Personal Finance）功能，目前在美国以测试版形式向Pro、Max和Ultra订阅用户逐步开放。用户可通过Plai…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，链上交易终端Genius在X平台发文称，其已在Genius.fun推出由费用支持的代币回购机制，该机制首先从GSTOCK代币开始。针对GSTOCK交易对，Genius基金会产生费用的20%将用于回购。此外，市值超过200万美元的其他代币也可以申请采用相同模式进行回购。</p>"
+      "content": "<p>PANews 11月6日消息，Anthropic旗下Claude官方账号在X平台发帖称，Claude推出个人财务（Personal Finance）功能，目前在美国以测试版形式向Pro、Max和Ultra订阅用户逐步开放。用户可通过Plaid连接自选的银行和信用卡账户，用日常语言询问余额、支出和账单等问题。</p> <p>据TechCrunch报道，该功能为只读权限，无法转移、管理或投资资金，Claude可查看最多两年的交易记录，个人财务相关对话不会用于模型训练。Anthropic称，该功能不含广告或赞助推荐，也并非用于提供投资建议。</p>"
     },
     {
-      "title": "$U联合币安推出限时理财加息活动，综合APR最高达 10%",
-      "url": "https://www.panewslab.com/zh/articles/01a1aadd-c19f-7046-9de7-6fd7dcd9e556",
-      "source": "PANews",
-      "published": "2026-11-05T16:40:22+08:00",
-      "summary": "PANews 11月5日消息，U（United Stables）联合 Binance 宣布推出 $U 活期理财限时加息活动，活动时间为北京时间 2026 年 11 月 5 日 16:00 至 11 月 25 日 07:59。 活动期间，普通…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，U（United Stables）联合 Binance 宣布推出 $U 活期理财限时加息活动，活动时间为北京时间 2026 年 11 月 5 日 16:00 至 11 月 25 日 07:59。</p> <p>活动期间，普通用户及 VIP 用户申购 $U 活期理财产品，除基础实时收益外，还可获得额外阶梯加息奖励，最高加息 9%，综合年化收益率（APR）最高可达 10%。</p> <p>本次活动根据用户等级设置不同的加息额度：普通用户可申购 0 至 10,000 $U，享受额外 7% 加息；VIP 1 至 VIP 3 用户可申购 0 至 300,000 $U，享受额外 8% 加息；VIP 4 至 VIP 9 用户可申购 0 至 500,000 $U，享受额外 9% 加息。活动额度有限，按照先到先得原则发放，达到额度上限后将不再接受额外申购。</p>"
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T02:09:38+08:00",
+      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png",
+      "image_local": "assets/newsbot/img/88ed3b08cc89577f.jpg",
+      "content": "<p></p><p>The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets. </p>"
     },
     {
-      "title": "美OFAC制裁朝鲜IT工作者网络，慢雾披露相关链上资金关联",
-      "url": "https://www.panewslab.com/zh/articles/01a1aad4-dcb2-777d-abce-aa749f6dc026",
+      "title": "无人机配送公司Zipline估值达215亿美元，Paradigm等领投",
+      "url": "https://www.panewslab.com/zh/articles/01a1acd9-64ee-76f9-9122-b4a4fca4e862",
       "source": "PANews",
-      "published": "2026-11-05T16:30:39+08:00",
-      "summary": "PANews 11月5日消息，据慢雾披露，美国财政部外国资产控制办公室（OFAC）制裁了与朝鲜IT工作者网络相关的10名个人和1个实体。慢雾使用MistTrack分析了被列出的加密地址，并发现多条链上关联：Boykov与Obertas之间…",
+      "published": "2026-11-06T01:54:50+08:00",
+      "summary": "PANews 11月6日消息，据彭博社报道，无人机配送公司Zipline完成15亿美元新一轮融资，投后估值达215亿美元，约为今年1月76亿美元估值的2.8倍。本轮由Paradigm、WCM Investment Management、La…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月5日消息，据慢雾披露，美国财政部外国资产控制办公室（OFAC）制裁了与朝鲜IT工作者网络相关的10名个人和1个实体。慢雾使用MistTrack分析了被列出的加密地址，并发现多条链上关联：Boykov与Obertas之间，OFAC将同一个以太坊地址列在两人名下；Boykov向该地址转移了约988万美元，其两个TRON地址还向Obertas名下的一个地址合计发送了166万USDT。Boykov与Kim Ki Hyok之间，两人的以太坊地址都向同一个Bybit充值地址发送资金，其中Boykov约400万美元，Kim Ki Hyok为5万DAI。</p> <p>慢雾指出，朝鲜IT工作者带来的风险不仅限于金融活动。他们可能利用虚假身份获取公司设备、内部系统和敏感数据。慢雾建议企业核实员工身份、监控公司设备使用情况，并谨慎管理系统访问权限。</p>"
+      "content": "<p>PANews 11月6日消息，据彭博社报道，无人机配送公司Zipline完成15亿美元新一轮融资，投后估值达215亿美元，约为今年1月76亿美元估值的2.8倍。本轮由Paradigm、WCM Investment Management、Layer Global领投，Valor Equity Partners、富达（Fidelity Management &amp; Research Company）、Uber、Tiger Global、摩根大通、ARK Invest、Salesforce Ventures参投，资金将用于美国本土制造和招聘。此外，沃尔玛与Zipline签署全国性多年协议，将新增300个无人机配送站点。</p>"
+    },
+    {
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T01:40:25+08:00",
+      "summary": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s co…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PC0KXVM1KKT7EEB7A24X5R/hi-bitcoin-a-property-as-of-paraguay.png",
+      "image_local": "assets/newsbot/img/c204edab089e1b48.jpg",
+      "content": "<p></p><p>Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds.</p>"
+    },
+    {
+      "title": "谷歌发布视频模型Gemini Omni 1.2 Flash，成本降低30%",
+      "url": "https://www.panewslab.com/zh/articles/01a1acc0-a3a7-73ac-b74e-4ba3d789c229",
+      "source": "PANews",
+      "published": "2026-11-06T01:27:48+08:00",
+      "summary": "PANews 11月6日消息，Google AI Studio在X平台发帖称，谷歌推出Gemini Omni 1.2 Flash，现已在AI Studio和Gemini API上线。新版本生成速度更快、成本降低30%，支持更长的视频片段、在…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，Google AI Studio在X平台发帖称，谷歌推出Gemini Omni 1.2 Flash，现已在AI Studio和Gemini API上线。新版本生成速度更快、成本降低30%，支持更长的视频片段、在对话中编辑，语音更自然，镜头也更可控。</p>"
     }
   ]
 }
