@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 币圈实时快讯与行业动态汇总 - Web3 导航</title>
+    <meta name="description" content="精选全网加密货币行业核心动态、政策风向与项目进展，7x24h 持续更新的区块链快讯中心。">
+    <style>
+        :root {
+            --bg: #ffffff;
+            --text: #121212;
+            --border: #e6e8eb;
+            --card-bg: #f7f9fa;
+            --accent: #2752e7;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0b0e11;
+                --text: #eaecef;
+                --border: #262930;
+                --card-bg: #161a1f;
+                --accent: #4a72ff;
+            }
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.75;
+        }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        
+        .header-bar {
+            border-bottom: 1px solid var(--border);
+            padding: 12px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: var(--bg);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .nav-links { display: flex; gap: 10px; font-size: 0.85rem; align-items: center; }
+        .nav-links a { color: var(--text); padding: 4px 8px; border-radius: 4px; transition: background 0.2s; }
+        .nav-links a:hover { background: var(--card-bg); color: var(--accent); text-decoration: none; }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 36px 20px 80px;
+        }
+        h1 { font-size: 1.85rem; font-weight: 800; margin-bottom: 12px; }
+        .subtitle { color: #666; font-size: 0.95rem; margin-bottom: 30px; }
+        
+        .news-list { display: flex; flex-direction: column; gap: 16px; }
+        .news-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 20px;
+            transition: transform 0.2s;
+        }
+        .news-card:hover { transform: translateY(-2px); }
+        .news-date { font-size: 0.82rem; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+        .news-title { font-size: 1.15rem; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+        .news-desc { font-size: 0.9rem; color: #666; }
+
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 24px 0;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #777;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header-bar">
+        <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
+        <nav class="nav-links">
+            <a href="./index.html">首页</a>
+            <a href="./article-usstock.html">美股直购</a>
+            <a href="./news.html">币圈快讯</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>🔥 币圈实时快讯中心</h1>
+        <p class="subtitle">汇集每日加密货币市场核心动态、板块轮动与项目最新进展，支持 7x24h 自动化追踪归档。</p>
+
+        <div class="news-list" id="news-container">
+            <div class="news-card">
+                <div class="news-date">2026-11-06</div>
+                <div class="news-title"><a href="./news-2026-11-06.html">今日行业焦点与市场行情观察</a></div>
+                <div class="news-desc">查看 2026 年 11 月 6 日由自动化脚本归档的加密货币市场全景快讯与深度解析。</div>
+            </div>
+        </div>
+
+        <footer>
+            <p>© 2026 Web3 Exchange Guide. 自动化快讯聚合系统持续运行中。</p>
+        </footer>
+    </div>
+
+</body>
+</html>
