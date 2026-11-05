@@ -40,11 +40,14 @@ jobs:
           pip install requests feedparser jinja2 pillow
 
       - name: 运行快讯采集脚本
-        # 数据源全挂时脚本退出码为 1，这一步不让整个任务红掉，
-        # 因为降级页面（复用上一次快照）仍然需要提交上去
+        # 数据源全挂时脚本退出码为 1，但降级页面（复用上一次快照）仍要提交上去，
+        # 所以这里先记录退出码、不中断流程，等提交完再统一判定成败
         continue-on-error: true
         run: |
+          set +e
           python generate_news.py -v
+          echo "FETCH_EXIT=$?" >> "$GITHUB_ENV"
+          exit 0
 
       - name: 提交并推送到仓库
         env:
@@ -60,3 +63,15 @@ jobs:
           fi
           git commit -m "🤖 自动更新今日币圈快讯 [skip ci]"
           git push origin main || (git pull --rebase origin main && git push origin main)
+
+      - name: 检查抓取结果
+        # 放在提交之后：页面已更新完毕，若抓取异常则把任务标红并触发 GitHub 邮件通知，
+        # 避免"数据源全挂、页面悄悄沿用旧内容"却没人发现
+        if: always()
+        run: |
+          code="${FETCH_EXIT:-0}"
+          if [ "$code" != "0" ]; then
+            echo "::error::采集脚本退出码 $code（通常为数据源全部失败），本次已使用上一次快照，页面仍已更新"
+            exit 1
+          fi
+          echo "✅ 采集正常，退出码 0"
