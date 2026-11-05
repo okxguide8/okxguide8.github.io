@@ -9,13 +9,150 @@
   <link rel="icon" href="https://static.okx.com/cdn/assets/imgs/247/E0C93876B46114EB.png">
   
   <style>
-    :root { --bg: #ffffff; --text: #121212; --border: #e6e8eb; --card-bg: #f7f9fa; --primary: #000000; --accent: #2752e7; --danger: #eb4d4b; --success: #00b894; }
-    @media (prefers-color-scheme: dark) { :root { --bg: #0b0e11; --text: #eaecef; --border: #262930; --card-bg: #161a1f; --primary: #ffffff; --accent: #4a72ff; --danger: #ff6b6b; --success: #55efc4; } }
+    :root { 
+      --bg: #ffffff; 
+      --text: #121212; 
+      --border: #e6e8eb; 
+      --card-bg: #f7f9fa; 
+      --primary: #000000; 
+      --accent: #2752e7; 
+      --danger: #eb4d4b; 
+      --success: #00b894; 
+    }
+    @media (prefers-color-scheme: dark) { 
+      :root { 
+        --bg: #0b0e11; 
+        --text: #eaecef; 
+        --border: #262930; 
+        --card-bg: #161a1f; 
+        --primary: #ffffff; 
+        --accent: #4a72ff; 
+        --danger: #ff6b6b; 
+        --success: #55efc4; 
+      } 
+    }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.8; }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .header-bar { border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; background: var(--bg); position: sticky; top: 0; z-index: 100; }
+
+    /* 现代化响应式导航栏 + 下拉菜单 */
+    .header-bar {
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--bg);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .logo {
+      font-weight: 800;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 1.05rem;
+    }
+    .nav-links {
+      display: flex;
+      gap: 15px;
+      font-size: 0.9rem;
+      align-items: center;
+    }
+    .nav-links a {
+      color: var(--text);
+      text-decoration: none;
+      padding: 6px 10px;
+      border-radius: 4px;
+      transition: background 0.2s, color 0.2s;
+    }
+    .nav-links a:hover {
+      background: var(--card-bg);
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* 下拉菜单样式 (PC端) */
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    .dropdown-btn {
+      color: var(--text);
+      padding: 6px 10px;
+      border: none;
+      background: transparent;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: var(--bg);
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.12);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 0;
+      z-index: 101;
+    }
+    .dropdown-content a {
+      display: block;
+      padding: 8px 16px;
+      font-size: 0.85rem;
+      border-radius: 0;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    /* 移动端汉堡菜单按钮 */
+    .menu-toggle {
+      display: none;
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: 1.2rem;
+      padding: 4px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    /* 响应式断点：手机端折叠菜单 */
+    @media (max-width: 860px) {
+      .menu-toggle { display: block; }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background: var(--bg);
+        position: absolute;
+        top: 100%;
+        left: 0;
+        border-bottom: 1px solid var(--border);
+        padding: 15px 20px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        align-items: flex-start;
+      }
+      .nav-links.active { display: flex; }
+      .nav-links a, .dropdown { width: 100%; }
+      .dropdown-content {
+        position: static;
+        box-shadow: none;
+        border: none;
+        padding-left: 15px;
+        display: block;
+        background: var(--card-bg);
+        border-radius: 4px;
+        margin-top: 4px;
+      }
+      .dropdown-btn { display: none; }
+    }
+
     .container { max-width: 820px; margin: 0 auto; padding: 32px 20px 80px; }
     .btn-main { display: block; width: 100%; max-width: 400px; margin: 20px auto; background: var(--primary); color: var(--bg) !important; font-weight: 700; padding: 14px 24px; border-radius: 8px; text-align: center; text-decoration: none !important; font-size: 1.05rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
     .btn-main:hover { opacity: 0.88; transform: translateY(-1px); }
@@ -34,18 +171,30 @@
   </style>
 </head>
 <body>
+  <!-- 统一升级后的响应式导航栏 -->
   <header class="header-bar">
-  <a href="./index.html" style="font-weight: 800; color: var(--text); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
-  <nav class="nav-links">
-    <a href="./article-kyc.html">KYC认证</a>
-    <a href="./article-ios.html" style="color: var(--accent); font-weight: bold;">欧易下载</a>
-    <a href="./article-binance.html">币安下载</a>
-    <a href="./article-htx.html">HTX指南</a>
-    <a href="./article-bitget.html">Bitget指南</a>
-    <a href="./article-bybit.html">Bybit指南</a>
-    <a href="./article-deposit.html">防冻卡</a>
-  </nav>
-</header>
+    <a href="./index.html" class="logo">⬛ 交易所矩阵首页</a>
+    <button class="menu-toggle" onclick="toggleMenu()" aria-label="切换导航菜单">☰</button>
+    <nav class="nav-links" id="navLinks">
+      <a href="./index.html">首页</a>
+      <a href="./news.html">币圈快讯</a>
+      <a href="./article-usstock.html">美股教程</a>
+      
+      <!-- 下拉选单 (PC端下拉，手机端展开) -->
+      <div class="dropdown">
+        <button class="dropdown-btn">新手指南 ▼</button>
+        <div class="dropdown-content">
+          <a href="./article-kyc.html">KYC 认证</a>
+          <a href="./article-ios.html" style="color: var(--accent); font-weight: bold;">iOS 下载</a>
+          <a href="./article-deposit.html">防冻卡教程</a>
+          <a href="./article-binance.html">币安指南</a>
+          <a href="./article-htx.html">HTX 指南</a>
+          <a href="./article-bitget.html">Bitget 指南</a>
+          <a href="./article-bybit.html">Bybit 指南</a>
+        </div>
+      </div>
+    </nav>
+  </header>
 
   <div class="container">
     <h1>国内苹果 iPhone 如何下载欧易 OKX App？（2026 避坑小白通关教程）</h1>
@@ -128,6 +277,12 @@
   </div>
 
   <script>
+    // 移动端折叠菜单控制
+    function toggleMenu() {
+      const navLinks = document.getElementById('navLinks');
+      navLinks.classList.toggle('active');
+    }
+
     // 自动从根目录的 config.json 中读取 OKX 的最新中转链接
     fetch('config.json')
       .then(res => res.json())
@@ -139,8 +294,10 @@
         }
       })
       .catch(err => console.error('加载返佣链接失败:', err));
-  </script><!-- Cloudflare Web Analytics -->
-<script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3362b8fb46f34a19b1c3065107f93fb7"}'></script>
-<!-- End Cloudflare Web Analytics -->
+  </script>
+  
+  <!-- Cloudflare Web Analytics -->
+  <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3362b8fb46f34a19b1c3065107f93fb7"}'></script>
+  <!-- End Cloudflare Web Analytics -->
 </body>
 </html>
