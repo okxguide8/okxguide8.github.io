@@ -28,10 +28,11 @@ jobs:
 
       - name: 提交并推送到仓库
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/okxguide8/okxguide8.github.io.git
           git add .
           git commit -m "🤖 自动更新今日币圈快讯 [skip ci]" || exit 0
-          git push
+          git push origin main
