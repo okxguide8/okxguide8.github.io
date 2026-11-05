@@ -6,7 +6,7 @@ import glob
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 filename = f"news-{today}.html"
 
-# 1. 生成今日快讯 HTML 内容
+# 1. 生成今日快讯 HTML 内容（内含详情区块与交易所返佣转化组件）
 html_content = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -22,6 +22,12 @@ html_content = f"""<!DOCTYPE html>
         .news-time {{ font-size: 12px; color: #64748b; margin-bottom: 6px; }}
         .news-title {{ font-size: 1.1rem; font-weight: bold; color: #0f172a; margin-bottom: 8px; }}
         .news-desc {{ font-size: 0.95rem; color: #475569; }}
+        .affiliate-box {{ background: linear-gradient(135deg, #1e293b, #0f172a); color: #fff; padding: 25px; border-radius: 12px; margin-top: 30px; text-align: center; }}
+        .affiliate-box h3 {{ margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; }}
+        .affiliate-box p {{ color: #94a3b8; font-size: 0.95rem; margin-bottom: 20px; }}
+        .btn-group {{ display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }}
+        .btn-okx {{ background: #000; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; }}
+        .btn-binance {{ background: #f0b90b; color: #000; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block; }}
     </style>
 </head>
 <body>
@@ -55,8 +61,18 @@ html_content = f"""<!DOCTYPE html>
         </div>
     </div>
 
+    <!-- 交易所返佣转化横幅 -->
+    <div class="affiliate-box">
+        <h3>🚀 抓住 Web3 投资先机，从合规交易所开始</h3>
+        <p>立即注册全球顶尖加密货币交易所，解锁专属手续费折扣与新手福利。</p>
+        <div class="btn-group">
+            <a href="https://www.okx.com/join/N4LJDJWM" target="_blank" class="btn-okx">🔥 注册 OKX (最高返佣)</a>
+            <a href="https://www.binance.com/join?ref=ZV2BH3A6" target="_blank" class="btn-binance">⚡ 注册 Binance (币安)</a>
+        </div>
+    </div>
+
     <footer>
-        <p style="text-align: center; color: #94a3b8; font-size: 0.85rem; margin-top: 40px;">© 2026 Web3 Exchange Guide. 自动采集发布系统运行中。</p>
+        <p style="text-align: center; color: #94a3b8; font-size: 0.85rem; margin-top: 40px;">© 2026 Web3 Exchange Guide. 自动化快讯聚合系统运行中。</p>
     </footer>
 
 </body>
@@ -73,7 +89,6 @@ news_files = sorted(glob.glob("news-*.html"), reverse=True)
 
 list_items_html = ""
 for file in news_files:
-    # 从文件名解析出日期 (news-2026-11-05.html -> 2026-11-05)
     date_str = file.replace("news-", "").replace(".html", "")
     list_items_html += f"""
     <div class="news-box">
@@ -81,7 +96,7 @@ for file in news_files:
         <div>
             <div class="news-time">{date_str} 归档</div>
             <div class="news-title"><a href="./{file}" style="text-decoration: none; color: #2563eb;">{date_str} 币圈实时快讯与行业动态</a></div>
-            <div class="news-desc">点击查看 {date_str} 全网加密货币市场核心动态、行情观察与项目进展完整记录。</div>
+            <div class="news-desc">点击进入阅读 {date_str} 全网加密货币市场核心动态、行情观察与项目进展完整记录。</div>
         </div>
     </div>
     """
@@ -101,6 +116,12 @@ index_html_content = f"""<!DOCTYPE html>
         .news-time {{ font-size: 12px; color: #64748b; margin-bottom: 6px; }}
         .news-title {{ font-size: 1.1rem; font-weight: bold; color: #0f172a; margin-bottom: 8px; }}
         .news-desc {{ font-size: 0.95rem; color: #475569; }}
+        .affiliate-box {{ background: linear-gradient(135deg, #1e293b, #0f172a); color: #fff; padding: 25px; border-radius: 12px; margin-top: 30px; text-align: center; }}
+        .affiliate-box h3 {{ margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; }}
+        .affiliate-box p {{ color: #94a3b8; font-size: 0.95rem; margin-bottom: 20px; }}
+        .btn-group {{ display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }}
+        .btn-okx {{ background: #000; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; }}
+        .btn-binance {{ background: #f0b90b; color: #000; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block; }}
     </style>
 </head>
 <body>
@@ -117,6 +138,16 @@ index_html_content = f"""<!DOCTYPE html>
     <p>汇集每日加密货币市场核心动态、板块轮动与项目最新进展，支持 7x24h 自动化追踪归档。</p>
 
     {list_items_html}
+
+    <!-- 聚合页底部通用返佣横幅 -->
+    <div class="affiliate-box">
+        <h3>🚀 开启 Web3 交易之旅</h3>
+        <p>通过专属邀请链接注册交易所，享受最高手续费返还与新手礼包。</p>
+        <div class="btn-group">
+            <a href="https://www.okx.com/join/N4LJDJWM" target="_blank" class="btn-okx">🔥 注册 OKX (最高返佣)</a>
+            <a href="https://www.binance.com/join?ref=ZV2BH3A6" target="_blank" class="btn-binance">⚡ 注册 Binance (幣安)</a>
+        </div>
+    </div>
 
     <footer>
         <p style="text-align: center; color: #94a3b8; font-size: 0.85rem; margin-top: 40px;">© 2026 Web3 Exchange Guide. 自动化快讯聚合系统运行中。</p>
