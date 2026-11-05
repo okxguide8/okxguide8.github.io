@@ -28,7 +28,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip'
+          # 注意：这里不要写 cache: 'pip'。
+          # 该选项要求仓库里存在 requirements.txt 或 pyproject.toml 才能计算缓存键，
+          # 缺失会直接报 "No file ... matched to [**/requirements.txt or **/pyproject.toml]"。
+          # 这四个包安装只需十几秒，不值得为缓存额外维护一个文件。
 
       - name: 安装依赖
         run: |
