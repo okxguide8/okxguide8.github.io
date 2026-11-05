@@ -62,6 +62,30 @@
     .nav-links a { color: var(--text); padding: 4px 8px; border-radius: 4px; transition: background 0.2s; }
     .nav-links a:hover { background: var(--card-bg); color: var(--accent); text-decoration: none; }
 
+    /* 多语言切换按钮样式 */
+    .lang-switch {
+      display: flex;
+      gap: 4px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px;
+    }
+    .lang-btn {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-size: 0.75rem;
+      padding: 3px 6px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    .lang-btn.active {
+      background: var(--accent);
+      color: #fff;
+    }
+
     .container {
       max-width: 860px;
       margin: 0 auto;
@@ -209,17 +233,18 @@
   </style>
 </head>
 <body>
-  <!-- 统一顶部导航栏（包含完整的 6 大交易所与干货导航） -->
+  <!-- 统一顶部导航栏（写死的导航链接 + 多语言切换开关） -->
   <header class="header-bar">
     <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
     <nav class="nav-links">
-      <a href="./article-kyc.html">KYC认证</a>
-      <a href="./article-ios.html">欧易下载</a>
-      <a href="./article-binance.html">币安下载</a>
-      <a href="./article-htx.html">HTX指南</a>
-      <a href="./article-bitget.html">Bitget指南</a>
-      <a href="./article-bybit.html">Bybit指南</a>
-      <a href="./article-deposit.html">防冻卡</a>
+      <a href="./index.html">首页</a>
+      <a href="./article-usstock.html">美股教程</a>
+      <a href="./news.html">币圈快讯</a>
+      <div class="lang-switch">
+        <button class="lang-btn active" onclick="setLang('zh')">简</button>
+        <button class="lang-btn" onclick="setLang('zht')">繁</button>
+        <button class="lang-btn" onclick="setLang('en')">EN</button>
+      </div>
     </nav>
   </header>
 
@@ -344,6 +369,14 @@
       }).catch(() => {
         alert("复制失败，请手动复制：" + code);
       });
+    }
+
+    // 语言切换预留函数（持久化保存至 localStorage）
+    function setLang(lang) {
+      localStorage.setItem('site_lang', lang);
+      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+      // 后续可在此扩展多语言文本字典替换逻辑
     }
   </script>
 </body>
