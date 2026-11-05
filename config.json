@@ -1,9 +1,4 @@
 {
-  "nav": [
-    { "name": "首页", "url": "/" },
-    { "name": "美股教程", "url": "/article-usstock.html" },
-    { "name": "币圈快讯", "url": "/news.html" }
-  ],
   "okx": {
     "name": "欧易 OKX",
     "badge": "20% 手续费返现",
