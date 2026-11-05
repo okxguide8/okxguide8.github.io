@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2026 OKX 与币安 Binance 直购美股教程</title>
+    <title>2026 欧易 OKX 与币安 Binance 直购美股教程</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
         
@@ -31,36 +31,39 @@
         <button class="lang-btn" onclick="switchLang('en')">English</button>
     </div>
 
-    <!-- 頁面標題 -->
-    <h1 id="title">🚀 告别繁琐出入金！如何用 USDT/USDC 在欧易与币安 7x24h 买美股？</h1>
-
-    <p id="intro">想布局特斯拉（TSLA）、英伟达（NVDA）、苹果（AAPL）或标普 500（SPY），却卡在传统美股券商<strong>出入金困难、电汇手续费高、审核繁琐</strong>的环节？现在，直接用手中的加密货币（USDT / USDC），就能在欧易（OKX）和币安（Binance）一键交易全球核心美股！</p>
+    <!-- 頁面標題與內容 -->
+    <h1 id="title"></h1>
+    <p id="intro"></p>
 
     <div class="box">
-        <h3 id="why-title">💡 为什么选择在加密交易所买美股？</h3>
+        <h3 id="why-title"></h3>
         <ul>
-            <li id="why-1"><strong>零出入金门槛</strong>：无需开立境外银行卡，直接用交易账户里的 USDT / USDC 下单。</li>
-            <li id="why-2"><strong>7×24 小时全天候交易</strong>：不受美股传统开盘时间限制，周末和深夜随时建仓、平仓。</li>
-            <li id="why-3"><strong>零碎股起投</strong>：几美元就能买英伟达，大幅降低散户配置美股巨头的资金门槛。</li>
+            <li id="why-1"></li>
+            <li id="why-2"></li>
+            <li id="why-3"></li>
         </ul>
     </div>
 
-    <h2 id="platform1-title">🛠️ 平台一：欧易（OKX）—— 统一代币化股票（xStocks）</h2>
-    <p id="platform1-desc">极其适合新手，统一账户无需复杂划转，支持 7×24 小时交易，直接用 USDT 计价。</p>
+    <h2 id="platform1-title"></h2>
+    <p id="platform1-desc"></p>
 
-    <h2 id="platform2-title">🛠️ 平台二：币安（Binance）—— 股票代币与资产配置</h2>
-    <p id="platform2-desc">深度极佳，提供 1:1 锚定的股票资产通道，大资金低滑点。</p>
+    <h2 id="platform2-title"></h2>
+    <p id="platform2-desc"></p>
 
-    <h2 id="bonus-title">🎁 读者专属注册福利与通道</h2>
-    <p id="bonus-desc">通过下方专属链接注册并完成首笔交易，即可自动激活<strong>永久交易手续费减免优惠</strong>：</p>
+    <h2 id="bonus-title"></h2>
+    <p id="bonus-desc"></p>
 
-    <div class="btn-container">
-        <a href="https://www.okx.com/join/N4LJDJWM" target="_blank" class="btn btn-okx" id="btn-okx">注册 OKX（邀请码：N4LJDJWM）</a>
-        <a href="https://www.binance.com/zh-CN/register?ref=ZV2BH3A6" target="_blank" class="btn btn-binance" id="btn-binance">注册 币安（邀请码：ZV2BH3A6）</a>
+    <!-- 註冊按鈕區（自動讀取 JSON 中的鏈接與邀請碼） -->
+    <div class="btn-container" id="dynamic-buttons">
+        <!-- JS 會自動在這里渲染 OKX 和 Binance 的按鈕 -->
     </div>
 
-    <!-- 多語言切換 JavaScript 邏輯 -->
     <script>
+        // 全局變量存儲 JSON 數據與當前語言
+        let siteConfig = null;
+        let currentLang = localStorage.getItem('preferred_lang') || 'zh-CN';
+
+        // 多語言文本字典
         const i18n = {
             'zh-CN': {
                 title: '🚀 告别繁琐出入金！如何用 USDT/USDC 在欧易与币安 7x24h 买美股？',
@@ -74,9 +77,7 @@
                 platform2Title: '🛠️ 平台二：币安（Binance）—— 股票代币与资产配置',
                 platform2Desc: '深度极佳，提供 1:1 锚定的股票资产通道，大资金低滑点。',
                 bonusTitle: '🎁 读者专属注册福利与通道',
-                bonusDesc: '通过下方专属链接注册并完成首笔交易，即可自动激活<strong>永久交易手续费减免优惠</strong>：',
-                btnOkx: '注册 OKX（邀请码：N4LJDJWM）',
-                btnBinance: '注册 币安（邀请码：ZV2BH3A6）'
+                bonusDesc: '通过下方专属链接注册并完成首笔交易，即可自动激活<strong>永久交易手续费减免优惠</strong>：'
             },
             'zh-TW': {
                 title: '🚀 告別繁瑣出入金！如何用 USDT/USDC 在歐易與幣安 7x24h 買美股？',
@@ -90,9 +91,7 @@
                 platform2Title: '🛠️ 平台二：幣安（Binance）—— 股票代幣與資產配置',
                 platform2Desc: '深度極佳，提供 1:1 錨定的股票資產通道，大資金低滑點。',
                 bonusTitle: '🎁 讀者專屬註冊福利與通道',
-                bonusDesc: '通過下方專屬鏈接註冊並完成首筆交易，即可自動激活<strong>永久交易手續費減免優惠</strong>：',
-                btnOkx: '註冊 OKX（邀請碼：N4LJDJWM）',
-                btnBinance: '註冊 幣安（邀請碼：ZV2BH3A6）'
+                bonusDesc: '通過下方專屬鏈接註冊並完成首筆交易，即可自動激活<strong>永久交易手續費減免優惠</strong>：'
             },
             'en': {
                 title: '🚀 How to Buy US Stocks 24/7 via OKX & Binance with USDT/USDC',
@@ -106,44 +105,85 @@
                 platform2Title: '🛠️ Platform 2: Binance — Stock Tokens',
                 platform2Desc: 'High liquidity, 1:1 backed asset exposure, low slippage.',
                 bonusTitle: '🎁 Exclusive Referral Benefits',
-                bonusDesc: 'Register via the links below to automatically unlock <strong>lifetime trading fee discounts</strong>:',
-                btnOkx: 'Sign Up OKX (Code: N4LJDJWM)',
-                btnBinance: 'Sign Up Binance (Code: ZV2BH3A6)'
+                bonusDesc: 'Register via the links below to automatically unlock <strong>lifetime trading fee discounts</strong>:'
             }
         };
 
-        function switchLang(lang) {
-            localStorage.setItem('preferred_lang', lang);
-            document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
-            
-            const currentData = i18n[lang];
-            if (!currentData) return;
-
-            document.getElementById('title').innerHTML = currentData.title;
-            document.getElementById('intro').innerHTML = currentData.intro;
-            document.getElementById('why-title').innerHTML = currentData.whyTitle;
-            document.getElementById('why-1').innerHTML = currentData.why1;
-            document.getElementById('why-2').innerHTML = currentData.why2;
-            document.getElementById('why-3').innerHTML = currentData.why3;
-            document.getElementById('platform1-title').innerHTML = currentData.platform1Title;
-            document.getElementById('platform1-desc').innerHTML = currentData.platform1Desc;
-            document.getElementById('platform2-title').innerHTML = currentData.platform2Title;
-            document.getElementById('platform2-desc').innerHTML = currentData.platform2Desc;
-            document.getElementById('bonus-title').innerHTML = currentData.bonusTitle;
-            document.getElementById('bonus-desc').innerHTML = currentData.bonusDesc;
-            document.getElementById('btn-okx').innerText = currentData.btnOkx;
-            document.getElementById('btn-binance').innerText = currentData.btnBinance;
-
-            // Highlight active button
-            const btnIndex = lang === 'zh-CN' ? 0 : (lang === 'zh-TW' ? 1 : 2);
-            document.querySelectorAll('.lang-btn')[btnIndex].classList.add('active');
+        // 頁面加載時先獲取 JSON 數據
+        async function initPage() {
+            try {
+                const response = await fetch('config.json');
+                siteConfig = await response.json();
+            } catch (e) {
+                console.error('無法載入 config.json，將使用備用鏈接', e);
+            }
+            switchLang(currentLang);
         }
 
-        // Initialize language on page load
-        window.onload = function() {
-            const savedLang = localStorage.getItem('preferred_lang') || 'zh-CN';
-            switchLang(savedLang);
-        };
+        function switchLang(lang) {
+            currentLang = lang;
+            localStorage.setItem('preferred_lang', lang);
+            
+            // 更新按鈕高亮狀態
+            document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+            const btnIndex = lang === 'zh-CN' ? 0 : (lang === 'zh-TW' ? 1 : 2);
+            document.querySelectorAll('.lang-btn')[btnIndex].classList.add('active');
+
+            // 填充文本
+            const t = i18n[lang];
+            document.getElementById('title').innerHTML = t.title;
+            document.getElementById('intro').innerHTML = t.intro;
+            document.getElementById('why-title').innerHTML = t.whyTitle;
+            document.getElementById('why-1').innerHTML = t.why1;
+            document.getElementById('why-2').innerHTML = t.why2;
+            document.getElementById('why-3').innerHTML = t.why3;
+            document.getElementById('platform1-title').innerHTML = t.platform1Title;
+            document.getElementById('platform1-desc').innerHTML = t.platform1Desc;
+            document.getElementById('platform2-title').innerHTML = t.platform2Title;
+            document.getElementById('platform2-desc').innerHTML = t.platform2Desc;
+            document.getElementById('bonus-title').innerHTML = t.bonusTitle;
+            document.getElementById('bonus-desc').innerHTML = t.bonusDesc;
+
+            // 動態生成註冊按鈕（鏈接與邀請碼完全由 JSON 驅動）
+            renderButtons();
+        }
+
+        function renderButtons() {
+            const container = document.getElementById('dynamic-buttons');
+            container.innerHTML = '';
+
+            // 如果 JSON 讀取成功，從 JSON 中取數據；若失敗則提供安全備用
+            const okxData = siteConfig ? siteConfig.okx : { name: "欧易 OKX", code: "N4LJDJWM", link: "https://www.mitnpkwxvfr.com/join/N4LJDJWM" };
+            const binanceData = siteConfig ? siteConfig.binance : { name: "币安 Binance", code: "ZV2BH3A6", link: "https://www.binance.com/zh-CN/register?ref=ZV2BH3A6" };
+
+            // 根據不同語言調整按鈕文字
+            let okxText = currentLang === 'en' ? `Sign Up ${okxData.name} (Code: ${okxData.code})` : `注册 ${okxData.name}（邀请码：${okxData.code}）`;
+            let binanceText = currentLang === 'en' ? `Sign Up ${binanceData.name} (Code: ${binanceData.code})` : `注册 ${binanceData.name}（邀请码：${binanceData.code}）`;
+
+            if (currentLang === 'zh-TW') {
+                okxText = `註冊 ${okxData.name}（邀請碼：${okxData.code}）`;
+                binanceText = `註冊 ${binanceData.name}（邀請碼：${binanceData.code}）`;
+            }
+
+            // 創建 OKX 按鈕
+            const okxBtn = document.createElement('ahref' in window ? 'a' : 'a');
+            okxBtn.href = okxData.link;
+            okxBtn.target = '_blank';
+            okxBtn.className = 'btn btn-okx';
+            okxBtn.innerText = okxText;
+            container.appendChild(okxBtn);
+
+            // 創建 Binance 按鈕
+            const binanceBtn = document.createElement('a');
+            binanceBtn.href = binanceData.link;
+            binanceBtn.target = '_blank';
+            binanceBtn.className = 'btn btn-binance';
+            binanceBtn.innerText = binanceText;
+            container.appendChild(binanceBtn);
+        }
+
+        // 頁面啟動
+        window.onload = initPage;
     </script>
 </body>
 </html>
