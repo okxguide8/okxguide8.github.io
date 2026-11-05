@@ -9,7 +9,6 @@ if os.path.exists(config_file):
     with open(config_file, "r", encoding="utf-8") as f:
         exchanges = json.load(f)
 else:
-    # 兜底默认数据
     exchanges = {}
 
 # 动态根据 JSON 生成交易所返佣按钮 HTML
@@ -26,7 +25,7 @@ for key, info in exchanges.items():
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 filename = f"news-{today}.html"
 
-# 模拟采集到的快讯数据（包含新闻配图链接、时间、标题与描述）
+# 模拟采集到的快讯数据（包含配图链接）
 news_list = [
     {
         "time": f"{today} 12:00",
@@ -42,7 +41,7 @@ news_list = [
     }
 ]
 
-# 动态生成图文快讯卡片的 HTML
+# 动态生成包含 img 标签的图文快讯卡片 HTML
 news_cards_html = ""
 for item in news_list:
     news_cards_html += f"""
@@ -56,7 +55,7 @@ for item in news_list:
     </div>
     """
 
-# 1. 生成今日快讯 HTML 内容
+# 1. 生成今日快讯 HTML 内容（包含交易所返佣转化横幅）
 html_content = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -98,10 +97,10 @@ html_content = f"""<!DOCTYPE html>
 
     {news_cards_html}
 
-    <!-- 交易所返佣转化横幅 -->
+    <!-- 交易所返佣转化横幅（仅在每日快讯正文页展示） -->
     <div class="affiliate-box">
-        <h3>🚀 抓住 Web3 投资先机，从合规交易所开始</h3>
-        <p>立即注册全球顶尖加密货币交易所，解锁专属手续费折扣与新手福利。</p>
+        <h3>🚀 开启 Web3 交易之旅</h3>
+        <p>通过专属邀请链接注册交易所，享受最高手续费返还与新手礼包。</p>
         <div class="btn-group">
             {btn_group_html}
         </div>
@@ -120,7 +119,7 @@ with open(filename, "w", encoding="utf-8") as f:
     f.write(html_content)
 print(f"成功生成今日快讯页面：{filename}")
 
-# 2. 自动扫描所有历史快讯文件，动态生成聚合主页 news.html
+# 2. 自动扫描所有历史快讯文件，动态生成聚合主页 news.html（已移除返佣横幅，保持干净）
 news_files = sorted(glob.glob("news-*.html"), reverse=True)
 
 list_items_html = ""
@@ -150,10 +149,6 @@ index_html_content = f"""<!DOCTYPE html>
         .news-time {{ font-size: 12px; color: #64748b; margin-bottom: 4px; }}
         .news-title {{ font-size: 1.05rem; font-weight: bold; color: #0f172a; margin-bottom: 6px; }}
         .news-desc {{ font-size: 0.9rem; color: #475569; }}
-        .affiliate-box {{ background: linear-gradient(135deg, #1e293b, #0f172a); color: #fff; padding: 25px; border-radius: 12px; margin-top: 30px; text-align: center; }}
-        .affiliate-box h3 {{ margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; }}
-        .affiliate-box p {{ color: #94a3b8; font-size: 0.95rem; margin-bottom: 20px; }}
-        .btn-group {{ display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }}
     </style>
 </head>
 <body>
@@ -170,14 +165,6 @@ index_html_content = f"""<!DOCTYPE html>
     <p>汇集每日加密货币市场核心动态、板块轮动与项目最新进展，支持 7x24h 自动化追踪归档。</p>
 
     {list_items_html}
-
-    <div class="affiliate-box">
-        <h3>🚀 开启 Web3 交易之旅</h3>
-        <p>通过专属邀请链接注册交易所，享受最高手续费返还与新手礼包。</p>
-        <div class="btn-group">
-            {btn_group_html}
-        </div>
-    </div>
 
     <footer>
         <p style="text-align: center; color: #94a3b8; font-size: 0.85rem; margin-top: 40px;">© 2026 Web3 Exchange Guide. 自动化快讯聚合系统运行中。</p>
