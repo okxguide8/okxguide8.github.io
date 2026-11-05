@@ -2,39 +2,58 @@ name: Auto Generate Crypto News
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 和晚上 8:00 自动运行
+    # 每天北京时间 08:00 和 20:00 自动运行（cron 用 UTC，0/12 点正好对应）
     - cron: '0 0,12 * * *'
-  workflow_dispatch: # 支持手动点击按钮立即运行
+  workflow_dispatch:   # 支持手动点击按钮立即运行
+
+# 允许用内置 token 提交（你用的是 GH_PAT，这里留作兜底）
+permissions:
+  contents: write
+
+# 同一时间只允许一个任务在跑，避免两次 commit 撞车
+concurrency:
+  group: crypto-news
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: 检出代码仓库
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
 
       - name: 设置 Python 环境
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: 安装依赖
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          # feedparser=解析 RSS，Jinja2=渲染页面，Pillow=压缩缩略图（缺一个都会失败）
+          pip install requests feedparser jinja2 pillow
 
       - name: 运行快讯采集脚本
+        # 数据源全挂时脚本退出码为 1，这一步不让整个任务红掉，
+        # 因为降级页面（复用上一次快照）仍然需要提交上去
+        continue-on-error: true
         run: |
-          python generate_news.py
+          python generate_news.py -v
 
       - name: 提交并推送到仓库
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/okxguide8/okxguide8.github.io.git
-          git add .
-          git commit -m "🤖 自动更新今日币圈快讯 [skip ci]" || exit 0
-          git push origin main
+          git add -A
+          if git diff --cached --quiet; then
+            echo "内容无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "🤖 自动更新今日币圈快讯 [skip ci]"
+          git push origin main || (git pull --rebase origin main && git push origin main)
