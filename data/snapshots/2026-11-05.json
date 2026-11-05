@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T18:31:43.534169+08:00",
+  "degraded": false,
+  "items": [
+    {
+      "title": "某交易员做多原油亏损582万美元，在Hyperliquid平台累计亏损达1379万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab40-0b2b-7752-a248-ef788cc3cba3",
+      "source": "PANews",
+      "published": "2026-11-05T18:27:43+08:00",
+      "summary": "PANews 11月5日消息，据 Onchain Lens 监测，一位交易员平仓了一笔价值 5660 万美元的 CL（WTI 原油）多单，亏损 582 万美元。该钱包目前仍持有一笔价值 9570 万美元的布伦特原油（Brent）杠杆多单，另…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，据 Onchain Lens 监测，一位交易员平仓了一笔价值 5660 万美元的 CL（WTI 原油）多单，亏损 582 万美元。该钱包目前仍持有一笔价值 9570 万美元的布伦特原油（Brent）杠杆多单，另有 706 万美元的未实现亏损。其在 Hyperliquid 平台累计盈亏从盈利 1.84 万美元变为亏损 1379 万美元。</p>"
+    },
+    {
+      "title": "GoPlus：Android多版本存在严重漏洞，建议用户检查更新",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab3b-f66d-7153-a124-fc5d9b8c1a75",
+      "source": "PANews",
+      "published": "2026-11-05T18:23:16+08:00",
+      "summary": "PANews 11月5日消息，GoPlus 发布安全提醒，Android 最新安全公告涉及多个严重漏洞，受影响版本包括 Android 14、15、16、16 QPR2 和 17，建议用户检查设备并及时安装厂商提供的系统更新。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，GoPlus 发布安全提醒，Android 最新安全公告涉及多个严重漏洞，受影响版本包括 Android 14、15、16、16 QPR2 和 17，建议用户检查设备并及时安装厂商提供的系统更新。</p>"
+    },
+    {
+      "title": "Binance Wallet调整PREDICT空投发放规则，未发放批次将在上线后合并发放",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab38-eaea-707b-821d-dd463f48dfdc",
+      "source": "PANews",
+      "published": "2026-11-05T18:19:56+08:00",
+      "summary": "PANews 11月5日消息，Binance Wallet 发布 $PREDICT 空投批次合并通知，原定的五个发放日期（即 $PREDICT 上线日、2026 年 11 月 6 日、11 月 13 日、11 月 20 日和 11 月 27…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，Binance Wallet 发布 $PREDICT 空投批次合并通知，原定的五个发放日期（即 $PREDICT 上线日、2026 年 11 月 6 日、11 月 13 日、11 月 20 日和 11 月 27 日）及其对应的问卷提交截止日期均保持不变。</p> <p>若 $PREDICT 在上述任一预定发放日期之后上线，则该批次及此前尚未发放的所有批次将合并，并在代币上线后的首批发放中一并进行分发。用户无需重新提交问卷。各批次的获取资格仍将依据其原定的问卷提交截止日期进行判定。</p>"
+    },
+    {
+      "title": "Gate 首创 PoSEC 资金安全证明，冷存储覆盖率达 104.58% 强化安全保障",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab33-18a6-7383-aca1-242f8e9550ef",
+      "source": "PANews",
+      "published": "2026-11-05T18:13:35+08:00",
+      "summary": "PANews 11月5日消息，据官方公告，Gate 正式推出全新资金安全证明 (Proof of Security, PoSEC)，成为行业首家提出 PoSEC 安全证明体系的数字资产交易平台，将安全验证从储备金充足性延伸至资产存储结构与风…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，据官方公告，Gate 正式推出全新资金安全证明 (Proof of Security, PoSEC)，成为行业首家提出 PoSEC 安全证明体系的数字资产交易平台，将安全验证从储备金充足性延伸至资产存储结构与风险保障。</p> <p>据 Gate 官方页面披露，截至 11 月 4 日 08:00 (UTC+8) 快照，平台冷存储覆盖率达 104.58%，冷存储与热钱包资产占比分别为 88.26% 和 11.74%，意味着按相应统计口径，即使热钱包资产全部损失，冷存储仍可覆盖全部用户资产。目前，本期数据正由独立第三方审计机构核验，报告完成后将在官网公布。</p> <p>2020 年，Gate 率先推出开源储备金证明 (PoR) 相关方案，此后持续强化涵盖冷热钱包分离、多重签名、多方安全计算 (MPC) 及动态风险监控等机制的多层次安全体系。此次首创 PoSEC，进一步将资金安全验证从储备充足性延伸至存储安全与极端风险覆盖能力，为行业建立更全面、透明的资金安全标准提供新的实践路径。</p>"
+    },
+    {
+      "title": "资管机构Amundi与CACEIS合作推出AMUNDI FUNDS CASH EUR代币化份额",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab25-6aec-7439-a3ab-3ac659e8673c",
+      "source": "PANews",
+      "published": "2026-11-05T17:58:38+08:00",
+      "summary": "PANews 11月5日消息，欧洲资管机构 Amundi 与 CACEIS 合作，为其旗下的“AMUNDI FUNDS CASH EUR”货币市场基金推出了首个代币化份额。该基金采用混合分销模式：投资者既可通过传统渠道进行投资，也能通过代币…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，欧洲资管机构 Amundi 与 CACEIS 合作，为其旗下的“AMUNDI FUNDS CASH EUR”货币市场基金推出了首个代币化份额。该基金采用混合分销模式：投资者既可通过传统渠道进行投资，也能通过代币化份额“AMUNDI FUNDS CASH EUR - J28 EUR DLT (C)”进行认购。该解决方案利用公共以太坊区块链上的分布式账本技术，确保了基金份额记录的透明度，并增强了交易的可追溯性。</p>"
+    },
+    {
+      "title": "币贝积分首期「元点」上线首日，逾 1.4 万名用户获得积分",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab19-f15b-76de-ad84-04627511cd4d",
+      "source": "PANews",
+      "published": "2026-11-05T17:46:06+08:00",
+      "summary": "PANews 11月5日消息，据官方数据，数字资产交易平台币贝（Bitbase）积分体系「币贝积分」首期——「元点」（ORIGIN）于 11 月 4 日开启，首日共有 14,161 名用户获得积分。截至目前，币贝已累计发放积分超过 600…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，据官方数据，数字资产交易平台币贝（Bitbase）积分体系「币贝积分」首期——「元点」（ORIGIN）于 11 月 4 日开启，首日共有 14,161 名用户获得积分。截至目前，币贝已累计发放积分超过 600 万，其中包括此前向已有用户发放的 Alpha 积分。元点为期 26 周，每周发放 100 万积分，所有币贝用户自动参与，无需报名。</p>"
+    },
+    {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-05T17:35:29+08:00",
+      "summary": "South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asse…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png",
+      "image_local": "assets/newsbot/img/773b2d13c73768dc.jpg",
+      "content": "<p></p><p>South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.</p>"
+    },
+    {
+      "title": "法国预算案遭否决，稳定币征税及自托管钱包申报相关条款被搁置",
+      "url": "https://www.panewslab.com/zh/articles/01a1ab08-7c4d-718c-8663-cf642252b94a",
+      "source": "PANews",
+      "published": "2026-11-05T17:27:02+08:00",
+      "summary": "PANews 11月5日消息，据 Cointelegraph 报道，法国国民议会于周三晚间否决了 2027 年国家预算案中的“收入”部分，导致此前已纳入法案的三项加密货币相关修正案被剔除，不再包含在即将提交给参议院的法案版本中，但未来仍有可…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，据 Cointelegraph 报道，法国国民议会于周三晚间否决了 2027 年国家预算案中的“收入”部分，导致此前已纳入法案的三项加密货币相关修正案被剔除，不再包含在即将提交给参议院的法案版本中，但未来仍有可能在参议院审议阶段被重新提出。</p> <p>国民议会曾通过了三项与加密货币相关的修正案。10月16日，议员们通过了一项修正案，规定将加密货币兑换为稳定币所产生的收益纳入征税范围。周二，议员们又通过了另一项修正案，要求纳税人申报其持有的自托管加密资产；若总额达到或超过10万欧元（约合11.2万美元），即需申报。该门槛的评估基准日为纳税年度的12月31日。此外，还有一项修正案提出，若加密货币平台未能按税务机关要求提供相关信息，其面临的罚款金额将从1万欧元提高至5万欧元。</p>"
+    },
+    {
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-05T17:04:42+08:00",
+      "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg",
+      "image_local": "assets/newsbot/img/3ed8a602f90cad72.jpg",
+      "content": "<p></p><p>Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.</p>"
+    },
+    {
+      "title": "Genius推出由费用支持的代币回购机制，首先从GSTOCK代币开始",
+      "url": "https://www.panewslab.com/zh/articles/01a1aaf3-0384-7041-b15b-3b535dd73626",
+      "source": "PANews",
+      "published": "2026-11-05T17:03:35+08:00",
+      "summary": "PANews 11月5日消息，链上交易终端Genius在X平台发文称，其已在Genius.fun推出由费用支持的代币回购机制，该机制首先从GSTOCK代币开始。针对GSTOCK交易对，Genius基金会产生费用的20%将用于回购。此外，市值…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，链上交易终端Genius在X平台发文称，其已在Genius.fun推出由费用支持的代币回购机制，该机制首先从GSTOCK代币开始。针对GSTOCK交易对，Genius基金会产生费用的20%将用于回购。此外，市值超过200万美元的其他代币也可以申请采用相同模式进行回购。</p>"
+    },
+    {
+      "title": "$U联合币安推出限时理财加息活动，综合APR最高达 10%",
+      "url": "https://www.panewslab.com/zh/articles/01a1aadd-c19f-7046-9de7-6fd7dcd9e556",
+      "source": "PANews",
+      "published": "2026-11-05T16:40:22+08:00",
+      "summary": "PANews 11月5日消息，U（United Stables）联合 Binance 宣布推出 $U 活期理财限时加息活动，活动时间为北京时间 2026 年 11 月 5 日 16:00 至 11 月 25 日 07:59。 活动期间，普通…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，U（United Stables）联合 Binance 宣布推出 $U 活期理财限时加息活动，活动时间为北京时间 2026 年 11 月 5 日 16:00 至 11 月 25 日 07:59。</p> <p>活动期间，普通用户及 VIP 用户申购 $U 活期理财产品，除基础实时收益外，还可获得额外阶梯加息奖励，最高加息 9%，综合年化收益率（APR）最高可达 10%。</p> <p>本次活动根据用户等级设置不同的加息额度：普通用户可申购 0 至 10,000 $U，享受额外 7% 加息；VIP 1 至 VIP 3 用户可申购 0 至 300,000 $U，享受额外 8% 加息；VIP 4 至 VIP 9 用户可申购 0 至 500,000 $U，享受额外 9% 加息。活动额度有限，按照先到先得原则发放，达到额度上限后将不再接受额外申购。</p>"
+    },
+    {
+      "title": "美OFAC制裁朝鲜IT工作者网络，慢雾披露相关链上资金关联",
+      "url": "https://www.panewslab.com/zh/articles/01a1aad4-dcb2-777d-abce-aa749f6dc026",
+      "source": "PANews",
+      "published": "2026-11-05T16:30:39+08:00",
+      "summary": "PANews 11月5日消息，据慢雾披露，美国财政部外国资产控制办公室（OFAC）制裁了与朝鲜IT工作者网络相关的10名个人和1个实体。慢雾使用MistTrack分析了被列出的加密地址，并发现多条链上关联：Boykov与Obertas之间…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月5日消息，据慢雾披露，美国财政部外国资产控制办公室（OFAC）制裁了与朝鲜IT工作者网络相关的10名个人和1个实体。慢雾使用MistTrack分析了被列出的加密地址，并发现多条链上关联：Boykov与Obertas之间，OFAC将同一个以太坊地址列在两人名下；Boykov向该地址转移了约988万美元，其两个TRON地址还向Obertas名下的一个地址合计发送了166万USDT。Boykov与Kim Ki Hyok之间，两人的以太坊地址都向同一个Bybit充值地址发送资金，其中Boykov约400万美元，Kim Ki Hyok为5万DAI。</p> <p>慢雾指出，朝鲜IT工作者带来的风险不仅限于金融活动。他们可能利用虚假身份获取公司设备、内部系统和敏感数据。慢雾建议企业核实员工身份、监控公司设备使用情况，并谨慎管理系统访问权限。</p>"
+    }
+  ]
+}
