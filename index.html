@@ -44,7 +44,7 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     
-    /* 统一导航栏样式 */
+    /* 現代化響應式導航欄 + 下拉菜單 */
     .header-bar {
       border-bottom: 1px solid var(--border);
       padding: 12px 20px;
@@ -55,35 +55,110 @@
       position: sticky;
       top: 0;
       z-index: 100;
-      flex-wrap: wrap;
-      gap: 10px;
     }
-    .nav-links { display: flex; gap: 10px; font-size: 0.85rem; align-items: center; flex-wrap: wrap; }
-    .nav-links a { color: var(--text); padding: 4px 8px; border-radius: 4px; transition: background 0.2s; }
-    .nav-links a:hover { background: var(--card-bg); color: var(--accent); text-decoration: none; }
-
-    /* 多语言切换按钮样式 */
-    .lang-switch {
+    .logo {
+      font-weight: 800;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 1.05rem;
+    }
+    .nav-links {
       display: flex;
-      gap: 4px;
+      gap: 15px;
+      font-size: 0.9rem;
+      align-items: center;
+    }
+    .nav-links a {
+      color: var(--text);
+      text-decoration: none;
+      padding: 6px 10px;
+      border-radius: 4px;
+      transition: background 0.2s, color 0.2s;
+    }
+    .nav-links a:hover {
       background: var(--card-bg);
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* 下拉菜單樣式 (PC端) */
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    .dropdown-btn {
+      color: var(--text);
+      padding: 6px 10px;
+      border: none;
+      background: transparent;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: var(--bg);
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.12);
       border: 1px solid var(--border);
       border-radius: 6px;
-      padding: 2px;
+      padding: 6px 0;
+      z-index: 101;
     }
-    .lang-btn {
+    .dropdown-content a {
+      display: block;
+      padding: 8px 16px;
+      font-size: 0.85rem;
+      border-radius: 0;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    /* 移動端漢堡菜單按鈕 */
+    .menu-toggle {
+      display: none;
       background: transparent;
-      border: none;
+      border: 1px solid var(--border);
       color: var(--text);
-      font-size: 0.75rem;
-      padding: 3px 6px;
-      border-radius: 4px;
+      font-size: 1.2rem;
+      padding: 4px 10px;
+      border-radius: 6px;
       cursor: pointer;
-      font-weight: 600;
     }
-    .lang-btn.active {
-      background: var(--accent);
-      color: #fff;
+
+    /* 響應式斷點：手機端折疊菜單 */
+    @media (max-width: 860px) {
+      .menu-toggle { display: block; }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background: var(--bg);
+        position: absolute;
+        top: 100%;
+        left: 0;
+        border-bottom: 1px solid var(--border);
+        padding: 15px 20px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        align-items: flex-start;
+      }
+      .nav-links.active { display: flex; }
+      .nav-links a, .dropdown { width: 100%; }
+      .dropdown-content {
+        position: static;
+        box-shadow: none;
+        border: none;
+        padding-left: 15px;
+        display: block;
+        background: var(--card-bg);
+        border-radius: 4px;
+        margin-top: 4px;
+      }
+      .dropdown-btn { display: none; } /* 手機端直接把子頁面打散列出 */
     }
 
     .container {
@@ -122,7 +197,7 @@
       margin: 0 auto 24px;
     }
     
-    /* 交易所卡片矩阵 */
+    /* 交易所卡片矩陣雙端自適應 */
     .exchange-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
@@ -132,6 +207,7 @@
     }
     @media (max-width: 480px) {
       .exchange-grid { grid-template-columns: 1fr; }
+      .hero-title { font-size: 1.5rem; }
     }
     .ex-card {
       background: var(--bg);
@@ -233,17 +309,27 @@
   </style>
 </head>
 <body>
-  <!-- 统一顶部导航栏（写死的导航链接 + 多语言切换开关） -->
+  <!-- 包含所有子頁面的全功能響應式導航欄 -->
   <header class="header-bar">
-    <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
-    <nav class="nav-links">
+    <a href="./index.html" class="logo">⬛ 交易所矩阵首页</a>
+    <button class="menu-toggle" onclick="toggleMenu()" aria-label="切换导航菜单">☰</button>
+    <nav class="nav-links" id="navLinks">
       <a href="./index.html">首页</a>
-      <a href="./article-usstock.html">美股教程</a>
       <a href="./news.html">币圈快讯</a>
-      <div class="lang-switch">
-        <button class="lang-btn active" onclick="setLang('zh')">简</button>
-        <button class="lang-btn" onclick="setLang('zht')">繁</button>
-        <button class="lang-btn" onclick="setLang('en')">EN</button>
+      <a href="./article-usstock.html">美股教程</a>
+      
+      <!-- 包含所有子頁面的下拉選單 (PC端下拉，手機端展開) -->
+      <div class="dropdown">
+        <button class="dropdown-btn">新手指南 ▼</button>
+        <div class="dropdown-content">
+          <a href="./article-kyc.html">KYC 认证</a>
+          <a href="./article-ios.html">iOS 下载</a>
+          <a href="./article-deposit.html">防冻卡教程</a>
+          <a href="./article-binance.html">币安指南</a>
+          <a href="./article-htx.html">HTX 指南</a>
+          <a href="./article-bitget.html">Bitget 指南</a>
+          <a href="./article-bybit.html">Bybit 指南</a>
+        </div>
       </div>
     </nav>
   </header>
@@ -287,7 +373,7 @@
 
       <div class="danger-box">
         <strong>⚠️ 严格注意（C2C 转账规则）：</strong><br>
-        向卖家转账时，<strong>备注/附言必须完全留空</strong>！绝对不要填写“USDT、买币、比特币”等任何敏感字眼，防止触发银行风控！
+        向卖家转账时，<strong>备注/附言必须完全留空</strong>！绝对不要填写“USDT、买币、比特币”等任何敏感字眼，触发银行风控！
       </div>
 
       <h2>三、出入金防冻卡安全法则</h2>
@@ -330,7 +416,13 @@
   </div>
 
   <script>
-    // 动态读取 config.json 并自动渲染 6 大交易所卡片
+    // 移動端折疊菜單控制
+    function toggleMenu() {
+      const navLinks = document.getElementById('navLinks');
+      navLinks.classList.toggle('active');
+    }
+
+    // 動態讀取 config.json 並自動渲染 6 大交易所卡片
     fetch('config.json')
       .then(res => res.json())
       .then(data => {
@@ -369,14 +461,6 @@
       }).catch(() => {
         alert("复制失败，请手动复制：" + code);
       });
-    }
-
-    // 语言切换预留函数（持久化保存至 localStorage）
-    function setLang(lang) {
-      localStorage.setItem('site_lang', lang);
-      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
-      event.target.classList.add('active');
-      // 后续可在此扩展多语言文本字典替换逻辑
     }
   </script>
 </body>
