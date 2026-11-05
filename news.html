@@ -1,110 +1,87 @@
 <!DOCTYPE html>
-<html lang="zh-CN" dir="ltr">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2026 币圈实时快讯与行业动态汇总 - Web3 导航</title>
-    <meta name="description" content="精选全网加密货币行业核心动态、政策风向与项目进展，7x24h 持续更新的区块链快讯中心。">
+    <title>币圈实时快讯中心 - 历史归档导航</title>
     <style>
-        :root {
-            --bg: #ffffff;
-            --text: #121212;
-            --border: #e6e8eb;
-            --card-bg: #f7f9fa;
-            --accent: #2752e7;
-        }
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --bg: #0b0e11;
-                --text: #eaecef;
-                --border: #262930;
-                --card-bg: #161a1f;
-                --accent: #4a72ff;
-            }
-        }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.75;
-        }
-        a { color: var(--accent); text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        
-        .header-bar {
-            border-bottom: 1px solid var(--border);
-            padding: 12px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: var(--bg);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-        }
-        .nav-links { display: flex; gap: 10px; font-size: 0.85rem; align-items: center; }
-        .nav-links a { color: var(--text); padding: 4px 8px; border-radius: 4px; transition: background 0.2s; }
-        .nav-links a:hover { background: var(--card-bg); color: var(--accent); text-decoration: none; }
-
-        .container {
-            max-width: 860px;
-            margin: 0 auto;
-            padding: 36px 20px 80px;
-        }
-        h1 { font-size: 1.85rem; font-weight: 800; margin-bottom: 12px; }
-        .subtitle { color: #666; font-size: 0.95rem; margin-bottom: 30px; }
-        
-        .news-list { display: flex; flex-direction: column; gap: 16px; }
-        .news-card {
-            background: var(--card-bg);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            padding: 20px;
-            transition: transform 0.2s;
-        }
-        .news-card:hover { transform: translateY(-2px); }
-        .news-date { font-size: 0.82rem; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
-        .news-title { font-size: 1.15rem; font-weight: 700; color: var(--text); margin-bottom: 8px; }
-        .news-desc { font-size: 0.9rem; color: #666; }
-
-        footer {
-            border-top: 1px solid var(--border);
-            padding: 24px 0;
-            text-align: center;
-            font-size: 0.85rem;
-            color: #777;
-            margin-top: 50px;
-        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background: #f9fafb; }
+        .header-bar { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e2e8f0; padding-bottom: 15px; margin-bottom: 20px; }
+        .nav-links a { text-decoration: none; color: #2563eb; font-weight: 500; margin-right: 15px; }
+        .news-box { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        .news-time { font-size: 12px; color: #64748b; margin-bottom: 4px; }
+        .news-title { font-size: 1.05rem; font-weight: bold; color: #0f172a; margin-bottom: 6px; }
+        .news-desc { font-size: 0.9rem; color: #475569; }
+        .affiliate-box { background: linear-gradient(135deg, #1e293b, #0f172a); color: #fff; padding: 25px; border-radius: 12px; margin-top: 30px; text-align: center; }
+        .affiliate-box h3 { margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; }
+        .affiliate-box p { color: #94a3b8; font-size: 0.95rem; margin-bottom: 20px; }
+        .btn-group { display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }
     </style>
 </head>
 <body>
 
     <header class="header-bar">
-        <a href="./index.html" style="font-weight: 800; color: var(--accent); font-size: 1.05rem;">⬛ 交易所矩阵首页</a>
         <nav class="nav-links">
-            <a href="./index.html">首页</a>
-            <a href="./article-usstock.html">美股直购</a>
-            <a href="./news.html">币圈快讯</a>
+            <a href="./index.html">🏠 首页</a>
+            <a href="./article-usstock.html">📈 美股教程</a>
+            <a href="./news.html">🔥 币圈快讯</a>
         </nav>
     </header>
 
-    <div class="container">
-        <h1>🔥 币圈实时快讯中心</h1>
-        <p class="subtitle">汇集每日加密货币市场核心动态、板块轮动与项目最新进展，支持 7x24h 自动化追踪归档。</p>
+    <h1>🔥 币圈实时快讯中心</h1>
+    <p>汇集每日加密货币市场核心动态、板块轮动与项目最新进展，支持 7x24h 自动化追踪归档。</p>
 
-        <div class="news-list" id="news-container">
-            <div class="news-card">
-                <div class="news-date">2026-11-06</div>
-                <div class="news-title"><a href="./news-2026-11-06.html">今日行业焦点与市场行情观察</a></div>
-                <div class="news-desc">查看 2026 年 11 月 6 日由自动化脚本归档的加密货币市场全景快讯与深度解析。</div>
-            </div>
+    
+    <div class="news-box">
+        <div class="news-content">
+            <div class="news-time">2026-11-05 归档</div>
+            <div class="news-title"><a href="./news-2026-11-05.html" style="text-decoration: none; color: #2563eb;">2026-11-05 币圈实时快讯与行业动态</a></div>
+            <div class="news-desc">点击进入阅读 2026-11-05 全网加密货币市场核心动态、行情观察与项目进展完整记录。</div>
         </div>
-
-        <footer>
-            <p>© 2026 Web3 Exchange Guide. 自动化快讯聚合系统持续运行中。</p>
-        </footer>
     </div>
+    
+
+    <div class="affiliate-box">
+        <h3>🚀 开启 Web3 交易之旅</h3>
+        <p>通过专属邀请链接注册交易所，享受最高手续费返还与新手礼包。</p>
+        <div class="btn-group">
+            
+    <a href="https://www.mitnpkwxvfr.com/join/N4LJDJWM" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 欧易 OKX</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">20% 手续费返现</div>
+    </a>
+    
+    <a href="https://www.binance.com/zh-CN/register?ref=ZV2BH3A6" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 币安 Binance</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">全球交易量第一</div>
+    </a>
+    
+    <a href="https://www.gate.com/zh-tw/signup/VAMVUF1BBA?ref_type=103" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 芝麻开门 Gate.io</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">老牌山寨币首选</div>
+    </a>
+    
+    <a href="https://www.htx.com/invite/zh-cn/1f?invite_code=pyb3e223" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 HTX 火币</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">老牌大厂信誉</div>
+    </a>
+    
+    <a href="https://share.glassgs.com/u/J3P5Z15T" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 Bitget 交易所</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">跟单与衍生品热门</div>
+    </a>
+    
+    <a href="https://www.bybitglobal.com/invite?ref=9OVJEKW&medium=referral&utm_campaign=evergreen" target="_blank" style="background: #1e293b; color: #fff; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #334155; display: inline-block; text-align: left; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="font-size: 0.95rem; color: #f8fafc; margin-bottom: 2px;">🔥 Bybit 交易所</div>
+        <div style="font-size: 0.75rem; color: #38bdf8; font-weight: normal;">衍生品与 Launchpad 热门</div>
+    </a>
+    
+        </div>
+    </div>
+
+    <footer>
+        <p style="text-align: center; color: #94a3b8; font-size: 0.85rem; margin-top: 40px;">© 2026 Web3 Exchange Guide. 自动化快讯聚合系统运行中。</p>
+    </footer>
 
 </body>
 </html>
