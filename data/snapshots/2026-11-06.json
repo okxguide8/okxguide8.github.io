@@ -1,8 +1,128 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T03:47:06.566021+08:00",
+  "generated_at": "2026-11-06T14:04:08.076213+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "Immutable Chain拟于2027年升级为基于OP Stack的链",
+      "url": "https://www.panewslab.com/zh/articles/01a1af4e-8233-7747-aea1-b41bc5a76b39",
+      "source": "PANews",
+      "published": "2026-11-06T13:22:00+08:00",
+      "summary": "PANews 11月6日消息，Immutable在X平台发文称，Immutable Chain将于2027年从自定义的geth分叉升级为基于OP Stack的链。这意味着Immutable Chain上的交易速度将更快，并与以太坊的安全性建…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，Immutable在X平台发文称，Immutable Chain将于2027年从自定义的geth分叉升级为基于OP Stack的链。这意味着Immutable Chain上的交易速度将更快，并与以太坊的安全性建立更紧密的联系。所有账户、余额和合约都将自动迁移，几乎所有用户无需采取任何操作。</p>"
+    },
+    {
+      "title": "沉寂一年的某巨鲸近24小时从币安提取1286枚BTC，约合9811万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1af4c-a09c-74b7-b6f9-aa8e6f0d404b",
+      "source": "PANews",
+      "published": "2026-11-06T13:19:57+08:00",
+      "summary": "PANews 11月6日消息，据Onchain Lens监测，一名沉寂一年的比特币巨鲸在数分钟前从Binance再次提取643枚BTC（约4858万美元）。24小时内累计提取1286枚BTC（约9811万美元）。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据Onchain Lens监测，一名沉寂一年的比特币巨鲸在数分钟前从Binance再次提取643枚BTC（约4858万美元）。24小时内累计提取1286枚BTC（约9811万美元）。</p>"
+    },
+    {
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T13:07:00+08:00",
+      "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg",
+      "image_local": "assets/newsbot/img/da77a52c36c9cf09.jpg",
+      "content": "<p></p><p>Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.</p>"
+    },
+    {
+      "title": "某巨鲸平多获利1778万美元后转空，其ETH空单已浮盈159万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1af3f-d022-7700-ac17-93fd54902c61",
+      "source": "PANews",
+      "published": "2026-11-06T13:05:57+08:00",
+      "summary": "PANews 11月6日消息，据链上分析师余烬监测，该巨鲸在币安被盗后平掉1亿多美元多单实现盈利1778万美元，随即转头做空2万枚ETH；昨日下午以2430美元加空1万枚ETH，晚间迎来下跌。目前持有3万枚ETH（6690万美元）空单，开空…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据链上分析师余烬监测，该巨鲸在币安被盗后平掉1亿多美元多单实现盈利1778万美元，随即转头做空2万枚ETH；昨日下午以2430美元加空1万枚ETH，晚间迎来下跌。目前持有3万枚ETH（6690万美元）空单，开空均价2283美元，浮盈159万美元。</p>"
+    },
+    {
+      "title": "Definitive高管Carlos旧热钱包被盗，称疑似与Railway漏洞有关",
+      "url": "https://www.panewslab.com/zh/articles/01a1af3d-1128-75d3-b53c-ebc0a3b9314e",
+      "source": "PANews",
+      "published": "2026-11-06T13:02:57+08:00",
+      "summary": "PANews 11月6日消息，链上交易执行平台Definitive增长负责人Carlos在X平台发文称，他的一个旧的热钱包于今日凌晨被盗。他推测这是一场由noble.base.eth发起的大规模攻击，并认为这可能与Railway漏洞有关。他…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，链上交易执行平台Definitive增长负责人Carlos在X平台发文称，他的一个旧的热钱包于今日凌晨被盗。他推测这是一场由noble.base.eth发起的大规模攻击，并认为这可能与Railway漏洞有关。他指出，是自己的私钥签署了这些转账，说明私钥或助记词被盗，其检查的所有受害者钱包都有相同模式。</p> <p>Carlos表示，在主网上，从UTC时间16:11开始的约70分钟内，共有96个钱包被清空，其他链也受到影响，但他尚未深入分析。他提到，RelayProtocol是该攻击者首选的出金通道，一个月内通过RelayDepository进行了两次批量提款，涉及超11万美元稳定币。为攻击者提供资金的地址持有Base域名noble.base.eth，在Base上有350多笔交易。</p>"
+    },
+    {
+      "title": "以太坊现货 ETF 昨日总净流出 9996.77 万美元，贝莱德 ETHA 净流出为 7520.30 万美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1af3c-f16d-73d4-bbfa-d8a648912520",
+      "source": "PANews",
+      "published": "2026-11-06T13:02:49+08:00",
+      "summary": "PANews 11月6日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 5 日）以太坊现货 ETF 总净流出 9996.77 万美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 5 日）以太坊现货 ETF 总净流出 9996.77 万美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 7520.30 万美元，目前 ETHA 历史总净流入达 116.14 亿美元。<br>\n其次为贝莱德（Blackrock）Staked ETH ETF ETHB，单日净流出为 2198.78 万美元，目前 ETHB 历史总净流入达 7.84 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 130.39 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.74%，历史累计净流入已达 120.16 亿美元。</p>"
+    },
+    {
+      "title": "比特币现货ETF昨日总净流出4.3亿美元，富达FBTC净流出2亿美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1af3c-943d-75aa-b91a-28867fe63a50",
+      "source": "PANews",
+      "published": "2026-11-06T13:02:25+08:00",
+      "summary": "PANews 11月6日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 5 日）比特币现货 ETF 总净流出 4.30 亿美元。 昨日单日净流出最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 5 日）比特币现货 ETF 总净流出 4.30 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净流出为 2.00 亿美元，目前 FBTC 历史总净流入达 102.23 亿美元。<br>\n其次为贝莱德 (Blackrock） ETF IBIT，单日净流出为 1.05 亿美元，目前 IBIT 历史总净流入达 655.04 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 966.47 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.31%，历史累计净流入已达 561.11 亿美元。</p>"
+    },
+    {
+      "title": "某100%胜率交易者开多2.03万枚ETH，已浮盈25.2万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1af03-893a-7066-8288-410788e96ee0",
+      "source": "PANews",
+      "published": "2026-11-06T12:00:06+08:00",
+      "summary": "PANews 11月6日消息，据Lookonchain监测，胜率100%的聪明交易者再次做多ETH，在市场下跌后以25倍杠杆开多2.0277万枚ETH（4530万美元），已浮盈25.2万美元。其此前10笔交易全部盈利，已实现盈利632万美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据Lookonchain监测，胜率100%的聪明交易者再次做多ETH，在市场下跌后以25倍杠杆开多2.0277万枚ETH（4530万美元），已浮盈25.2万美元。其此前10笔交易全部盈利，已实现盈利632万美元。</p>"
+    },
+    {
+      "title": "Zcash完成NU7主网升级，出块时间缩至25秒",
+      "url": "https://www.panewslab.com/zh/articles/01a1af02-dcf3-776f-9058-531b5a1a0b78",
+      "source": "PANews",
+      "published": "2026-11-06T11:59:22+08:00",
+      "summary": "PANews 11月6日消息，据官方消息，Zcash宣布NU7升级已于主网区块3543405激活，将目标出块时间从75秒缩短至25秒，同时将每区块补贴减少至三分之一，但四年减半计划和2100万枚供应上限不变。NU7还引入网络可持续发展机制…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据官方消息，Zcash宣布NU7升级已于主网区块3543405激活，将目标出块时间从75秒缩短至25秒，同时将每区块补贴减少至三分之一，但四年减半计划和2100万枚供应上限不变。NU7还引入网络可持续发展机制，将60%交易费放入储备，矿工保留40%。</p>"
+    },
+    {
+      "title": "2015年曾IC0认购100万枚ETH的某巨鲸抄底2221枚ETH，约合499万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1aef7-1c8c-70aa-bc66-61f7ebedf9c7",
+      "source": "PANews",
+      "published": "2026-11-06T11:46:32+08:00",
+      "summary": "PANews 11月6日消息，据链上分析师Ai姨监测，曾在2015年ICO认购100万枚ETH的远古巨鲸过去8小时在链上买入2221枚ETH（约499万美元），均价2248美元。该实体目前在链上持有超12.2万枚ETH，价值超2.72亿美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据链上分析师Ai姨监测，曾在2015年ICO认购100万枚ETH的远古巨鲸过去8小时在链上买入2221枚ETH（约499万美元），均价2248美元。该实体目前在链上持有超12.2万枚ETH，价值超2.72亿美元。</p>"
+    },
+    {
+      "title": "做空AI及半导体美股的某巨鲸合计浮盈超3000万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1aef5-53a7-77cc-a7d0-40ddd71d2d28",
+      "source": "PANews",
+      "published": "2026-11-06T11:44:35+08:00",
+      "summary": "PANews 11月6日消息，据Lookonchain监测，重仓做空美股（尤其是AI、半导体和存储芯片股）的某巨鲸目前大部分仓位盈利，合计浮盈超3000万美元。其中SNDK浮盈636万美元，INTC浮盈403万美元，SOXL浮盈233万美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月6日消息，据Lookonchain监测，重仓做空美股（尤其是AI、半导体和存储芯片股）的某巨鲸目前大部分仓位盈利，合计浮盈超3000万美元。其中SNDK浮盈636万美元，INTC浮盈403万美元，SOXL浮盈233万美元，MU浮盈225万美元。</p>"
+    },
+    {
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T08:19:49+08:00",
+      "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounti…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
+      "image_local": "assets/newsbot/img/fade2c021bef6c45.jpg",
+      "content": "<p></p><p>The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.</p>"
+    },
     {
       "title": "Anza建议Solana验证者紧急升级至Agave 4.4.1，否则将被分叉",
       "url": "https://www.panewslab.com/zh/articles/01a1ad2f-4a97-70a9-9531-81567a62fdf1",
