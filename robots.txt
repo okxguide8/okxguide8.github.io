@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 明确指定 Sitemap 地址，方便 Google 和 Bing 抓取
+Sitemap: https://okxguide8.github.io/sitemap.xml
