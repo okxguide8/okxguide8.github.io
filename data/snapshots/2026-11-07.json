@@ -1,8 +1,128 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T03:11:52.047036+08:00",
+  "generated_at": "2026-11-07T13:36:06.842752+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "印度执法局搜查CoinDCX、Delta相关场所，指控其涉嫌未经授权的跨境交易",
+      "url": "https://www.panewslab.com/zh/articles/01a1b471-3726-7513-9c91-0660817a6894",
+      "source": "PANews",
+      "published": "2026-11-07T13:18:00+08:00",
+      "summary": "PANews 11月7日消息，印度执法局（ED）班加罗尔分区于 11 月 4 日至 5 日，依据《外汇管理法》（FEMA 1999）对与 CoinDCX 和 Delta Exchange 相关的 3 处场所进行搜查。ED 指控两家平台涉嫌大…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，印度执法局（ED）班加罗尔分区于 11 月 4 日至 5 日，依据《外汇管理法》（FEMA 1999）对与 CoinDCX 和 Delta Exchange 相关的 3 处场所进行搜查。ED 指控两家平台涉嫌大规模未经授权的跨境金融交易，涉及加密代币衍生品以及 RWA 代币交易，相关跨境交易规模达数千亿卢比。</p>"
+    },
+    {
+      "title": "以太坊现货 ETF 昨日净流出 9318.87 万美元，贝莱德 ETHA 净流出 9076.13 万美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1b467-1af2-7229-835b-24757e7565f5",
+      "source": "PANews",
+      "published": "2026-11-07T13:06:58+08:00",
+      "summary": "PANews 11月7日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 6 日）以太坊现货 ETF 总净流出 9318.87 万美元。 昨日单日净流入最多的以太坊现货 ETF 为贝莱德（Blackrock）Staked ET…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 6 日）以太坊现货 ETF 总净流出 9318.87 万美元。</p> <p>昨日单日净流入最多的以太坊现货 ETF 为贝莱德（Blackrock）Staked ETH ETF ETHB，单日净流入为 114.84 万美元，目前 ETHB 历史总净流入达 7.85 亿美元。</p> <p>昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 9076.13 万美元，目前 ETHA 历史总净流入达 115.24 亿美元。</p> <p>截至发稿前，以太坊现货 ETF 总资产净值为 128.41 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.71%，历史累计净流入已达 119.22 亿美元。</p>"
+    },
+    {
+      "title": "比特币现货 ETF 昨日净流出 4.12 亿美元，贝莱德 IBIT 净流出 4.03 亿美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1b466-9e30-7712-be2c-9163c5cb2fa9",
+      "source": "PANews",
+      "published": "2026-11-07T13:06:26+08:00",
+      "summary": "PANews 11月7日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 6 日）比特币现货 ETF 总净流出 4.12 亿美元。 昨日单日净流入最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 6 日）比特币现货 ETF 总净流出 4.12 亿美元。</p> <p>昨日单日净流入最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净流入为 4282.35 万美元，目前 FBTC 历史总净流入达 102.66 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 4.03 亿美元，目前 IBIT 历史总净流入达 651.01 亿美元。</p> <p>截至发稿前，比特币现货 ETF 总资产净值为 958.97 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.28%，历史累计净流入已达 556.99 亿美元。</p>"
+    },
+    {
+      "title": "glassnode：比特币与标普500指数的相关系数达0.8，为2020年以来高位",
+      "url": "https://www.panewslab.com/zh/articles/01a1b465-6b2e-7291-973a-1c475207e68b",
+      "source": "PANews",
+      "published": "2026-11-07T13:05:07+08:00",
+      "summary": "PANews 11月7日消息，glassnode 发文表示，比特币与股市之间的关联度极少达到如此紧密的程度。在过去 30 个美股交易日中，比特币与标普 500 指数的相关系数达到了 0.8。而自 2020 年以来，该相关系数在绝大多数时间里…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，glassnode 发文表示，比特币与股市之间的关联度极少达到如此紧密的程度。在过去 30 个美股交易日中，比特币与标普 500 指数的相关系数达到了 0.8。而自 2020 年以来，该相关系数在绝大多数时间里都远低于这一水平。尽管市场不时谈论比特币的相对强势，但就目前而言，宏观因素依然决定着整体走势。</p> <p><img src=\"../assets/newsbot/img/7de800cdf76f16e9.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
+    },
+    {
+      "title": "Dash：不要使用Eclipse交易，有用户损失资金且未获补偿",
+      "url": "https://www.panewslab.com/zh/articles/01a1b45f-3258-722c-acf2-9f9f711246b1",
+      "source": "PANews",
+      "published": "2026-11-07T12:58:20+08:00",
+      "summary": "PANews 11月7日消息，Dash 在 X 平台呼吁用户不要使用 Eclipse，称已有用户在尝试交易时损失资金，且尚未得到全额补偿。Dash 建议，优先使用 Maya Protocol、NEAR Intents 等可通过区块浏览器查看…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，Dash 在 X 平台呼吁用户不要使用 Eclipse，称已有用户在尝试交易时损失资金，且尚未得到全额补偿。Dash 建议，优先使用 Maya Protocol、NEAR Intents 等可通过区块浏览器查看兑换过程的平台。</p>"
+    },
+    {
+      "title": "某地址休眠一年后从MEXC向币安转移代币，总价值约44.47万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1b42f-bdcf-704b-98d1-6121b704cd2e",
+      "source": "PANews",
+      "published": "2026-11-07T12:06:30+08:00",
+      "summary": "PANews 11月7日消息，据 Onchain Lens 监测，某地址在休眠一年后从 MEXC 向币安转移代币。近期转账包括 40.5 万枚 ASTER，价值约 27.55 万美元；22.727 万枚 FF，价值约 1.97 万美元；14…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，据 Onchain Lens 监测，某地址在休眠一年后从 MEXC 向币安转移代币。近期转账包括 40.5 万枚 ASTER，价值约 27.55 万美元；22.727 万枚 FF，价值约 1.97 万美元；147 万枚 OP，价值约 14.95 万美元，资产总价值约 44.47 万美元。</p>"
+    },
+    {
+      "title": "香港证监会拟规范虚拟资产相关称谓使用，“加密”、“交易所”等被纳入",
+      "url": "https://www.panewslab.com/zh/articles/01a1b42e-8268-71f1-9742-53e48909d993",
+      "source": "PANews",
+      "published": "2026-11-07T12:05:09+08:00",
+      "summary": "PANews 11月7日消息，香港证券及期货事务监察委员会发布咨询总结，拟修订《证券及期货条例》及《打击洗钱及恐怖分子资金筹集条例》，限制未经授权机构使用可能令公众误以为其业务受到证监会监管，或与交易所、结算所及虚拟资产交易平台存在关联的特…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，香港证券及期货事务监察委员会发布咨询总结，拟修订《证券及期货条例》及《打击洗钱及恐怖分子资金筹集条例》，限制未经授权机构使用可能令公众误以为其业务受到证监会监管，或与交易所、结算所及虚拟资产交易平台存在关联的特定称谓。</p> <p>据悉，拟受限制的称谓包括“crypto”（加密）、“cryptocurrency”（加密货币）、“crypto coin”（加密币）、“digital asset”（数字资产）、“digital coin”（数字币）、“token”（代币）、“tokenised assets”（代币化资产）、“virtual asset”（虚拟资产）、“virtual coin”（虚拟币），以及“exchange”（交易所）、“market”（市场）、“trading platform”（交易平台）等，香港证监会表示相关限制针对上述称谓的组合及其相似称谓，并非单独使用某个词语就必然受到限制，预计在敲定相关立法修订草案后提交立法会审议，若修订获通过，相关规定将在制定后六个月生效。</p>"
+    },
+    {
+      "title": "中国央行连续第24个月增持黄金",
+      "url": "https://www.panewslab.com/zh/articles/01a1b425-f162-7621-adde-d57c7768ac11",
+      "source": "PANews",
+      "published": "2026-11-07T11:55:47+08:00",
+      "summary": "PANews 11月7日消息，据金十报道，中国10月末黄金储备报7830万盎司（约2435.402吨），环比增加83万盎司（约25.82吨），9月末为7747万盎司。中国央行连续第24个月增持黄金。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，据金十报道，中国10月末黄金储备报7830万盎司（约2435.402吨），环比增加83万盎司（约25.82吨），9月末为7747万盎司。中国央行连续第24个月增持黄金。</p>"
+    },
+    {
+      "title": "某地址近五天囤积74万枚LINK和3046.68枚ETH",
+      "url": "https://www.panewslab.com/zh/articles/01a1b408-3ddf-75d8-a3dd-bfa9c84d5277",
+      "source": "PANews",
+      "published": "2026-11-07T11:23:21+08:00",
+      "summary": "PANews 11月7日消息，据链上分析师 Ai 姨监测，地址 0xBA2…aB9ff 近五天累计囤积 74 万枚 LINK（823 万美元）和 3046.68 枚 ETH（692 万美元），累计花费 1515 万美元。目前该地址共持有 7…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，据链上分析师 Ai 姨监测，地址 0xBA2…aB9ff 近五天累计囤积 74 万枚 LINK（823 万美元）和 3046.68 枚 ETH（692 万美元），累计花费 1515 万美元。目前该地址共持有 78.7 万枚 LINK，补仓后持仓成本降至约 11.24 美元，现浮亏 36.6 万美元。</p>"
+    },
+    {
+      "title": "美国 HYPE 现货 ETF 单日净流出 795.98 万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1b3fa-9c35-70c2-afbe-0fee93b88df6",
+      "source": "PANews",
+      "published": "2026-11-07T11:08:28+08:00",
+      "summary": "PANews 11月7日消息，据 SoSoValue 数据，昨日（美东时间 11 月 6 日）HYPE 现货 ETF 单日总净流出 795.98 万美元。 昨日净流出最多的 HYPE 现货 ETF 为 Bitwise Hyperliquid…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月7日消息，据 SoSoValue 数据，昨日（美东时间 11 月 6 日）HYPE 现货 ETF 单日总净流出 795.98 万美元。</p> <p>昨日净流出最多的 HYPE 现货 ETF 为 Bitwise Hyperliquid ETF(BHYP)，单日净流出 705.29 万美元，目前历史总净流入达 1.14 亿美元。<br>\n其次为 21Shares Hyperliquid ETF(THYP)，单日净流出 90.70 万美元，目前历史总净流入达 2741.28 万美元。</p> <p>截至发稿前，HYPE 现货 ETF 总资产净值为 3.74 亿美元，HYPE 净资产比率 2.00%，历史累计净流入已达 2.87 亿美元。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-07T06:00:15+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-07T05:05:25+08:00",
+      "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Gl…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
+      "image_local": "assets/newsbot/img/081b6612d19e1620.jpg",
+      "content": "<p></p><p>The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.</p>"
+    },
     {
       "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
       "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
