@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:54:01.972933+08:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T03:33:46.516185+08:00",
   "items": [
     {
-      "title": "NEAR AI：攻击者利用SGLang漏洞访问部分基础设施，已完成修复",
-      "url": "https://www.panewslab.com/zh/articles/01a1c433-4b35-74c5-b64f-db21b1c822b6",
+      "title": "英伟达已聘请律所Wachtell就黄仁勋事件展开调查",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6ed-64ad-72bc-99ef-59b93493335a",
       "source": "PANews",
-      "published": "2026-11-10T14:44:18+08:00",
-      "summary": "PANews 11月10日消息，NEAR AI在X平台发文更新称，11月8日，一名攻击者利用其运行推理引擎SGLang中的漏洞，访问了部分基础设施。NEAR AI已关闭访问权限并完成修复。受影响用户已收到通知，未收到通知的用户无需采取任何行…",
+      "published": "2026-11-11T03:26:49+08:00",
+      "summary": "PANews 11月11日消息，据《纽约时报》报道，英伟达已聘请华尔街律师事务所Wachtell Lipton，就其CEO黄仁勋承认与一名被指涉嫌从事间谍活动的中国女商人存在婚外情一事展开调查，调查将由曾任纽约南区代理联邦检察官、参与调查前…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，NEAR AI在X平台发文更新称，11月8日，一名攻击者利用其运行推理引擎SGLang中的漏洞，访问了部分基础设施。NEAR AI已关闭访问权限并完成修复。受影响用户已收到通知，未收到通知的用户无需采取任何行动。</p>"
+      "content": "<p>PANews 11月11日消息，据《纽约时报》报道，英伟达已聘请华尔街律师事务所Wachtell Lipton，就其CEO黄仁勋承认与一名被指涉嫌从事间谍活动的中国女商人存在婚外情一事展开调查，调查将由曾任纽约南区代理联邦检察官、参与调查前纽约州州长科莫的金俊熙（Joon H. Kim）牵头。英伟达董事会此前表示，目前没有理由认为公司机密或国家安全遭到泄露，黄仁勋已承诺配合调查。</p>"
     },
     {
-      "title": "Coinbase、Kalshi与Payward等申请提交法庭之友意见书，支持CFTC监管股票永续合约",
-      "url": "https://www.panewslab.com/zh/articles/01a1c425-676a-740b-94de-ffbd54623f94",
+      "title": "Stripe完成收购AI模型路由平台OpenRouter",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6ec-3e4d-7713-96aa-1e1e605bcf38",
       "source": "PANews",
-      "published": "2026-11-10T14:29:08+08:00",
-      "summary": "PANews 11月10日消息，据The Block报道，Coinbase、Kalshi、Payward、DRW Holdings、Jump Trading和Paradigm已向法院申请提交法庭之友意见书，以支持美国商品期货交易委员会（CF…",
+      "published": "2026-11-11T03:25:33+08:00",
+      "summary": "PANews 11月11日消息，Stripe在X平台发帖称，AI模型路由平台OpenRouter现已正式成为Stripe的一部分，双方将合作帮助企业探索新的商业模式，并优化Token路由与使用。OpenRouter同日表示，目前已有超过10…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据The Block报道，Coinbase、Kalshi、Payward、DRW Holdings、Jump Trading和Paradigm已向法院申请提交法庭之友意见书，以支持美国商品期货交易委员会（CFTC）监管美国单一股票永续期货的权力。该意见书是对资本市场联盟（CMA）上周提起诉讼的回应，该联盟寻求推翻CFTC对这些产品的批准。CMA认为，股票永续合约不设固定到期日，应被视为“基于证券的互换”，不能在CFTC监管的交易所上市。这些加密公司则反驳称，SEC“从一开始就参与”了监管流程，两家机构曾联合征求公众意见。</p> <p>Coinbase总法律顾问Molly Abraham表示，根据《商品交易法》和国会2000年建立的证券期货框架，证券期货产品不是互换。Coinbase副董事长Ryan VanGrack称，全球市场已在交易股票永续合约，美国投资者理应在CFTC和SEC的联合监管下获得这些市场准入。</p>"
+      "content": "<p>PANews 11月11日消息，Stripe在X平台发帖称，AI模型路由平台OpenRouter现已正式成为Stripe的一部分，双方将合作帮助企业探索新的商业模式，并优化Token路由与使用。OpenRouter同日表示，目前已有超过1000万开发者和企业使用其服务。此前据彭博社8月报道，Stripe已敲定以超70亿美元收购OpenRouter的交易。</p>"
     },
     {
-      "title": "Polymarket推出提款地址白名单，添加新地址需邮箱验证并锁定48小时",
-      "url": "https://www.panewslab.com/zh/articles/01a1c418-b37a-75ef-8560-39b44b13ddd4",
+      "title": "富达三季度末持有Strategy约102万股，市值约1.56亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6d8-895f-7536-abef-3746d3466390",
       "source": "PANews",
-      "published": "2026-11-10T14:15:15+08:00",
-      "summary": "PANews 11月10日消息，Polymarket工程副总裁Josh Stevens宣布，平台推出提款地址白名单功能。用户可锁定存款钱包的提款地址，添加新地址需邮箱验证和48小时时间锁，非本人操作可通过邮件取消。这意味着即使会话被入侵或误…",
+      "published": "2026-11-11T03:04:02+08:00",
+      "summary": "PANews 11月11日消息，据美国SEC文件披露，富达旗下FMR LLC于美东时间11月10日提交2026年第三季度13F持仓报告。报告显示，截至9月30日，FMR持有Strategy（MSTR）A类普通股合计1,022,050股，按季…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，Polymarket工程副总裁Josh Stevens宣布，平台推出提款地址白名单功能。用户可锁定存款钱包的提款地址，添加新地址需邮箱验证和48小时时间锁，非本人操作可通过邮件取消。这意味着即使会话被入侵或误签恶意交易，资金也无法被转至不受控地址。该功能可在“设置-账户”中开启，Passkey支持即将上线。此外，团队正在开发非存款钱包的迁移工具，并将推出无需手动开启的高级内置安全保护。</p>"
+      "content": "<p>PANews 11月11日消息，据美国SEC文件披露，富达旗下FMR LLC于美东时间11月10日提交2026年第三季度13F持仓报告。报告显示，截至9月30日，FMR持有Strategy（MSTR）A类普通股合计1,022,050股，按季度末价格计算，市值约1.565亿美元。此外，FMR还持有Strategy发行的多笔可转债和A系列永续优先股。</p>"
     },
     {
-      "title": "分析：自10月16日以来比特币非空钱包减少约10.87万个，散户抛售情绪升温",
-      "url": "https://www.panewslab.com/zh/articles/01a1c416-85a7-73a5-a025-40566350a9b4",
+      "title": "OpenAI推出“Businesses in ChatGPT”测试版，商家可在ChatGPT内建AI客服智能体",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6c1-2c37-77f5-baf6-ff0b65d8b3d7",
       "source": "PANews",
-      "published": "2026-11-10T14:12:52+08:00",
-      "summary": "PANews 11月10日消息，Santiment发文称，比特币非空钱包数量在10月16日达到5999万个，接近6000万大关，但此后随着价格跌破7.5万美元，钱包总数减少了约10.87万个，显示散户正失去耐心。钱包数量下降并不自动意味着比…",
+      "published": "2026-11-11T02:38:30+08:00",
+      "summary": "PANews 11月11日消息，据OpenAI官方X发布，OpenAI推出“Businesses in ChatGPT”测试版。商家可以在ChatGPT中认领自己的商家页面，管理商家信息，并查看用户与自己互动情况的数据。符合条件的商家还能搭…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，Santiment发文称，比特币非空钱包数量在10月16日达到5999万个，接近6000万大关，但此后随着价格跌破7.5万美元，钱包总数减少了约10.87万个，显示散户正失去耐心。钱包数量下降并不自动意味着比特币效用萎缩。在长期下跌中，小交易者常因恐惧而整合或清空钱包，这种散户投降历史上常是重大复苏前的必要因素。若钱包数量继续减少而价格止跌，该信号将更偏看涨。比特币若能守住7.4万至7.5万美元，同时持有者数量下降，将显示恐惧上升但未引发新一轮大跌。交易所供应量也降至约128万枚BTC，若比特币收复7.8万至8万美元且散户继续投降，将强化卖家枯竭、精明交易者正在吸筹的论点。</p>"
+      "content": "<p>PANews 11月11日消息，据OpenAI官方X发布，OpenAI推出“Businesses in ChatGPT”测试版。商家可以在ChatGPT中认领自己的商家页面，管理商家信息，并查看用户与自己互动情况的数据。符合条件的商家还能搭建“Business Agent”，用来回答顾客问题，向用户介绍商家提供的产品和服务。</p>"
     },
     {
-      "title": "某新钱包从BitGo提取1489枚BTC，另有3钱包从币安提取1003枚BTC",
-      "url": "https://www.panewslab.com/zh/articles/01a1c415-2afe-7698-8688-d741f6bd964f",
+      "title": "德银预计美联储将连续三次加息，联邦基金利率目标区间升至4.50%–4.75%",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6be-d326-743a-9060-45e91fa14707",
       "source": "PANews",
-      "published": "2026-11-10T14:11:24+08:00",
-      "summary": "PANews 11月10日消息，据Lookonchain监测，巨鲸正在积累BTC。新建钱包bc1qga在40分钟前从BitGo提取1489枚BTC（1.1134亿美元）。过去24小时内，3个新建钱包从Binance提取1002.86枚BTC…",
+      "published": "2026-11-11T02:35:57+08:00",
+      "summary": "PANews 11月11日消息，据路透社报道，美国10月CPI环比上涨0.4%，高于预期的0.3%。数据公布后，德意志银行在研报中把明年1月加息也加入了预测：现在预计美联储会在今年12月、明年1月和3月各加息25个基点，联邦基金利率目标区间…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Lookonchain监测，巨鲸正在积累BTC。新建钱包bc1qga在40分钟前从BitGo提取1489枚BTC（1.1134亿美元）。过去24小时内，3个新建钱包从Binance提取1002.86枚BTC（7500万美元）。</p>"
+      "content": "<p>PANews 11月11日消息，据路透社报道，美国10月CPI环比上涨0.4%，高于预期的0.3%。数据公布后，德意志银行在研报中把明年1月加息也加入了预测：现在预计美联储会在今年12月、明年1月和3月各加息25个基点，联邦基金利率目标区间将从目前的3.75%–4%升到4.50%–4.75%。德银还说，美联储理事沃勒的讲话让12月一次加息50个基点成为可能，但这不是它的基准预期。CME FedWatch显示，市场认为12月加息的概率接近99%。</p>"
     },
     {
-      "title": "黄立成亏损4.79万美元卖出BAYC #7256",
-      "url": "https://www.panewslab.com/zh/articles/01a1c404-1abe-77bb-bcf4-5eb4b191bfe7",
-      "source": "PANews",
-      "published": "2026-11-10T13:52:45+08:00",
-      "summary": "PANews 11月10日消息，据Onchain Lens监测，黄立成（Machi Big Brother）再次亏损卖出Bored Ape，BAYC #7256以7枚ETH（约1.485万美元）卖出，3年前买入价为34.2枚ETH（约6.2…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，黄立成（Machi Big Brother）再次亏损卖出Bored Ape，BAYC #7256以7枚ETH（约1.485万美元）卖出，3年前买入价为34.2枚ETH（约6.271万美元），亏损4.787万美元。</p>"
-    },
-    {
-      "title": "某交易者三个杠杆空仓合计浮盈134万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1c3e7-92da-77a7-a2d2-0ab91deae081",
-      "source": "PANews",
-      "published": "2026-11-10T13:21:35+08:00",
-      "summary": "PANews 11月10日消息，据Onchain Lens监测，一名交易者持有三个杠杆空头仓位，包括250倍ETH空头浮盈107万美元、145倍BTC空头浮盈14.52万美元、40倍ETH空头浮盈13.3万美元，24小时交易盈利85.185…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，一名交易者持有三个杠杆空头仓位，包括250倍ETH空头浮盈107万美元、145倍BTC空头浮盈14.52万美元、40倍ETH空头浮盈13.3万美元，24小时交易盈利85.185万美元。</p>"
-    },
-    {
-      "title": "比特币现货 ETF 昨日总净流出 2.01 亿美元，持续 3 日净流出",
-      "url": "https://www.panewslab.com/zh/articles/01a1c3e3-8b87-70a1-bc11-75687fae30ce",
-      "source": "PANews",
-      "published": "2026-11-10T13:17:11+08:00",
-      "summary": "PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）比特币现货 ETF 总净流出 2.01 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 22…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）比特币现货 ETF 总净流出 2.01 亿美元。<br>\n昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 2206.19 万美元，目前 MSBT 历史总净流入达 8.05 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 2.13 亿美元，目前 IBIT 历史总净流入达 648.88 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 944.35 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.27%，历史累计净流入已达 554.98 亿美元。</p>"
-    },
-    {
-      "title": "以太坊现货 ETF 昨日总净流出 1.85 亿美元，持续 3 日净流出",
-      "url": "https://www.panewslab.com/zh/articles/01a1c3e3-4b0d-74b2-b0d7-dee75a84188a",
-      "source": "PANews",
-      "published": "2026-11-10T13:16:55+08:00",
-      "summary": "PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）以太坊现货 ETF 总净流出 1.85 亿美元。 昨日单日净流入最多的以太坊现货 ETF 为 摩根士丹利 (Morgan Stanley) E…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）以太坊现货 ETF 总净流出 1.85 亿美元。<br>\n昨日单日净流入最多的以太坊现货 ETF 为 摩根士丹利 (Morgan Stanley) Ethereum Trust MSSE，单日净流入为 160.18 万美元，目前 MSSE 历史总净流入达 4984.23 万美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 1.19 亿美元，目前 ETHA 历史总净流入达 114.04 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 120.70 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.64%，历史累计净流入已达 117.38 亿美元。</p>"
-    },
-    {
-      "title": "某钱包从Tornado Cash提取220枚ETH，通过CowSwap兑换为USDT并跨链至波场",
-      "url": "https://www.panewslab.com/zh/articles/01a1c3e2-80bd-7529-8ef4-2490bdeacb2c",
-      "source": "PANews",
-      "published": "2026-11-10T13:16:03+08:00",
-      "summary": "PANews 11月10日消息，据Onchain Lens监测，一个钱包从Tornado Cash提取约220枚ETH（约46.66万美元），通过CowSwap兑换为USDT并跨链至波场，随后使用TronLink的GasFree钱包将USD…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，一个钱包从Tornado Cash提取约220枚ETH（约46.66万美元），通过CowSwap兑换为USDT并跨链至波场，随后使用TronLink的GasFree钱包将USDT分发至多个地址，最新一笔转账为45万枚USDT。</p>"
-    },
-    {
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-10T13:05:58+08:00",
-      "summary": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg",
-      "image_local": "assets/newsbot/img/7355db3793cb0a7e.jpg",
-      "content": "<p></p><p>“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph. </p>"
+      "published": "2026-11-11T02:12:07+08:00",
+      "summary": "trading app crypto messenger phone.jpg",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M732NFDQVGSJE1VGENNVNKQT/trading-app-crypto-messenger-phone.jpg",
+      "image_local": "assets/newsbot/img/c0edbbec7e5c9fd9.jpg",
+      "content": "trading app crypto messenger phone.jpg"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "智能戒指制造商Oura拟以6.25亿美元现金收购AI医疗公司Counsel Health",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6a3-4691-76fc-8d5e-cbd71213144e",
+      "source": "PANews",
+      "published": "2026-11-11T02:05:51+08:00",
+      "summary": "PANews 11月11日消息，据Oura公告，智能戒指制造商Oura已与AI原生初级医疗公司Counsel Health签署最终协议，将以6.25亿美元现金收购后者，最终价格视收购价格调整而定，交易预计在今年年底前完成。收购完成后，Our…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月11日消息，据Oura公告，智能戒指制造商Oura已与AI原生初级医疗公司Counsel Health签署最终协议，将以6.25亿美元现金收购后者，最终价格视收购价格调整而定，交易预计在今年年底前完成。收购完成后，Oura用户可以在App内直接和Counsel的医疗AI对话，获取个性化建议，需要时几分钟内就能转接持证医生。Oura表示，公司本季度实现153%的创纪录增长，会员已超过600万。</p>"
+    },
+    {
+      "title": "美国迈阿密-戴德县开始接受用比特币缴纳房产税",
+      "url": "https://www.panewslab.com/zh/articles/01a1c6a1-1679-71eb-827c-e26492ea48db",
+      "source": "PANews",
+      "published": "2026-11-11T02:03:28+08:00",
+      "summary": "PANews 11月11日消息，据NBC 6报道，美国佛罗里达州迈阿密-戴德县税务官Dariel Fernandez的办公室宣布，房产所有者现在可以在线上或线下用比特币缴纳房产税。付款时，用户连接受支持的加密货币交易所账户或数字钱包并授权即…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月11日消息，据NBC 6报道，美国佛罗里达州迈阿密-戴德县税务官Dariel Fernandez的办公室宣布，房产所有者现在可以在线上或线下用比特币缴纳房产税。付款时，用户连接受支持的加密货币交易所账户或数字钱包并授权即可，款项到账前会自动兑换成美元，税务官办公室不持有、不投资也不管理任何加密资产。比特币缴税是自愿选项，原有的传统缴税方式全部保留。</p>"
+    },
+    {
+      "title": "Venmo 联合创始人携手 Solo，为 JellyJelly 引入免证件真人验证",
+      "url": "https://www.panewslab.com/zh/articles/01a1c558-d2e9-757c-afd7-a3fd929cedbb",
+      "source": "PANews",
+      "published": "2026-11-11T02:00:00+08:00",
+      "summary": "PANews 11月10日消息，Venmo 联合创始人、Solo 顾问 Iqram Magdon-Ismail 将 Solo 的真人验证技术接入了他创办的 Solana 社交短视频应用 JellyJelly。用户不用出示政府证件，也不用解…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，Venmo 联合创始人、Solo 顾问 Iqram Magdon-Ismail 将 Solo 的真人验证技术接入了他创办的 Solana 社交短视频应用 JellyJelly。用户不用出示政府证件，也不用解 CAPTCHA，就能证明自己是真实且唯一的个人。验证时，用户先用手机摄像头扫描面部，扫描结果在设备端经全同态加密（FHE）处理后再做比对，系统不存储原始面部图像。Solo 获 Draper Associates 投资，入选 Solana Incubator 第五期，接下来计划开发 AI 智能体授权与支付功能。</p>"
+    },
+    {
+      "title": "ZEC24小时跌超11%，日内一度跌破1000美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1c69b-3a2d-73e9-a719-cca4104917f8",
+      "source": "PANews",
+      "published": "2026-11-11T01:57:04+08:00",
+      "summary": "PANews 11月11日消息，欧易OKX行情显示，ZEC日内一度跌至993.43美元，跌破1000美元关口，现报1040.75美元，24小时跌幅为11.13%。同期加密市场普遍走弱，ETH、SOL24小时跌幅均超4%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月11日消息，欧易OKX行情显示，ZEC日内一度跌至993.43美元，跌破1000美元关口，现报1040.75美元，24小时跌幅为11.13%。同期加密市场普遍走弱，ETH、SOL24小时跌幅均超4%。</p>"
+    },
+    {
+      "title": "微软市值超越英伟达，为2025年6月以来首次",
+      "url": "https://www.panewslab.com/zh/articles/01a1c686-5ffa-73fe-a66e-3768c968d653",
+      "source": "PANews",
+      "published": "2026-11-11T01:34:17+08:00",
+      "summary": "PANews 11月11日消息，据路透社报道，美东时间11月10日，英伟达股价跌超6%，至约167美元。微软市值随即超过英伟达，成为全球市值第二高的公司，这是2025年6月以来的第一次。当时微软市值约4.03万亿美元，英伟达约4.02万亿美…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月11日消息，据路透社报道，美东时间11月10日，英伟达股价跌超6%，至约167美元。微软市值随即超过英伟达，成为全球市值第二高的公司，这是2025年6月以来的第一次。当时微软市值约4.03万亿美元，英伟达约4.02万亿美元。</p>"
+    },
+    {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-10T06:06:26+08:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
-      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+      "published": "2026-11-11T01:31:09+08:00",
+      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising c…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7336RAJMBE41VQRYSYWFP63/us-federal-reserve-1.jpg",
+      "image_local": "assets/newsbot/img/d5ae380f86ef5f7e.jpg",
+      "content": "<p></p><p>US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.</p>"
     }
   ]
 }
