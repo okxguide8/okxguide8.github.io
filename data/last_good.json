@@ -1,7 +1,117 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T06:12:11.155242+08:00",
+  "generated_at": "2026-11-10T14:54:01.972933+08:00",
   "items": [
+    {
+      "title": "NEAR AI：攻击者利用SGLang漏洞访问部分基础设施，已完成修复",
+      "url": "https://www.panewslab.com/zh/articles/01a1c433-4b35-74c5-b64f-db21b1c822b6",
+      "source": "PANews",
+      "published": "2026-11-10T14:44:18+08:00",
+      "summary": "PANews 11月10日消息，NEAR AI在X平台发文更新称，11月8日，一名攻击者利用其运行推理引擎SGLang中的漏洞，访问了部分基础设施。NEAR AI已关闭访问权限并完成修复。受影响用户已收到通知，未收到通知的用户无需采取任何行…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，NEAR AI在X平台发文更新称，11月8日，一名攻击者利用其运行推理引擎SGLang中的漏洞，访问了部分基础设施。NEAR AI已关闭访问权限并完成修复。受影响用户已收到通知，未收到通知的用户无需采取任何行动。</p>"
+    },
+    {
+      "title": "Coinbase、Kalshi与Payward等申请提交法庭之友意见书，支持CFTC监管股票永续合约",
+      "url": "https://www.panewslab.com/zh/articles/01a1c425-676a-740b-94de-ffbd54623f94",
+      "source": "PANews",
+      "published": "2026-11-10T14:29:08+08:00",
+      "summary": "PANews 11月10日消息，据The Block报道，Coinbase、Kalshi、Payward、DRW Holdings、Jump Trading和Paradigm已向法院申请提交法庭之友意见书，以支持美国商品期货交易委员会（CF…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，据The Block报道，Coinbase、Kalshi、Payward、DRW Holdings、Jump Trading和Paradigm已向法院申请提交法庭之友意见书，以支持美国商品期货交易委员会（CFTC）监管美国单一股票永续期货的权力。该意见书是对资本市场联盟（CMA）上周提起诉讼的回应，该联盟寻求推翻CFTC对这些产品的批准。CMA认为，股票永续合约不设固定到期日，应被视为“基于证券的互换”，不能在CFTC监管的交易所上市。这些加密公司则反驳称，SEC“从一开始就参与”了监管流程，两家机构曾联合征求公众意见。</p> <p>Coinbase总法律顾问Molly Abraham表示，根据《商品交易法》和国会2000年建立的证券期货框架，证券期货产品不是互换。Coinbase副董事长Ryan VanGrack称，全球市场已在交易股票永续合约，美国投资者理应在CFTC和SEC的联合监管下获得这些市场准入。</p>"
+    },
+    {
+      "title": "Polymarket推出提款地址白名单，添加新地址需邮箱验证并锁定48小时",
+      "url": "https://www.panewslab.com/zh/articles/01a1c418-b37a-75ef-8560-39b44b13ddd4",
+      "source": "PANews",
+      "published": "2026-11-10T14:15:15+08:00",
+      "summary": "PANews 11月10日消息，Polymarket工程副总裁Josh Stevens宣布，平台推出提款地址白名单功能。用户可锁定存款钱包的提款地址，添加新地址需邮箱验证和48小时时间锁，非本人操作可通过邮件取消。这意味着即使会话被入侵或误…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，Polymarket工程副总裁Josh Stevens宣布，平台推出提款地址白名单功能。用户可锁定存款钱包的提款地址，添加新地址需邮箱验证和48小时时间锁，非本人操作可通过邮件取消。这意味着即使会话被入侵或误签恶意交易，资金也无法被转至不受控地址。该功能可在“设置-账户”中开启，Passkey支持即将上线。此外，团队正在开发非存款钱包的迁移工具，并将推出无需手动开启的高级内置安全保护。</p>"
+    },
+    {
+      "title": "分析：自10月16日以来比特币非空钱包减少约10.87万个，散户抛售情绪升温",
+      "url": "https://www.panewslab.com/zh/articles/01a1c416-85a7-73a5-a025-40566350a9b4",
+      "source": "PANews",
+      "published": "2026-11-10T14:12:52+08:00",
+      "summary": "PANews 11月10日消息，Santiment发文称，比特币非空钱包数量在10月16日达到5999万个，接近6000万大关，但此后随着价格跌破7.5万美元，钱包总数减少了约10.87万个，显示散户正失去耐心。钱包数量下降并不自动意味着比…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，Santiment发文称，比特币非空钱包数量在10月16日达到5999万个，接近6000万大关，但此后随着价格跌破7.5万美元，钱包总数减少了约10.87万个，显示散户正失去耐心。钱包数量下降并不自动意味着比特币效用萎缩。在长期下跌中，小交易者常因恐惧而整合或清空钱包，这种散户投降历史上常是重大复苏前的必要因素。若钱包数量继续减少而价格止跌，该信号将更偏看涨。比特币若能守住7.4万至7.5万美元，同时持有者数量下降，将显示恐惧上升但未引发新一轮大跌。交易所供应量也降至约128万枚BTC，若比特币收复7.8万至8万美元且散户继续投降，将强化卖家枯竭、精明交易者正在吸筹的论点。</p>"
+    },
+    {
+      "title": "某新钱包从BitGo提取1489枚BTC，另有3钱包从币安提取1003枚BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a1c415-2afe-7698-8688-d741f6bd964f",
+      "source": "PANews",
+      "published": "2026-11-10T14:11:24+08:00",
+      "summary": "PANews 11月10日消息，据Lookonchain监测，巨鲸正在积累BTC。新建钱包bc1qga在40分钟前从BitGo提取1489枚BTC（1.1134亿美元）。过去24小时内，3个新建钱包从Binance提取1002.86枚BTC…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，据Lookonchain监测，巨鲸正在积累BTC。新建钱包bc1qga在40分钟前从BitGo提取1489枚BTC（1.1134亿美元）。过去24小时内，3个新建钱包从Binance提取1002.86枚BTC（7500万美元）。</p>"
+    },
+    {
+      "title": "黄立成亏损4.79万美元卖出BAYC #7256",
+      "url": "https://www.panewslab.com/zh/articles/01a1c404-1abe-77bb-bcf4-5eb4b191bfe7",
+      "source": "PANews",
+      "published": "2026-11-10T13:52:45+08:00",
+      "summary": "PANews 11月10日消息，据Onchain Lens监测，黄立成（Machi Big Brother）再次亏损卖出Bored Ape，BAYC #7256以7枚ETH（约1.485万美元）卖出，3年前买入价为34.2枚ETH（约6.2…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，黄立成（Machi Big Brother）再次亏损卖出Bored Ape，BAYC #7256以7枚ETH（约1.485万美元）卖出，3年前买入价为34.2枚ETH（约6.271万美元），亏损4.787万美元。</p>"
+    },
+    {
+      "title": "某交易者三个杠杆空仓合计浮盈134万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1c3e7-92da-77a7-a2d2-0ab91deae081",
+      "source": "PANews",
+      "published": "2026-11-10T13:21:35+08:00",
+      "summary": "PANews 11月10日消息，据Onchain Lens监测，一名交易者持有三个杠杆空头仓位，包括250倍ETH空头浮盈107万美元、145倍BTC空头浮盈14.52万美元、40倍ETH空头浮盈13.3万美元，24小时交易盈利85.185…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，一名交易者持有三个杠杆空头仓位，包括250倍ETH空头浮盈107万美元、145倍BTC空头浮盈14.52万美元、40倍ETH空头浮盈13.3万美元，24小时交易盈利85.185万美元。</p>"
+    },
+    {
+      "title": "比特币现货 ETF 昨日总净流出 2.01 亿美元，持续 3 日净流出",
+      "url": "https://www.panewslab.com/zh/articles/01a1c3e3-8b87-70a1-bc11-75687fae30ce",
+      "source": "PANews",
+      "published": "2026-11-10T13:17:11+08:00",
+      "summary": "PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）比特币现货 ETF 总净流出 2.01 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 22…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）比特币现货 ETF 总净流出 2.01 亿美元。<br>\n昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 2206.19 万美元，目前 MSBT 历史总净流入达 8.05 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 2.13 亿美元，目前 IBIT 历史总净流入达 648.88 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 944.35 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.27%，历史累计净流入已达 554.98 亿美元。</p>"
+    },
+    {
+      "title": "以太坊现货 ETF 昨日总净流出 1.85 亿美元，持续 3 日净流出",
+      "url": "https://www.panewslab.com/zh/articles/01a1c3e3-4b0d-74b2-b0d7-dee75a84188a",
+      "source": "PANews",
+      "published": "2026-11-10T13:16:55+08:00",
+      "summary": "PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）以太坊现货 ETF 总净流出 1.85 亿美元。 昨日单日净流入最多的以太坊现货 ETF 为 摩根士丹利 (Morgan Stanley) E…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 9 日）以太坊现货 ETF 总净流出 1.85 亿美元。<br>\n昨日单日净流入最多的以太坊现货 ETF 为 摩根士丹利 (Morgan Stanley) Ethereum Trust MSSE，单日净流入为 160.18 万美元，目前 MSSE 历史总净流入达 4984.23 万美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 1.19 亿美元，目前 ETHA 历史总净流入达 114.04 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 120.70 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.64%，历史累计净流入已达 117.38 亿美元。</p>"
+    },
+    {
+      "title": "某钱包从Tornado Cash提取220枚ETH，通过CowSwap兑换为USDT并跨链至波场",
+      "url": "https://www.panewslab.com/zh/articles/01a1c3e2-80bd-7529-8ef4-2490bdeacb2c",
+      "source": "PANews",
+      "published": "2026-11-10T13:16:03+08:00",
+      "summary": "PANews 11月10日消息，据Onchain Lens监测，一个钱包从Tornado Cash提取约220枚ETH（约46.66万美元），通过CowSwap兑换为USDT并跨链至波场，随后使用TronLink的GasFree钱包将USD…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月10日消息，据Onchain Lens监测，一个钱包从Tornado Cash提取约220枚ETH（约46.66万美元），通过CowSwap兑换为USDT并跨链至波场，随后使用TronLink的GasFree钱包将USDT分发至多个地址，最新一笔转账为45万枚USDT。</p>"
+    },
+    {
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-10T13:05:58+08:00",
+      "summary": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg",
+      "image_local": "assets/newsbot/img/7355db3793cb0a7e.jpg",
+      "content": "<p></p><p>“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph. </p>"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -11,116 +121,6 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
       "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
-    },
-    {
-      "title": "代币化平台Securitize拟收购融资平台River One",
-      "url": "https://www.panewslab.com/zh/articles/01a1c24e-f7c9-7049-bfbf-94655c6a13b7",
-      "source": "PANews",
-      "published": "2026-11-10T05:55:17+08:00",
-      "summary": "PANews 11月10日消息，据官方公告，代币化平台Securitize（SECZ）已签署最终协议，收购纽约机构资产支持融资平台River One，交易财务条款未披露，预计于2026年第四季度完成。River One成立于2025年，由F…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据官方公告，代币化平台Securitize（SECZ）已签署最终协议，收购纽约机构资产支持融资平台River One，交易财务条款未披露，预计于2026年第四季度完成。River One成立于2025年，由Framework Ventures孵化，获Framework Ventures和Maple Finance投资，主要为小企业贷款、应收账款等生息资产提供仓储融资，旨在连接稳定币资本与传统借贷市场。</p> <p>同日，Securitize公布第三季度财报，营收1860万美元，同比增长13%；净亏损6630万美元，其中约6000万美元为与合并上市相关的非现金费用；平台代币化资产平均规模达50亿美元，同比增长39%。</p>"
-    },
-    {
-      "title": "矿企MARA出售比特币偿还7.5亿美元债务，并批准5亿美元回购",
-      "url": "https://www.panewslab.com/zh/articles/01a1c232-da4d-77ad-8a3b-604bb474f287",
-      "source": "PANews",
-      "published": "2026-11-10T05:24:35+08:00",
-      "summary": "PANews 11月10日消息，据MARA Holdings第三季度股东信显示，比特币矿企MARA在季度结束后通过出售比特币偿还了7.5亿美元以比特币为抵押的债务，此前质押的BTC已全部解除，目前其BTC持仓中被借出或质押的比例不足5%。该…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据MARA Holdings第三季度股东信显示，比特币矿企MARA在季度结束后通过出售比特币偿还了7.5亿美元以比特币为抵押的债务，此前质押的BTC已全部解除，目前其BTC持仓中被借出或质押的比例不足5%。该公司表示，将继续利用比特币筹集现金，用于AI基础设施投资、应对明年可行权的可转债回售以及潜在的股票回购。此外，其董事会已批准最高5亿美元的股票回购计划。截至9月30日，MARA持有34012枚BTC，第三季度开采2247枚、出售3891枚；当季营收1.642亿美元，同比下降35%，净利润6.321亿美元。</p>"
-    },
-    {
-      "title": "美股三大指数集体收涨：AMD上涨13.61%，SPCX上涨6.09%",
-      "url": "https://www.panewslab.com/zh/articles/01a1c21d-461e-7480-99e5-e98d6dab60b2",
-      "source": "PANews",
-      "published": "2026-11-10T05:01:00+08:00",
-      "summary": "PANews 11月10日消息，据币安行情，美股收盘，三大指数集体收涨，道指日内涨幅达2.21%，纳指日内涨幅达3.33%，标普500指数日内涨幅达2.32%。重要标的方面，AMD上涨13.61%，SPCX上涨6.09%，Tesla（TSL…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据币安行情，美股收盘，三大指数集体收涨，道指日内涨幅达2.21%，纳指日内涨幅达3.33%，标普500指数日内涨幅达2.32%。重要标的方面，AMD上涨13.61%，SPCX上涨6.09%，Tesla（TSLA）上涨6.01%，Micron（MU）上涨5.97%，SanDisk（SNDK）上涨5.75%，SKHY上涨5.28%。</p>"
-    },
-    {
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-10T05:00:00+08:00",
-      "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also l…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png",
-      "image_local": "",
-      "content": "<p></p><p>Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.</p>"
-    },
-    {
-      "title": "Robinhood表态支持其股票在OKXICE代币化交易",
-      "url": "https://www.panewslab.com/zh/articles/01a1c219-897c-75c5-b821-738d0ded4a1a",
-      "source": "PANews",
-      "published": "2026-11-10T04:56:55+08:00",
-      "summary": "PANews 11月10日消息，据CoinDesk报道，Robinhood发言人确认，公司未反对其股票在OKX与洲际交易所（ICE）合资的代币化证券交易平台OKXICE上交易，并表示“我们宁愿参与建设，也不愿袖手旁观”。CoinDesk根据…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据CoinDesk报道，Robinhood发言人确认，公司未反对其股票在OKX与洲际交易所（ICE）合资的代币化证券交易平台OKXICE上交易，并表示“我们宁愿参与建设，也不愿袖手旁观”。CoinDesk根据该平台11月5日的公开通知统计，最初提议的62家公司中已有56家提出反对，Robinhood、Circle、Coinbase、Strategy等6家尚未披露反对意见。OKXICE有5个工作日披露反对意见，相关名单在11月10日前后仍可能变化。</p>"
-    },
-    {
-      "title": "AI推理平台Fireworks再遭黑客入侵，部分客户数据外泄",
-      "url": "https://www.panewslab.com/zh/articles/01a1c216-ac1a-706c-9797-abd8d5acf42d",
-      "source": "PANews",
-      "published": "2026-11-10T04:53:48+08:00",
-      "summary": "PANews 11月10日消息，据福布斯等多家媒体报道，英伟达支持的AI推理基础设施公司Fireworks周一表示，黑客在过去一个月内访问了部分客户的数据集和模型，泄露信息涉及账单与账户信息、地址、付款记录及部分未完成的AI模型。Firew…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据福布斯等多家媒体报道，英伟达支持的AI推理基础设施公司Fireworks周一表示，黑客在过去一个月内访问了部分客户的数据集和模型，泄露信息涉及账单与账户信息、地址、付款记录及部分未完成的AI模型。Fireworks将事件归因于“LLMjacking”（窃取AI模型访问权限并转售），目前正与Palo Alto Networks旗下Unit 42合作调查。该公司10月初曾披露内部凭证遭未授权使用，10月24日另有一起攻击波及其研发数据存储。Fireworks拥有约1万家企业客户，包括Uber、Shopify、Cursor等，今年7月估值达175亿美元。</p>"
-    },
-    {
-      "title": "WLFI称代币回购将通过Aster执行，并公布回购钱包",
-      "url": "https://www.panewslab.com/zh/articles/01a1c200-50a7-703e-8991-8e6b1bc95599",
-      "source": "PANews",
-      "published": "2026-11-10T04:29:22+08:00",
-      "summary": "PANews 11月10日消息，World Liberty Financial（WLFI）在X平台发帖称，WLFI代币回购将通过Aster执行，并公布了BNB Chain上的回购钱包地址，社区可在链上跟踪该钱包的活动及回购交易。WLFI表示…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，World Liberty Financial（WLFI）在X平台发帖称，WLFI代币回购将通过Aster执行，并公布了BNB Chain上的回购钱包地址，社区可在链上跟踪该钱包的活动及回购交易。WLFI表示，回购旨在加强长期持有者对治理的参与，资金可能来自多种来源，其中USD1相关收入在扣除合作方分成、直接成本及其他义务后可用于支持回购；回购的时间、规模和执行方式将视可用资源等因素确定，并可能随时调整或终止。此前，WLFI于11月6日宣布将推出代币回购计划。</p>"
-    },
-    {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-10T04:26:34+08:00",
-      "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure tr…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
-      "image_local": "assets/newsbot/img/9ef7bd0f1bd1d2c5.jpg",
-      "content": "<p></p><p>The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.</p>"
-    },
-    {
-      "title": "Meta推出最小推理模型Muse Ember，主打智能体任务",
-      "url": "https://www.panewslab.com/zh/articles/01a1c1e0-ddad-75e4-a5a1-f5e0e7703144",
-      "source": "PANews",
-      "published": "2026-11-10T03:55:01+08:00",
-      "summary": "PANews 11月10日消息，据Meta官方消息，Meta推出其迄今最小、最高效的模型Muse Ember，面向复杂推理执行及日常智能体任务，可跨应用执行工作流、按顺序调用工具、运行测试并进行针对性代码修复。该模型原生支持文本、图像、音频…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Meta官方消息，Meta推出其迄今最小、最高效的模型Muse Ember，面向复杂推理执行及日常智能体任务，可跨应用执行工作流、按顺序调用工具、运行测试并进行针对性代码修复。该模型原生支持文本、图像、音频和视频输入，上下文窗口为100万Token，最大输出51.2万Token，定价为每百万输入Token 0.1美元、每百万输出Token 0.5美元，现已通过Muse Code和Meta Model API上线。Meta称，Muse Ember在Terminal-Bench 4.0、OSWorld 2.1等多项基准测试中得分高于Claude Haiku 5.5和GPT-6 Luna。</p>"
-    },
-    {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-10T03:52:34+08:00",
-      "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png",
-      "image_local": "assets/newsbot/img/f250b346584e2137.jpg",
-      "content": "<p></p><p>The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.</p>"
-    },
-    {
-      "title": "Anthropic发布Fable 5.2与Mythos 5.2，API降价20%",
-      "url": "https://www.panewslab.com/zh/articles/01a1c1c4-29f0-768d-95c2-d19e6b205f37",
-      "source": "PANews",
-      "published": "2026-11-10T03:23:40+08:00",
-      "summary": "PANews 11月10日消息，据Anthropic官网消息，Anthropic发布Claude Fable 5.2与Claude Mythos 5.2。二者为同一底层模型，Fable配备网络安全与生物领域防护措施，向所有用户开放；Myth…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月10日消息，据Anthropic官网消息，Anthropic发布Claude Fable 5.2与Claude Mythos 5.2。二者为同一底层模型，Fable配备网络安全与生物领域防护措施，向所有用户开放；Mythos需通过网络安全或生命科学验证计划申请使用。新模型在编程、推理和视觉等方面有所提升，输出速度较5.1版本最高提升30%，API价格降至每百万输入token 8美元、每百万输出token 40美元（此前Fable 5.1为10美元和50美元）。官方称，Fable 5.2在FrontierCode 2.0评测（Xhigh effort）中得分49.1%，为其测试过的已发布模型中最高。Fable 5.2即日起在Claude平台及AWS、Google Cloud、Microsoft Azure上线。</p>"
     }
   ]
 }
