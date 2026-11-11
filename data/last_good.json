@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T13:43:29.147017+08:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:27:45.829654+08:00",
   "items": [
     {
-      "title": "Gonka 披露最新进展：基金会正式成立，10 月处理 3.5 万亿 AI tokens，推进芯片研发",
-      "url": "https://www.panewslab.com/zh/articles/01a1c918-856c-75c5-98ba-985a6463c996",
+      "title": "Polymarket确认进行重组并裁员，部分承包商合作终止",
+      "url": "https://www.panewslab.com/zh/articles/01a1cc10-a216-7748-aeb3-e3bc62a4a8e5",
       "source": "PANews",
-      "published": "2026-11-11T13:33:09+08:00",
-      "summary": "PANews 11月11日消息，去中心化 AI 算力网络 Gonka 公布，2026 年 10 月网络处理了 3.5 万亿 AI tokens，高于 9 月的超过 1 万亿，日均约 1,130 亿。社区同期通过第 115 号治理提案，启用动…",
+      "published": "2026-11-12T03:23:24+08:00",
+      "summary": "PANews 11月12日消息，据彭博社报道，预测市场平台Polymarket正进行重组，包括裁员并终止与多家承包商的合作。上周X平台流传的一封邮件截图称公司本月将进行“全公司范围的裁员”，Polymarket已确认该邮件属实。公司在声明中…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，去中心化 AI 算力网络 Gonka 公布，2026 年 10 月网络处理了 3.5 万亿 AI tokens，高于 9 月的超过 1 万亿，日均约 1,130 亿。社区同期通过第 115 号治理提案，启用动态模型系数。</p> <p>Gonka Foundation 已完成法律注册，定位为支持协议发展、提供法律代表及协调合作的独立非营利组织，相关社区授权与预算安排分别通过治理程序推进。联合创始人 Daniil Liberman 表示，团队正在参与新芯片开发，具体规格及量产时间尚未公布。</p> <p>此外，联合创始人 Daniil 与 David Liberman 已确认受邀出席 12 月 1—2 日在迪拜举办的 Blockchain Life 并发表演讲。</p>"
+      "content": "<p>PANews 11月12日消息，据彭博社报道，预测市场平台Polymarket正进行重组，包括裁员并终止与多家承包商的合作。上周X平台流传的一封邮件截图称公司本月将进行“全公司范围的裁员”，Polymarket已确认该邮件属实。公司在声明中表示，随着公司发展和新领导层加入，公司进行了重组，涉及大量新员工招聘、人员调整及部分员工离职，但拒绝透露具体人数。报道称，Polymarket曾是最大的预测市场交易所，但后来被Kalshi超越；公司9月聘请亚马逊前财务高管担任首位首席财务官，近期还引入了来自高盛、DoorDash和Robinhood的高管。</p>"
     },
     {
-      "title": "以太坊现货 ETF 昨日总净流出 131.68 万美元，持续 4 日净流出",
-      "url": "https://www.panewslab.com/zh/articles/01a1c911-3660-7586-92bd-7c52dbd6c60a",
+      "title": "美联航将禁止个人AI代理代客预订机票",
+      "url": "https://www.panewslab.com/zh/articles/01a1cbf9-039b-777c-ab6a-f78aa0d56aa7",
       "source": "PANews",
-      "published": "2026-11-11T13:25:10+08:00",
-      "summary": "PANews 11月11日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 10 日）以太坊现货 ETF 总净流出 131.68 万美元。 昨日单日净流入最多的以太坊现货 ETF 为贝莱德（Blackrock）Staked E…",
+      "published": "2026-11-12T02:57:36+08:00",
+      "summary": "PANews 11月12日消息，据《华尔街日报》报道，美国联合航空周三表示，将阻止个人AI助手访问其系统为用户预订机票。该公司称，担心此类自动化代理可能泄露客户敏感信息或进行未经授权的购买，并可能违反美国联邦航空管理局（FAA）和交通部（D…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 10 日）以太坊现货 ETF 总净流出 131.68 万美元。<br>\n昨日单日净流入最多的以太坊现货 ETF 为贝莱德（Blackrock）Staked ETH ETF ETHB，单日净流入为 105.43 万美元，目前 ETHB 历史总净流入达 7.65 亿美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为灰度（Grayscale）以太坊迷你信托 ETF ETH，单日净流出为 196.18 万美元，目前 ETH 历史总净流入达 19.70 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 116.43 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.63%，历史累计净流入已达 117.37 亿美元。</p>"
+      "content": "<p>PANews 11月12日消息，据《华尔街日报》报道，美国联合航空周三表示，将阻止个人AI助手访问其系统为用户预订机票。该公司称，担心此类自动化代理可能泄露客户敏感信息或进行未经授权的购买，并可能违反美国联邦航空管理局（FAA）和交通部（DOT）的相关规定。美联航方面还表示，不希望再增加一个“中间人”。</p>"
     },
     {
-      "title": "比特币现货 ETF 昨日总净流出 9500.12 万美元，持续 4 日净流出",
-      "url": "https://www.panewslab.com/zh/articles/01a1c911-092d-73ea-9bf1-c2b6c6f43c81",
+      "title": "野村考虑出售加密子公司Laser Digital，Marex正评估交易",
+      "url": "https://www.panewslab.com/zh/articles/01a1cbf4-4239-73a1-9155-269599340c5e",
       "source": "PANews",
-      "published": "2026-11-11T13:24:59+08:00",
-      "summary": "PANews 11月11日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 10 日）比特币现货 ETF 总净流出 9500.12 万美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入…",
+      "published": "2026-11-12T02:52:25+08:00",
+      "summary": "PANews 11月12日消息，据彭博社报道，知情人士透露，日本最大券商野村控股正考虑出售旗下加密业务子公司Laser Digital Holdings AG，目前正与包括Marex集团在内的潜在买家洽谈，Marex正在评估该交易。知情人士…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 10 日）比特币现货 ETF 总净流出 9500.12 万美元。<br>\n昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 2002.51 万美元，目前 MSBT 历史总净流入达 8.25 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 7823.62 万美元，目前 IBIT 历史总净流入达 648.10 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 928.24 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.26%，历史累计净流入已达 554.03 亿美元。</p>"
+      "content": "<p>PANews 11月12日消息，据彭博社报道，知情人士透露，日本最大券商野村控股正考虑出售旗下加密业务子公司Laser Digital Holdings AG，目前正与包括Marex集团在内的潜在买家洽谈，Marex正在评估该交易。知情人士称，野村尚未做出最终决定，最终可能出售给其他方，也可能继续持有。野村和Marex发言人均拒绝置评。报道称，总部位于苏黎世的Laser Digital去年因加密市场剧烈波动出现亏损，拖累野村欧洲业务整体陷入亏损。</p>"
     },
     {
-      "title": "Trust Wallet称其iOS用户不受worse_query漏洞影响",
-      "url": "https://www.panewslab.com/zh/articles/01a1c90f-e330-7007-8dac-eb020ca47d59",
-      "source": "PANews",
-      "published": "2026-11-11T13:23:44+08:00",
-      "summary": "PANews 11月11日消息，Trust Wallet在X平台发文表示，其iOS用户不受worse_query漏洞影响。Trust Wallet称从不以明文形式存储用户的助记词或私钥，每个钱包均在用户设备上加密，并由其内置安全机制保护…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，Trust Wallet在X平台发文表示，其iOS用户不受worse_query漏洞影响。Trust Wallet称从不以明文形式存储用户的助记词或私钥，每个钱包均在用户设备上加密，并由其内置安全机制保护。</p> <p>此前消息，<a href=\"https://www.panewslab.com/zh/articles/01a1c367-686f-70f4-adae-5643a609225b\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">慢雾发文称，iOS worse_query漏洞属沙盒逃逸，需警惕钱包助记词明文存储风险</a>。</p>"
-    },
-    {
-      "title": "阿里Qwen Code 1.0发布：Qoder与Qwen Code Harness融合开源",
-      "url": "https://www.panewslab.com/zh/articles/01a1c904-7030-77e2-a31f-2ce7ea7a8d08",
-      "source": "PANews",
-      "published": "2026-11-11T13:11:13+08:00",
-      "summary": "PANews 11月11日消息，据IT之家报道，阿里宣布推出Qwen Code 1.0版本，并将Qoder与Qwen Code融合开源。阿里将Qoder中打磨的Harness能力融入Qwen Code，随Qwen Code 1.0 Prev…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据IT之家报道，阿里宣布推出Qwen Code 1.0版本，并将Qoder与Qwen Code融合开源。阿里将Qoder中打磨的Harness能力融入Qwen Code，随Qwen Code 1.0 Preview一起开放，为开发者提供可嵌入自身产品的Agent运行基础。</p> <p>Qwen Code 1.0从进程内的内存事件总线起步，向分布式演进，将接入、调度与执行分层扩展，通过“手脑分离”让推理编排与工具执行独立管理。本次发布将Qoder与Qwen Code的Harness能力纳入同一套开源内核，Harness负责衔接模型、工具与执行过程，开发者可据此构建适合自身场景的Agent系统。Qwen Code 1.0 Preview以独立分支开放，现有稳定分支继续保留。</p>"
-    },
-    {
-      "title": "前Ripple CTO David Schwartz称已卖出几乎所有加密资产",
-      "url": "https://www.panewslab.com/zh/articles/01a1c900-8168-7285-a201-584d5f4ab05c",
-      "source": "PANews",
-      "published": "2026-11-11T13:06:55+08:00",
-      "summary": "PANews 11月11日消息，据Cointelegraph报道，Ripple前首席技术官David Schwartz表示，由于其风险承受能力较低，他已卖出几乎所有加密资产。其持仓从约2600万枚XRP、1500枚BTC和4万枚ETH，降至…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据Cointelegraph报道，Ripple前首席技术官David Schwartz表示，由于其风险承受能力较低，他已卖出几乎所有加密资产。其持仓从约2600万枚XRP、1500枚BTC和4万枚ETH，降至约300万枚XRP、1枚BTC和6枚ETH。</p>"
-    },
-    {
-      "title": "币安合约将上线HYPEUSDC和TRXUSDC U本位永续合约",
-      "url": "https://www.panewslab.com/zh/articles/01a1c8fc-0ab9-70f0-b406-de71a13353a5",
-      "source": "PANews",
-      "published": "2026-11-11T13:02:03+08:00",
-      "summary": "PANews 11月11日消息，据官方公告，币安合约平台将于2026年11月11日17:30（东八区时间）上线HYPEUSDC永续合约，追踪Hyperliquid（HYPE）价格，最高杠杆可达75倍；并于17:35上线TRXUSDC永续合约…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据官方公告，币安合约平台将于2026年11月11日17:30（东八区时间）上线HYPEUSDC永续合约，追踪Hyperliquid（HYPE）价格，最高杠杆可达75倍；并于17:35上线TRXUSDC永续合约，追踪TRON（TRX）价格，最高杠杆可达75倍。</p>"
-    },
-    {
-      "title": "Across Protocol restores website after hackers hijack domain",
-      "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-11T12:42:30+08:00",
-      "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg",
-      "image_local": "assets/newsbot/img/8f691a0dcdb97968.jpg",
-      "content": "<p></p><p>The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.</p>"
+      "published": "2026-11-12T02:30:43+08:00",
+      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning tha…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png",
+      "image_local": "assets/newsbot/img/f2f96fd5839e5343.jpg",
+      "content": "<p></p><p>The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.</p>"
     },
     {
-      "title": "加密友好议员Tom Emmer当选美国众议院共和党党鞭",
-      "url": "https://www.panewslab.com/zh/articles/01a1c8c6-565f-7483-bd66-f8b71121c6f2",
+      "title": "OKXICE首批代币化发行方含Strategy、Coinbase",
+      "url": "https://www.panewslab.com/zh/articles/01a1cbd9-b6f4-73bf-a796-10ac719ed00a",
       "source": "PANews",
-      "published": "2026-11-11T12:03:23+08:00",
-      "summary": "PANews 11月11日消息，据Cointelegraph报道，美国支持加密资产的众议员Tom Emmer当选众议院共和党党鞭，在民主党准备于明年1月掌控国会之际，获得该党第二高领导职位。Emmer在秘密投票中以103票对76票击败得克萨…",
+      "published": "2026-11-12T02:23:25+08:00",
+      "summary": "PANews 11月12日消息，据OKX官网披露，OKX与洲际交易所（ICE）合资的代币化证券交易平台OKXICE TSV将于11月23日起面向符合条件的美国用户提供全天候数字证券交易，预计上线70余种资产，首批发行方包括Better.co…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据Cointelegraph报道，美国支持加密资产的众议员Tom Emmer当选众议院共和党党鞭，在民主党准备于明年1月掌控国会之际，获得该党第二高领导职位。Emmer在秘密投票中以103票对76票击败得克萨斯州众议员August Pfluger。他此前担任众议院共和党多数党党鞭，此次将在新任少数党领袖Jim Jordan之下继续担任该党第二号领导人。</p> <p>Emmer一直是共和党在数字资产领域的主要声音，2025年3月与众议员Ritchie Torres共同宣布成立两党国会加密核心小组，旨在为稳定币和市场结构法案等数字资产立法争取支持。他还是CLARITY法案的原始共同提案人，并提出《区块链监管确定性法案》，旨在明确不控制客户资金的区块链开发者和基础设施提供商不属于联邦法律下的资金传输者。</p>"
+      "content": "<p>PANews 11月12日消息，据OKX官网披露，OKX与洲际交易所（ICE）合资的代币化证券交易平台OKXICE TSV将于11月23日起面向符合条件的美国用户提供全天候数字证券交易，预计上线70余种资产，首批发行方包括Better.com、BitGo、Circle、Coinbase、Robinhood、Securitize和Strategy，以及Direxion旗下59只ETF，其中Strategy还将上线其优先股。交易将通过OKX以太坊L2网络X Layer上基于Uniswap v4的AMM流动性池进行。Strategy创始人Michael Saylor在X平台发帖称，将STRC和MSTR上链是迈向永不关闭的资本市场的又一步。</p>"
     },
     {
-      "title": "火币HTX将于11月11日开放NVDA、SKHY现货交易",
-      "url": "https://www.panewslab.com/zh/articles/01a1c8c0-29df-776a-a27c-1b01430bbb8f",
+      "title": "以色列贴现银行11月26日起开放App内比特币和以太坊交易",
+      "url": "https://www.panewslab.com/zh/articles/01a1cbca-b414-73c1-a637-da158e36141b",
       "source": "PANews",
-      "published": "2026-11-11T11:56:39+08:00",
-      "summary": "PANews 11月11日消息，据官方公告，火币HTX将于11月11日17:00（UTC+8）开放NVDA/USDT现货交易和网格交易，并将于11月11日19:00开放SKHY/USDT现货交易和网格交易。 日前，火币HTX宣布上线SNDK…",
+      "published": "2026-11-12T02:07:01+08:00",
+      "summary": "PANews 11月12日消息，据以色列贴现银行（Discount Bank）官网披露，该行将从11月26日起，允许个人客户直接在银行App中买入、持有和卖出比特币和以太坊，无需另开数字钱包或境外交易所账户。该行称这在以色列银行业尚属首次…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据官方公告，火币HTX将于11月11日17:00（UTC+8）开放NVDA/USDT现货交易和网格交易，并将于11月11日19:00开放SKHY/USDT现货交易和网格交易。</p> <p>日前，火币HTX宣布上线SNDK、SOXL、SPCX、CRCL、MSTR、SKHY、MU、TSLA、NVDA等20种股票代币及ETF相关资产，并启动挂单成交享0手续费等一系列福利活动。</p>"
+      "content": "<p>PANews 11月12日消息，据以色列贴现银行（Discount Bank）官网披露，该行将从11月26日起，允许个人客户直接在银行App中买入、持有和卖出比特币和以太坊，无需另开数字钱包或境外交易所账户。该行称这在以色列银行业尚属首次。服务只向开通证券账户、年满18岁的以色列居民开放，每笔交易手续费为交易额的2%，上线后前半年免收托管费，之后每季度收0.25%。资产由Fireblocks提供托管基础设施。</p>"
     },
     {
-      "title": "Cash App创始人Bob Lee刺杀案凶手被判16年至终身监禁",
-      "url": "https://www.panewslab.com/zh/articles/01a1c8b1-c29e-7668-b0a8-90ade182feaa",
+      "title": "阿联酋关联预测市场撤下USD1信息，链上分析显示其实际使用USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a1cbbd-e46a-707f-8e43-fc0172431051",
       "source": "PANews",
-      "published": "2026-11-11T11:40:55+08:00",
-      "summary": "PANews 11月11日消息，据CNN报道，旧金山法院周二判处科技顾问Nima Momeni 16年至终身监禁，其因刺死Cash App创始人Bob Lee被定罪。2024年12月，陪审团裁定其二级谋杀罪成立，驳回正当防卫主张。Momen…",
+      "published": "2026-11-12T01:53:02+08:00",
+      "summary": "PANews 11月12日消息，据彭博社报道，世界杯官方预测市场合作伙伴ADI PredictStreet在彭博多次询问后，已从官网删除其使用特朗普家族加密项目World Liberty Financial（WLFI）旗下稳定币USD1运营…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月11日消息，据CNN报道，旧金山法院周二判处科技顾问Nima Momeni 16年至终身监禁，其因刺死Cash App创始人Bob Lee被定罪。2024年12月，陪审团裁定其二级谋杀罪成立，驳回正当防卫主张。Momeni自2023年案发后被捕以来一直被羁押，法官在宣判前驳回其重新审判请求，其律师计划上诉。检方称，Momeni因Lee将其妹妹介绍给一名毒品贩子而愤怒，用刀刺了Lee三次，其中一次刺中心脏。Lee随后在医院死亡，时年43岁。Lee曾创建移动支付服务Cash App，去世时担任加密货币公司MobileCoin首席产品官。</p> <p>此前2023年4月，<a href=\"https://www.panewslab.com/zh/articles/84aqyb5j\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Cash App创始人Bob Lee在旧金山遇刺身亡</a>。</p>"
+      "content": "<p>PANews 11月12日消息，据彭博社报道，世界杯官方预测市场合作伙伴ADI PredictStreet在彭博多次询问后，已从官网删除其使用特朗普家族加密项目World Liberty Financial（WLFI）旗下稳定币USD1运营的相关表述，改为USDC，并称原信息已过时。彭博委托TickerTracker进行的链上分析显示，未发现该平台使用USD1交易的证据，其实际使用的是Circle发行的USDC。PredictStreet运营方曾被列为阿联酋国家安全顾问塔赫农（Tahnoon）旗下International Holding Company（IHC）的子公司，IHC发言人称其目前已不再是子公司。此外，据Arkham数据，约64%的USD1流通量存放于币安，没有其他交易所持有超过5%。</p>"
     },
     {
-      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-      "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Torus完成5亿美元C轮融资，推出集装箱式AI推理算力产品",
+      "url": "https://www.panewslab.com/zh/articles/01a1cba7-bccf-75ff-a21a-41b075a8b958",
+      "source": "PANews",
+      "published": "2026-11-12T01:28:50+08:00",
+      "summary": "PANews 11月12日消息，据Torus公告，这家总部位于美国盐湖城的储能公司完成5亿美元C轮融资，由Magnetar领投，ICONIQ、Origin Ventures、Ridgeline Partners和Trinity Capita…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Torus公告，这家总部位于美国盐湖城的储能公司完成5亿美元C轮融资，由Magnetar领投，ICONIQ、Origin Ventures、Ridgeline Partners和Trinity Capital参投。Torus同时推出模块化AI推理算力产品Foundry，把供电、储能、散热、网络和算力集成在预制设备里，每个站点1至20兆瓦，从签约到投入运行约需12至16周。首批客户包括Hydra Host，公司目标是到2027年底部署超过4.7万块GPU。</p>"
+    },
+    {
+      "title": "Maple联合创始人Joe Flanagan将卸任董事长并离开公司",
+      "url": "https://www.panewslab.com/zh/articles/01a1cba3-ca1d-737d-9370-dc7c1078cf00",
+      "source": "PANews",
+      "published": "2026-11-12T01:24:31+08:00",
+      "summary": "PANews 11月12日消息，据The Block报道，链上资产管理公司Maple（SYRUP）联合创始人Joe Flanagan将卸任董事长一职并离开公司。Maple表示，此次人事变动是双方协商一致的有序过渡，Flanagan的职责将移…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据The Block报道，链上资产管理公司Maple（SYRUP）联合创始人Joe Flanagan将卸任董事长一职并离开公司。Maple表示，此次人事变动是双方协商一致的有序过渡，Flanagan的职责将移交给联合创始人兼CEO Sid Powell及其他管理层成员，日常运营照常进行。另据The Defiant报道，Flanagan与Powell在战略及领导层方面存在分歧，Flanagan将协助完成交接至年底。</p>"
+    },
+    {
+      "title": "ETH突破2100美元，日内涨幅 1.26%",
+      "url": "https://www.panewslab.com/zh/articles/01a1cba2-30dc-704f-af98-c43e70ec8caa",
+      "source": "PANews",
+      "published": "2026-11-12T01:22:46+08:00",
+      "summary": "PANews 11月12日消息，欧易OKX行情显示，ETH刚刚突破2100美元，现报2101.41美元/枚，日内涨幅 1.26%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，欧易OKX行情显示，ETH刚刚突破2100美元，现报2101.41美元/枚，日内涨幅 1.26%。</p>"
+    },
+    {
+      "title": "Applied Intuition洽谈新融资，估值或达300亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1cb88-8078-7747-a052-0ad3a3febe2a",
+      "source": "PANews",
+      "published": "2026-11-12T00:54:43+08:00",
+      "summary": "PANews 11月12日消息，据彭博社报道，知情人士透露，自动驾驶与自动化技术公司Applied Intuition正洽谈由General Catalyst领投的新一轮融资，拟筹集至少15亿美元，投前估值约300亿美元，为其2025年6月…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据彭博社报道，知情人士透露，自动驾驶与自动化技术公司Applied Intuition正洽谈由General Catalyst领投的新一轮融资，拟筹集至少15亿美元，投前估值约300亿美元，为其2025年6月估值的两倍，其中General Catalyst计划投资2.5亿美元。知情人士还称，该公司预计2026财年营收超5.6亿美元，2027年总营收超10亿美元。</p> <p>Applied Intuition成立于2017年，为建筑、运输和国防等行业开发自动化操作系统和自动驾驶技术，上一轮融资由贝莱德旗下基金与Kleiner Perkins领投。目前Applied Intuition与General Catalyst均未就此置评。</p>"
+    },
+    {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-11T11:07:45+08:00",
-      "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Demo…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74817RJCD4BF6Q6FT0BQTZN/hinew-us-government-crypto2-3.jpg",
-      "image_local": "assets/newsbot/img/3151ab2fed64884b.jpg",
-      "content": "<p></p><p>The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms. </p>"
+      "published": "2026-11-12T00:26:00+08:00",
+      "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI infla…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp",
+      "image_local": "assets/newsbot/img/a78c1011b8fc7117.jpg",
+      "content": "<p></p><p>Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.</p>"
     }
   ]
 }
