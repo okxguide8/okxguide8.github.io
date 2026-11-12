@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T14:49:57.271219+08:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T03:45:56.974318+08:00",
   "items": [
     {
-      "title": "通芯智能已完成数亿元融资，其首款AGI芯片计划12月开展原型验证",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce6e-9edd-77f7-b924-7c25fc7edb78",
+      "title": "Sky顾问BA Labs提议暂停核心金库新增借款",
+      "url": "https://www.panewslab.com/zh/articles/01a1d128-992c-7321-8c59-34df40f6eaa6",
       "source": "PANews",
-      "published": "2026-11-12T14:25:18+08:00",
-      "summary": "PANews 11月12日消息，据界面新闻报道，通芯智能已完成数亿元种子轮及天使轮融资，投资方包括清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能及豫资涨泉等。本轮资金将主要用于芯片流片前的核心架构设计与研发。 通芯智…",
+      "published": "2026-11-13T03:07:41+08:00",
+      "summary": "PANews 11月13日消息，据The Defiant报道，Sky生态顾问BA Labs提议暂停Sky核心金库（Core Vault）的新增借款。根据BA Labs数据，目前共有771个开放金库，未偿债务合计约3.76亿枚USDS。若提案…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据界面新闻报道，通芯智能已完成数亿元种子轮及天使轮融资，投资方包括清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能及豫资涨泉等。本轮资金将主要用于芯片流片前的核心架构设计与研发。</p> <p>通芯智能成立于2026年4月，由人工智能科学家、北京通用人工智能研究院院长、北大和清华讲席教授朱松纯发起，其首款产品定位于支持AGI算法的推理芯片，面向大模型、世界模型及通用智能体等应用，计划于今年12月初开展FPGA原型验证。</p>"
+      "content": "<p>PANews 11月13日消息，据The Defiant报道，Sky生态顾问BA Labs提议暂停Sky核心金库（Core Vault）的新增借款。根据BA Labs数据，目前共有771个开放金库，未偿债务合计约3.76亿枚USDS。若提案通过，借款人仍可还款和管理抵押品，但不能再铸造新的USDS。</p>"
     },
     {
-      "title": "某巨鲸割肉卖出6532枚ETH，亏损约310万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce6c-acf1-731d-a4e9-771c69a3fdaa",
+      "title": "路透社：白宫正讨论是否因英伟达事件撤换商务部长卢特尼克",
+      "url": "https://www.panewslab.com/zh/articles/01a1d126-7131-7133-a66d-bce3d8cc66fb",
       "source": "PANews",
-      "published": "2026-11-12T14:23:11+08:00",
-      "summary": "PANews 11月12日消息，据Lookonchain监测，场外交易巨鲸0x69A8开始抛售。一个月前其以2691美元追高买入5105枚ETH（1374万美元），10小时前以2085美元卖出6532枚ETH（1362万美元）止损，亏损约3…",
+      "published": "2026-11-13T03:05:19+08:00",
+      "summary": "PANews 11月13日消息，据路透社报道，两名知情人士称，美国白宫高级官员正在讨论，是否应在英伟达前CEO黄仁勋事件发酵后撤换商务部长霍华德·卢特尼克（Howard Lutnick）。越来越多议员批评卢特尼克未将数十家中国企业列入贸易黑…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据Lookonchain监测，场外交易巨鲸0x69A8开始抛售。一个月前其以2691美元追高买入5105枚ETH（1374万美元），10小时前以2085美元卖出6532枚ETH（1362万美元）止损，亏损约310万美元。</p>"
+      "content": "<p>PANews 11月13日消息，据路透社报道，两名知情人士称，美国白宫高级官员正在讨论，是否应在英伟达前CEO黄仁勋事件发酵后撤换商务部长霍华德·卢特尼克（Howard Lutnick）。越来越多议员批评卢特尼克未将数十家中国企业列入贸易黑名单，并质疑政府对英伟达对华出口的监管是否到位。一名白宫官员表示，特朗普对卢特尼克仍“完全信任”。</p>"
     },
     {
-      "title": "印度加密交易所Unocoin疑似遭攻击，8.1万个追踪地址余额显示为零",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce6b-ef6c-73f8-becb-d61f7e694656",
+      "title": "Coinbase将下架APE、ATOM等12个非美元交易对",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0f1-9c56-71e3-8d44-3d36d5f0268d",
       "source": "PANews",
-      "published": "2026-11-12T14:22:22+08:00",
-      "summary": "PANews 11月12日消息，据Onchain Lens监测，印度最老牌的中心化交易所Unocoin报告11月9日服务器遭未授权访问，并暂停用户登录。Arkham显示其8.1万个被追踪地址持仓为0，官网返回504错误，相关链上资金动向仍在…",
+      "published": "2026-11-13T02:07:37+08:00",
+      "summary": "PANews 11月13日消息，Coinbase Assets在X平台发帖称，为改善市场健康度并集中流动性，Coinbase将于美东时间11月25日12时左右暂停12个非美元交易对的交易，包括APE-USDT、ATOM-USDT、ALGO-…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据Onchain Lens监测，印度最老牌的中心化交易所Unocoin报告11月9日服务器遭未授权访问，并暂停用户登录。Arkham显示其8.1万个被追踪地址持仓为0，官网返回504错误，相关链上资金动向仍在调查中。</p>"
+      "content": "<p>PANews 11月13日消息，Coinbase Assets在X平台发帖称，为改善市场健康度并集中流动性，Coinbase将于美东时间11月25日12时左右暂停12个非美元交易对的交易，包括APE-USDT、ATOM-USDT、ALGO-BTC、CRV-BTC、ETC-BTC、ICP-BTC、XLM-BTC、APE-EUR、ADA-ETH、1INCH-GBP、CHZ-GBP和SNX-GBP。符合条件地区的Coinbase Advanced Trade用户仍可在美元订单簿中交易上述资产。</p>"
     },
     {
-      "title": "韩国将允许加密交易所在怀疑遭到黑客攻击时暂停充提业务",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce5c-7515-73c0-9e20-9f78781a5a03",
+      "title": "美联储公布2027年议息日程：常规会议减至7次",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0e1-bf4f-7490-9a8b-edc6d4784a54",
       "source": "PANews",
-      "published": "2026-11-12T14:05:28+08:00",
-      "summary": "PANews 11月12日消息，据Cointelegraph报道，韩国金融服务委员会（FSC）计划允许加密交易所在怀疑遭到黑客攻击时暂停充提业务，而无需等到入侵行为被证实。FSC表示将发布无异议函，允许交易所在特定条件下实施预防性暂停。现行…",
+      "published": "2026-11-13T01:50:17+08:00",
+      "summary": "PANews 11月13日消息，据美联储官网，美联储公布2027年FOMC会议日程，全年共安排7次常规议息会议，分别在1月、3月、4月、6月、7月、9月和11月举行；10月26日至27日改为召开货币政策策略会议，12月不再安排会议。美联储称…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据Cointelegraph报道，韩国金融服务委员会（FSC）计划允许加密交易所在怀疑遭到黑客攻击时暂停充提业务，而无需等到入侵行为被证实。FSC表示将发布无异议函，允许交易所在特定条件下实施预防性暂停。现行规则禁止交易所在没有正当理由的情况下阻止提现，仅明确允许在黑客事件被证实后实施限制。</p> <p>FSC还要求交易所进行全天候监控和事件响应、提高冷钱包持有量，并加强保险覆盖和储备。无法进行持续监控的交易所只能在有人员值守的时段处理充提，并需提前通知用户。</p>"
+      "content": "<p>PANews 11月13日消息，据美联储官网，美联储公布2027年FOMC会议日程，全年共安排7次常规议息会议，分别在1月、3月、4月、6月、7月、9月和11月举行；10月26日至27日改为召开货币政策策略会议，12月不再安排会议。美联储称，各次会议日期在前一次会议确认前均为暂定。此前美联储主席沃什曾表示将减少议息会议次数。</p>"
     },
     {
-      "title": "币安更新大宗商品期权结算价规则，11月23日起生效",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce58-c46f-72eb-aebd-9e194cbf7137",
+      "title": "Akash代币AKT通过Sunrise正式上线Solana",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0cd-1fde-70ce-8042-7bab17283f22",
       "source": "PANews",
-      "published": "2026-11-12T14:01:26+08:00",
-      "summary": "PANews 11月12日消息，币安宣布将更新大宗商品期权的结算价规则，使其与加密货币期权适用的规则保持一致。新规则将于2026年11月23日美东时间17:00到期的大宗商品期权开始适用。原结算价为到期日美东时间17:00的标的市场收盘价…",
+      "published": "2026-11-13T01:27:46+08:00",
+      "summary": "PANews 11月13日消息，Solana在X平台发帖称，Akash Network代币AKT已通过Sunrise网关上线Solana网络。Sunrise随后公布了Solana上的官方AKT合约地址，Meteora已开放AKT交易对。此前…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，币安宣布将更新大宗商品期权的结算价规则，使其与加密货币期权适用的规则保持一致。新规则将于2026年11月23日美东时间17:00到期的大宗商品期权开始适用。原结算价为到期日美东时间17:00的标的市场收盘价，新结算价将改为到期时间前0.5小时内币安期货指数价格的算术平均值。到期时间、交易时段及合约规格均保持不变。合约适用原规则还是新规则，仅由合约到期时间决定，在该时间及之后到期的所有大宗商品期权均适用新规则。</p>"
+      "content": "<p>PANews 11月13日消息，Solana在X平台发帖称，Akash Network代币AKT已通过Sunrise网关上线Solana网络。Sunrise随后公布了Solana上的官方AKT合约地址，Meteora已开放AKT交易对。此前Akash社区已通过治理投票，计划将网络从Cosmos迁移至Solana。</p>"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "币安：安全事件受影响资产已全部完成覆盖",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0b0-a423-77ac-90e3-0b94cbaaa359",
+      "source": "PANews",
+      "published": "2026-11-13T00:56:39+08:00",
+      "summary": "PANews 11月13日消息，币安在X平台发帖称，已完成此前安全事件中所有受影响资产的覆盖，并发布新的储备金证明快照。零知识证明生成后，用户可以自行验证自己的资产是否有至少1:1的储备支持。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，币安在X平台发帖称，已完成此前安全事件中所有受影响资产的覆盖，并发布新的储备金证明快照。零知识证明生成后，用户可以自行验证自己的资产是否有至少1:1的储备支持。</p>"
+    },
+    {
+      "title": "纽约州金融服务局发布加密广告营销指引，要求持牌机构明年5月前合规",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0a3-5726-76f4-b787-e26f2a9f0945",
+      "source": "PANews",
+      "published": "2026-11-13T00:42:08+08:00",
+      "summary": "PANews 11月13日消息，据纽约州金融服务局（NYDFS）公告，该机构发布针对持牌虚拟货币机构的广告与营销指引，要求相关机构在2027年5月10日前更新广告营销政策与程序，至少每年复核一次并留存记录备查。指引要求营销内容基于证据、可核…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据纽约州金融服务局（NYDFS）公告，该机构发布针对持牌虚拟货币机构的广告与营销指引，要求相关机构在2027年5月10日前更新广告营销政策与程序，至少每年复核一次并留存记录备查。指引要求营销内容基于证据、可核实，不得夸大业绩或监管状态，披露须清晰显著，同时需建立营销材料审核流程、对第三方推广者开展尽调，并及时处置冒用品牌行为。</p>"
+    },
+    {
+      "title": "Visa将西联汇款稳定币USDPT纳入VisaNet结算资产",
+      "url": "https://www.panewslab.com/zh/articles/01a1d0a0-9f8b-769f-bbce-9a7cdcaebaac",
+      "source": "PANews",
+      "published": "2026-11-13T00:39:09+08:00",
+      "summary": "PANews 11月13日消息，据The Block报道，Anchorage Digital宣布与Visa合作，将其联邦特许银行发行的部分稳定币作为Visa网络的原生结算资产，首个支持的是西联汇款稳定币USDPT。Visa及符合条件的合作伙…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据The Block报道，Anchorage Digital宣布与Visa合作，将其联邦特许银行发行的部分稳定币作为Visa网络的原生结算资产，首个支持的是西联汇款稳定币USDPT。Visa及符合条件的合作伙伴现可使用USDPT结算VisaNet债务，双方还将建立框架，评估纳入更多由Anchorage发行的稳定币。USDPT于今年5月在Solana上推出，由Anchorage Digital Bank发行和托管。</p>"
+    },
+    {
+      "title": "Wintermute关联钱包近一月赢得Hyperliquid约76%优先数据拍卖",
+      "url": "https://www.panewslab.com/zh/articles/01a1d09d-db51-72d3-a1c2-381cc1d30ef1",
+      "source": "PANews",
+      "published": "2026-11-13T00:36:08+08:00",
+      "summary": "PANews 11月13日消息，据彭博社报道，加密做市商Wintermute已成为Hyperliquid优先数据拍卖机制的主要使用者。该机制允许交易者竞价，在订单被处理前提前看到新进买卖单，从而有数毫秒时间调整报价或在其他平台对冲。链上分析…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据彭博社报道，加密做市商Wintermute已成为Hyperliquid优先数据拍卖机制的主要使用者。该机制允许交易者竞价，在订单被处理前提前看到新进买卖单，从而有数毫秒时间调整报价或在其他平台对冲。链上分析平台Loris Tools数据显示，过去一个月，一个与Wintermute关联的钱包赢得约76%的最高优先级数据位拍卖。DRW创始人Don Wilson此前质疑该机制的公平性及能否满足美国监管要求。Hyperliquid Labs表示任何人都可参与竞价，所有优先费支付均在链上公开。</p>"
+    },
+    {
+      "title": "美联储理事巴尔：AI快速普及恐加剧收入不平等",
+      "url": "https://www.panewslab.com/zh/articles/01a1d07b-16f2-72ce-b4f6-241dbac7e0c5",
+      "source": "PANews",
+      "published": "2026-11-12T23:58:10+08:00",
+      "summary": "PANews 11月12日消息，据金十报道，美联储理事巴尔警告称，人工智能的迅速普及可能在短期内加剧不平等，政策制定者需要为劳动力市场可能出现的严重短期冲击做好准备。巴尔在耶鲁大学发表演讲时表示，人工智能影响的程度和持续时间将取决于目前建立…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据金十报道，美联储理事巴尔警告称，人工智能的迅速普及可能在短期内加剧不平等，政策制定者需要为劳动力市场可能出现的严重短期冲击做好准备。巴尔在耶鲁大学发表演讲时表示，人工智能影响的程度和持续时间将取决于目前建立的监管保障措施。巴尔警告称，如果少数人工智能企业占据主导地位，市场力量过度集中可能扩大不平等。这些企业的高管和股东财富将增加，而规模较小的企业则可能失去市场份额。巴尔表示：“在这种情况下，绝大多数企业及其员工将难以充分获得不断改进的人工智能资源，因此收益也会较少。总体而言，劳动收入占比将下降，市场集中度将提高，不平等程度将加剧。”巴尔在演讲中没有直接提及货币政策或其经济前景展望。</p>"
+    },
+    {
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-12T14:00:00+08:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
-      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+      "published": "2026-11-12T23:46:06+08:00",
+      "summary": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp",
+      "image_local": "assets/newsbot/img/bbd5bd8812d5b8b6.jpg",
+      "content": "<p></p><p>Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.</p>"
     },
     {
-      "title": "Aave创始人：DeFi借贷协议需要引入熔断机制，防范预言机风险",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce56-4763-73c8-b6e5-025d83831018",
-      "source": "PANews",
-      "published": "2026-11-12T13:58:43+08:00",
-      "summary": "PANews 11月12日消息，据Crypto Briefing报道，Aave创始人Stani Kulechov在11月11日举行的DAS London会议上表示，DeFi借贷协议需要引入“熔断机制”，因为预言机一旦发生故障，其后果可能需要…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据Crypto Briefing报道，Aave创始人Stani Kulechov在11月11日举行的DAS London会议上表示，DeFi借贷协议需要引入“熔断机制”，因为预言机一旦发生故障，其后果可能需要数年才能消除。他指出，过度依赖不可篡改代码的系统缺乏应急方案，当预言机数据出现偏差时，协议可能会基于错误价格触发清算，而不可篡改的特性会导致故障无法修复。熔断机制借鉴了传统市场在极端行情下暂停交易的做法，允许协议在查明问题前暂停运作。</p>"
-    },
-    {
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-12T13:54:48+08:00",
-      "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary susp…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-      "image_local": "assets/newsbot/img/37b2d561da951f9f.jpg",
-      "content": "<p></p><p>The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.</p>"
-    },
-    {
-      "title": "Zcash持有者将投票决定是否从社区赠款金库中移除5万枚ZEC",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce52-8dd2-7188-8878-097e44b11d5d",
-      "source": "PANews",
-      "published": "2026-11-12T13:54:39+08:00",
-      "summary": "PANews 11月12日消息，据CoinDesk报道，Zcash社区将于11月16日至30日对一项提案进行投票，拟从社区赠款金库中移除50,000枚ZEC（约占该金库91,453枚ZEC的55%），并通过未来的挖矿奖励返还其价值。该提案若…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据CoinDesk报道，Zcash社区将于11月16日至30日对一项提案进行投票，拟从社区赠款金库中移除50,000枚ZEC（约占该金库91,453枚ZEC的55%），并通过未来的挖矿奖励返还其价值。该提案若获通过并在网络升级中激活，ZCG需在30天内将这些代币移出流通，价值将计入网络可持续机制储备中。</p> <p>提案还将停止ZCG目前获得的新增ZEC发行量8%的份额，该部分将积累至新的未来开发与法律防御基金，直至下一次减半。初期无人可从新基金中支出，需另一项独立提案明确提款机制。ZCG将保留剩余金库并继续发放赠款，而由代币持有者控制的12%基金保持不变。草案估计，按10月金库快照及1,300美元ZEC价格计算，ZCG现有资金可覆盖约13年支出，移除50,000枚后将剩余约6年。</p>"
-    },
-    {
-      "title": "德国机器人公司Agile Robots完成5亿美元新融资，估值达85亿美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce4b-7151-726e-8a8e-78d3c54b2e3d",
-      "source": "PANews",
-      "published": "2026-11-12T13:46:53+08:00",
-      "summary": "PANews 11月12日消息，据《纽约时报》报道，德国工业机器人公司Agile Robots在由软银领投的新一轮融资中筹集5亿美元，英伟达等投资者参投，使其估值达到85亿美元。Agile Robots创始人Zhaopeng Chen表示…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据《纽约时报》报道，德国工业机器人公司Agile Robots在由软银领投的新一轮融资中筹集5亿美元，英伟达等投资者参投，使其估值达到85亿美元。Agile Robots创始人Zhaopeng Chen表示，这笔资金将用于在美国扩张、提高德国产量并进入新市场，为未来潜在的IPO做准备。</p> <p>该公司正与Google DeepMind等合作伙伴合作，累计融资额已达20亿美元。Agile Robots成立于2018年，致力于将人工智能与机器人技术结合，帮助工厂提高生产率并降低成本。Zhaopeng Chen称，物理AI是欧洲缩小与美国和中国AI差距并重振工业的解决方案之一。</p>"
-    },
-    {
-      "title": "易理华：多单已止盈现货被套，整体趋势仍看涨",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce44-fd9c-71a1-b8f7-f61dec3260cd",
-      "source": "PANews",
-      "published": "2026-11-12T13:39:50+08:00",
-      "summary": "PANews 11月12日消息，Liquid Capital创始人易理华（JackYi）发文复盘了近期市场波动。他表示，前期看到民主党表现强势后，曾判断美股可能大幅下跌，因此暂未选择抄底。但随后市场快速反弹，其团队在BTC约77,000美元…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，Liquid Capital创始人易理华（JackYi）发文复盘了近期市场波动。他表示，前期看到民主党表现强势后，曾判断美股可能大幅下跌，因此暂未选择抄底。但随后市场快速反弹，其团队在BTC约77,000美元时顺势追入；当BTC站稳80,300美元后，又判断回调结束、上涨趋势重新开启。</p> <p>不过，此后美股如此前预期般出现迟来的暴跌，并带动BTC大幅下跌。操作上，其已对多单止盈，但现货仓位仍被套。JackYi认为，快速上涨和下跌难以准确预测，关键在于做好仓位和风险管理。对于后市，他仍将重点关注美股和原油走势。目前市场面临民主党对AI和加密行业态度、黄仁勋相关事件以及特朗普资金问题等多重不确定因素，但其整体趋势判断仍偏向看涨，计划继续等待宏观环境明朗后再寻找抄底机会。</p>"
-    },
-    {
-      "title": "Bitcoin Core披露“Tor连入连接错误获得白名单权限”的中危漏洞",
-      "url": "https://www.panewslab.com/zh/articles/01a1ce3e-bd57-77bc-bfeb-c39928583ae3",
-      "source": "PANews",
-      "published": "2026-11-12T13:33:00+08:00",
-      "summary": "PANews 11月12日消息，据Bitcoin Core安全公告，中危漏洞CVE-2025-62860于2026年11月10日公开。该漏洞存在于28.3、29.2和30.0之前的版本中。由于外部通过Tor连入的连接，其IP地址实际上是本地…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月12日消息，据Bitcoin Core安全公告，中危漏洞CVE-2025-62860于2026年11月10日公开。该漏洞存在于28.3、29.2和30.0之前的版本中。由于外部通过Tor连入的连接，其IP地址实际上是本地Tor软件的地址，若该地址匹配通过-whitelist选项配置的信任IP范围，Bitcoin Core会错误地将这些外部Tor连接加入白名单，从而解除针对信任节点的各项防DoS限制和隐私泄露缓解措施。</p> <p>公告指出，未设置非默认-whitelist选项的节点从未受到影响。许多流行供应商将Bitcoin Core与Tor守护进程捆绑，并将-whitelist设置为与Tor守护进程匹配的IP范围，导致数千个可连接的主网节点将所有外部传入的Tor连接列入白名单。在修复版本中，通过onion绑定接收的外部Tor连接不再被列入白名单。该漏洞修复已包含在Bitcoin Core 28.3、29.2和30.0版本中。</p>"
+      "published": "2026-11-12T21:59:02+08:00",
+      "summary": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a perm…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png",
+      "image_local": "assets/newsbot/img/e8a9ebb4f468eccd.jpg",
+      "content": "<p></p><p>Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.</p>"
     }
   ]
 }
