@@ -1,8 +1,128 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T03:27:47.220850+08:00",
+  "generated_at": "2026-11-12T14:49:58.614327+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "通芯智能已完成数亿元融资，其首款AGI芯片计划12月开展原型验证",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce6e-9edd-77f7-b924-7c25fc7edb78",
+      "source": "PANews",
+      "published": "2026-11-12T14:25:18+08:00",
+      "summary": "PANews 11月12日消息，据界面新闻报道，通芯智能已完成数亿元种子轮及天使轮融资，投资方包括清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能及豫资涨泉等。本轮资金将主要用于芯片流片前的核心架构设计与研发。 通芯智…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据界面新闻报道，通芯智能已完成数亿元种子轮及天使轮融资，投资方包括清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能及豫资涨泉等。本轮资金将主要用于芯片流片前的核心架构设计与研发。</p> <p>通芯智能成立于2026年4月，由人工智能科学家、北京通用人工智能研究院院长、北大和清华讲席教授朱松纯发起，其首款产品定位于支持AGI算法的推理芯片，面向大模型、世界模型及通用智能体等应用，计划于今年12月初开展FPGA原型验证。</p>"
+    },
+    {
+      "title": "某巨鲸割肉卖出6532枚ETH，亏损约310万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce6c-acf1-731d-a4e9-771c69a3fdaa",
+      "source": "PANews",
+      "published": "2026-11-12T14:23:11+08:00",
+      "summary": "PANews 11月12日消息，据Lookonchain监测，场外交易巨鲸0x69A8开始抛售。一个月前其以2691美元追高买入5105枚ETH（1374万美元），10小时前以2085美元卖出6532枚ETH（1362万美元）止损，亏损约3…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Lookonchain监测，场外交易巨鲸0x69A8开始抛售。一个月前其以2691美元追高买入5105枚ETH（1374万美元），10小时前以2085美元卖出6532枚ETH（1362万美元）止损，亏损约310万美元。</p>"
+    },
+    {
+      "title": "印度加密交易所Unocoin疑似遭攻击，8.1万个追踪地址余额显示为零",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce6b-ef6c-73f8-becb-d61f7e694656",
+      "source": "PANews",
+      "published": "2026-11-12T14:22:22+08:00",
+      "summary": "PANews 11月12日消息，据Onchain Lens监测，印度最老牌的中心化交易所Unocoin报告11月9日服务器遭未授权访问，并暂停用户登录。Arkham显示其8.1万个被追踪地址持仓为0，官网返回504错误，相关链上资金动向仍在…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Onchain Lens监测，印度最老牌的中心化交易所Unocoin报告11月9日服务器遭未授权访问，并暂停用户登录。Arkham显示其8.1万个被追踪地址持仓为0，官网返回504错误，相关链上资金动向仍在调查中。</p>"
+    },
+    {
+      "title": "韩国将允许加密交易所在怀疑遭到黑客攻击时暂停充提业务",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce5c-7515-73c0-9e20-9f78781a5a03",
+      "source": "PANews",
+      "published": "2026-11-12T14:05:28+08:00",
+      "summary": "PANews 11月12日消息，据Cointelegraph报道，韩国金融服务委员会（FSC）计划允许加密交易所在怀疑遭到黑客攻击时暂停充提业务，而无需等到入侵行为被证实。FSC表示将发布无异议函，允许交易所在特定条件下实施预防性暂停。现行…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Cointelegraph报道，韩国金融服务委员会（FSC）计划允许加密交易所在怀疑遭到黑客攻击时暂停充提业务，而无需等到入侵行为被证实。FSC表示将发布无异议函，允许交易所在特定条件下实施预防性暂停。现行规则禁止交易所在没有正当理由的情况下阻止提现，仅明确允许在黑客事件被证实后实施限制。</p> <p>FSC还要求交易所进行全天候监控和事件响应、提高冷钱包持有量，并加强保险覆盖和储备。无法进行持续监控的交易所只能在有人员值守的时段处理充提，并需提前通知用户。</p>"
+    },
+    {
+      "title": "币安更新大宗商品期权结算价规则，11月23日起生效",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce58-c46f-72eb-aebd-9e194cbf7137",
+      "source": "PANews",
+      "published": "2026-11-12T14:01:26+08:00",
+      "summary": "PANews 11月12日消息，币安宣布将更新大宗商品期权的结算价规则，使其与加密货币期权适用的规则保持一致。新规则将于2026年11月23日美东时间17:00到期的大宗商品期权开始适用。原结算价为到期日美东时间17:00的标的市场收盘价…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，币安宣布将更新大宗商品期权的结算价规则，使其与加密货币期权适用的规则保持一致。新规则将于2026年11月23日美东时间17:00到期的大宗商品期权开始适用。原结算价为到期日美东时间17:00的标的市场收盘价，新结算价将改为到期时间前0.5小时内币安期货指数价格的算术平均值。到期时间、交易时段及合约规格均保持不变。合约适用原规则还是新规则，仅由合约到期时间决定，在该时间及之后到期的所有大宗商品期权均适用新规则。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-12T14:00:00+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Aave创始人：DeFi借贷协议需要引入熔断机制，防范预言机风险",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce56-4763-73c8-b6e5-025d83831018",
+      "source": "PANews",
+      "published": "2026-11-12T13:58:43+08:00",
+      "summary": "PANews 11月12日消息，据Crypto Briefing报道，Aave创始人Stani Kulechov在11月11日举行的DAS London会议上表示，DeFi借贷协议需要引入“熔断机制”，因为预言机一旦发生故障，其后果可能需要…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Crypto Briefing报道，Aave创始人Stani Kulechov在11月11日举行的DAS London会议上表示，DeFi借贷协议需要引入“熔断机制”，因为预言机一旦发生故障，其后果可能需要数年才能消除。他指出，过度依赖不可篡改代码的系统缺乏应急方案，当预言机数据出现偏差时，协议可能会基于错误价格触发清算，而不可篡改的特性会导致故障无法修复。熔断机制借鉴了传统市场在极端行情下暂停交易的做法，允许协议在查明问题前暂停运作。</p>"
+    },
+    {
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-12T13:54:48+08:00",
+      "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary susp…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+      "image_local": "assets/newsbot/img/37b2d561da951f9f.jpg",
+      "content": "<p></p><p>The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.</p>"
+    },
+    {
+      "title": "Zcash持有者将投票决定是否从社区赠款金库中移除5万枚ZEC",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce52-8dd2-7188-8878-097e44b11d5d",
+      "source": "PANews",
+      "published": "2026-11-12T13:54:39+08:00",
+      "summary": "PANews 11月12日消息，据CoinDesk报道，Zcash社区将于11月16日至30日对一项提案进行投票，拟从社区赠款金库中移除50,000枚ZEC（约占该金库91,453枚ZEC的55%），并通过未来的挖矿奖励返还其价值。该提案若…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据CoinDesk报道，Zcash社区将于11月16日至30日对一项提案进行投票，拟从社区赠款金库中移除50,000枚ZEC（约占该金库91,453枚ZEC的55%），并通过未来的挖矿奖励返还其价值。该提案若获通过并在网络升级中激活，ZCG需在30天内将这些代币移出流通，价值将计入网络可持续机制储备中。</p> <p>提案还将停止ZCG目前获得的新增ZEC发行量8%的份额，该部分将积累至新的未来开发与法律防御基金，直至下一次减半。初期无人可从新基金中支出，需另一项独立提案明确提款机制。ZCG将保留剩余金库并继续发放赠款，而由代币持有者控制的12%基金保持不变。草案估计，按10月金库快照及1,300美元ZEC价格计算，ZCG现有资金可覆盖约13年支出，移除50,000枚后将剩余约6年。</p>"
+    },
+    {
+      "title": "德国机器人公司Agile Robots完成5亿美元新融资，估值达85亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce4b-7151-726e-8a8e-78d3c54b2e3d",
+      "source": "PANews",
+      "published": "2026-11-12T13:46:53+08:00",
+      "summary": "PANews 11月12日消息，据《纽约时报》报道，德国工业机器人公司Agile Robots在由软银领投的新一轮融资中筹集5亿美元，英伟达等投资者参投，使其估值达到85亿美元。Agile Robots创始人Zhaopeng Chen表示…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据《纽约时报》报道，德国工业机器人公司Agile Robots在由软银领投的新一轮融资中筹集5亿美元，英伟达等投资者参投，使其估值达到85亿美元。Agile Robots创始人Zhaopeng Chen表示，这笔资金将用于在美国扩张、提高德国产量并进入新市场，为未来潜在的IPO做准备。</p> <p>该公司正与Google DeepMind等合作伙伴合作，累计融资额已达20亿美元。Agile Robots成立于2018年，致力于将人工智能与机器人技术结合，帮助工厂提高生产率并降低成本。Zhaopeng Chen称，物理AI是欧洲缩小与美国和中国AI差距并重振工业的解决方案之一。</p>"
+    },
+    {
+      "title": "易理华：多单已止盈现货被套，整体趋势仍看涨",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce44-fd9c-71a1-b8f7-f61dec3260cd",
+      "source": "PANews",
+      "published": "2026-11-12T13:39:50+08:00",
+      "summary": "PANews 11月12日消息，Liquid Capital创始人易理华（JackYi）发文复盘了近期市场波动。他表示，前期看到民主党表现强势后，曾判断美股可能大幅下跌，因此暂未选择抄底。但随后市场快速反弹，其团队在BTC约77,000美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，Liquid Capital创始人易理华（JackYi）发文复盘了近期市场波动。他表示，前期看到民主党表现强势后，曾判断美股可能大幅下跌，因此暂未选择抄底。但随后市场快速反弹，其团队在BTC约77,000美元时顺势追入；当BTC站稳80,300美元后，又判断回调结束、上涨趋势重新开启。</p> <p>不过，此后美股如此前预期般出现迟来的暴跌，并带动BTC大幅下跌。操作上，其已对多单止盈，但现货仓位仍被套。JackYi认为，快速上涨和下跌难以准确预测，关键在于做好仓位和风险管理。对于后市，他仍将重点关注美股和原油走势。目前市场面临民主党对AI和加密行业态度、黄仁勋相关事件以及特朗普资金问题等多重不确定因素，但其整体趋势判断仍偏向看涨，计划继续等待宏观环境明朗后再寻找抄底机会。</p>"
+    },
+    {
+      "title": "Bitcoin Core披露“Tor连入连接错误获得白名单权限”的中危漏洞",
+      "url": "https://www.panewslab.com/zh/articles/01a1ce3e-bd57-77bc-bfeb-c39928583ae3",
+      "source": "PANews",
+      "published": "2026-11-12T13:33:00+08:00",
+      "summary": "PANews 11月12日消息，据Bitcoin Core安全公告，中危漏洞CVE-2025-62860于2026年11月10日公开。该漏洞存在于28.3、29.2和30.0之前的版本中。由于外部通过Tor连入的连接，其IP地址实际上是本地…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月12日消息，据Bitcoin Core安全公告，中危漏洞CVE-2025-62860于2026年11月10日公开。该漏洞存在于28.3、29.2和30.0之前的版本中。由于外部通过Tor连入的连接，其IP地址实际上是本地Tor软件的地址，若该地址匹配通过-whitelist选项配置的信任IP范围，Bitcoin Core会错误地将这些外部Tor连接加入白名单，从而解除针对信任节点的各项防DoS限制和隐私泄露缓解措施。</p> <p>公告指出，未设置非默认-whitelist选项的节点从未受到影响。许多流行供应商将Bitcoin Core与Tor守护进程捆绑，并将-whitelist设置为与Tor守护进程匹配的IP范围，导致数千个可连接的主网节点将所有外部传入的Tor连接列入白名单。在修复版本中，通过onion绑定接收的外部Tor连接不再被列入白名单。该漏洞修复已包含在Bitcoin Core 28.3、29.2和30.0版本中。</p>"
+    },
     {
       "title": "Polymarket确认进行重组并裁员，部分承包商合作终止",
       "url": "https://www.panewslab.com/zh/articles/01a1cc10-a216-7748-aeb3-e3bc62a4a8e5",
