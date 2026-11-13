@@ -1,8 +1,128 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T03:45:58.046889+08:00",
+  "generated_at": "2026-11-13T14:07:56.158240+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-13T14:00:15+08:00",
+      "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of i…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
+      "image_local": "assets/newsbot/img/2aa29652b390133a.jpg",
+      "content": "<p></p><p>Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.</p>"
+    },
+    {
+      "title": "ETH跌破1900美元，日内下跌 5.42%",
+      "url": "https://www.panewslab.com/zh/articles/01a1d37a-6eb2-7750-8936-0282327ce484",
+      "source": "PANews",
+      "published": "2026-11-13T13:56:09+08:00",
+      "summary": "PANews 11月13日消息，欧易OKX行情显示，ETH刚刚跌破1900美元，现报1899.68美元/枚，日内下跌 5.42%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，欧易OKX行情显示，ETH刚刚跌破1900美元，现报1899.68美元/枚，日内下跌 5.42%。</p>"
+    },
+    {
+      "title": "BTC跌破68000美元，日内下跌 5.31%",
+      "url": "https://www.panewslab.com/zh/articles/01a1d37a-45af-7549-b890-5d37a55efb36",
+      "source": "PANews",
+      "published": "2026-11-13T13:56:06+08:00",
+      "summary": "PANews 11月13日消息，欧易OKX行情显示，BTC刚刚跌破68000美元，现报67907.20美元/枚，日内下跌 5.31%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，欧易OKX行情显示，BTC刚刚跌破68000美元，现报67907.20美元/枚，日内下跌 5.31%。</p>"
+    },
+    {
+      "title": "Hyperliquid上近95%的BTC多单面临亏损，未实现亏损达1.3亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1d376-6f6d-76e5-b0a1-619cb4b039df",
+      "source": "PANews",
+      "published": "2026-11-13T13:51:56+08:00",
+      "summary": "PANews 11月13日消息，据Mlm Onchain监测，Hyperliquid上的比特币多头正面临严重亏损。目前共有24,920个钱包持有总计13.2亿美元的未平仓BTC多头头寸，占所有BTC头寸的67%。多头的平均开仓价格为75,5…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据Mlm Onchain监测，Hyperliquid上的比特币多头正面临严重亏损。目前共有24,920个钱包持有总计13.2亿美元的未平仓BTC多头头寸，占所有BTC头寸的67%。多头的平均开仓价格为75,565美元，而BTC当前交易价格为68,588美元，较平均开仓价低9.2%，所有BTC多头的未实现亏损总额达1.3亿美元。</p> <p>数据显示，95%的BTC多头处于亏损状态，其中40%是在76,000美元上方开仓的。这些多头的平均清算价格为52,128美元。不过，据估计，若BTC跌至65,000美元，将有约2.28亿美元的多头被清算；若跌至60,000美元，这一数字将升至4.27亿美元；跌至55,000美元则达6.47亿美元。过去24小时内，Hyperliquid上已有2.58亿美元的BTC多头被清算。</p>"
+    },
+    {
+      "title": "现货黄金跌破3900美元关口",
+      "url": "https://www.panewslab.com/zh/articles/01a1d372-dc12-7160-9c33-f34934b408e1",
+      "source": "PANews",
+      "published": "2026-11-13T13:48:00+08:00",
+      "summary": "PANews 11月13日消息，现货黄金跌破3900美元/盎司整数关口，现报3895.76美元，日内涨幅0.46%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，现货黄金跌破3900美元/盎司整数关口，现报3895.76美元，日内涨幅0.46%。</p>"
+    },
+    {
+      "title": "现货白银跌破50美元关口",
+      "url": "https://www.panewslab.com/zh/articles/01a1d371-0651-71e3-8724-781d829de3f6",
+      "source": "PANews",
+      "published": "2026-11-13T13:46:00+08:00",
+      "summary": "PANews 11月13日消息，现货白银跌破50美元/盎司整数关口，现报49.953美元，日内跌幅0.20%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，现货白银跌破50美元/盎司整数关口，现报49.953美元，日内跌幅0.20%。</p>"
+    },
+    {
+      "title": "摩根大通Q3将Strategy持仓增加36%，比特币ETF持仓价值达5.49亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1d36d-9ae2-736e-b529-eb30e9a0573c",
+      "source": "PANews",
+      "published": "2026-11-13T13:42:18+08:00",
+      "summary": "PANews 11月13日消息，据Bitcoin Magazine报道，摩根大通在11月12日提交的13F文件中披露，第三季度将其在Strategy（MSTR）的持仓增加了36%，升至848,932股，截至9月30日价值约1.313亿美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据Bitcoin Magazine报道，摩根大通在11月12日提交的13F文件中披露，第三季度将其在Strategy（MSTR）的持仓增加了36%，升至848,932股，截至9月30日价值约1.313亿美元。同时，摩根大通持有贝莱德iShares比特币信托（IBIT）11,408,930股，价值约5.3998亿美元，较上季度增持约9.6%。加上其在Grayscale比特币迷你信托和Bitwise比特币ETF等其他现货比特币基金中的持仓，其现货比特币ETF持仓总额约为5.49亿美元。</p>"
+    },
+    {
+      "title": "一黑客从Tornado Cash收到1500枚ETH后卖出，约合300万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1d369-9351-70bd-9d18-07572065ee5c",
+      "source": "PANews",
+      "published": "2026-11-13T13:37:54+08:00",
+      "summary": "PANews 11月13日消息，据Lookonchain监测，市场下跌中黑客也在恐慌抛售ETH。一个钱包从Tornado Cash收到1500枚ETH后，以1998美元卖出1499.5枚ETH（300万美元）。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据Lookonchain监测，市场下跌中黑客也在恐慌抛售ETH。一个钱包从Tornado Cash收到1500枚ETH后，以1998美元卖出1499.5枚ETH（300万美元）。</p>"
+    },
+    {
+      "title": "Peter Schiff质疑Strategy优先股12%的年化收益率缺乏依据",
+      "url": "https://www.panewslab.com/zh/articles/01a1d356-ee88-7255-866d-e7875f4773a5",
+      "source": "PANews",
+      "published": "2026-11-13T13:17:32+08:00",
+      "summary": "PANews 11月13日消息，据Bbitcoin.com报道，经济学家Peter Schiff于11月12日在X上发文，质疑Strategy Inc.（Nasdaq: MSTR）优先股融资模式背后的比特币回报假设。他表示，STRC的运作逻…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据Bbitcoin.com报道，经济学家Peter Schiff于11月12日在X上发文，质疑Strategy Inc.（Nasdaq: MSTR）优先股融资模式背后的比特币回报假设。他表示，STRC的运作逻辑是Strategy所持比特币每年将升值30%，因此公司能够向STRC股东支付12%的年化收益率并仍能盈利，但去年比特币下跌6.5%，今年迄今已下跌约17%，因此没有理由假设比特币每年能升值30%。</p>"
+    },
+    {
+      "title": "巴西央行：30%的加密货币交易所未能遵守新的资本要求",
+      "url": "https://www.panewslab.com/zh/articles/01a1d353-c7af-7133-a5c6-a0359f0cd042",
+      "source": "PANews",
+      "published": "2026-11-13T13:14:05+08:00",
+      "summary": "PANews 11月13日消息，据Bitcoin.com报道，巴西央行官员表示，在10月30日截止日期前提交申请的120家虚拟资产服务商中，近三分之一未能达到央行规定的资本要求，其申请在审查后可能被拒绝。巴西央行监察主管Ailton Aqu…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，据Bitcoin.com报道，巴西央行官员表示，在10月30日截止日期前提交申请的120家虚拟资产服务商中，近三分之一未能达到央行规定的资本要求，其申请在审查后可能被拒绝。巴西央行监察主管Ailton Aquino指出，至少30%的加密交易所没有满足第519号和520号决议规定的股本要求，该要求规定每家机构需根据分类持有最高720万美元的资本。此外，大量申请者未提交监管要求的经审计财务报表。此前报道显示，相关措施已导致Bitnuvem、NovaDAX、Digitra和Coinext等多家公司退出巴西市场。</p>"
+    },
+    {
+      "title": "何一：司法冻结在金融机构均会得到配合",
+      "url": "https://www.panewslab.com/zh/articles/01a1d34d-4ed4-75c2-b5ba-7f73e0f5d08d",
+      "source": "PANews",
+      "published": "2026-11-13T13:07:01+08:00",
+      "summary": "PANews 11月13日消息，何一发文回应近期围绕资产冻结的相关讨论表示，司法冻结在金融机构均会得到配合，相关案件已进入诉讼流程，取证过程清晰。此前，何一曾发文提醒用户警惕“朋友打折的U”、“亲戚从链上打过来的币”、“缅甸做生意的钱”、“…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月13日消息，何一发文回应近期围绕资产冻结的相关讨论表示，司法冻结在金融机构均会得到配合，相关案件已进入诉讼流程，取证过程清晰。此前，何一曾发文提醒用户警惕“朋友打折的U”、“亲戚从链上打过来的币”、“缅甸做生意的钱”、“柬埔寨博彩的钱”以及“朋友的钱从账号过了一下”等场景，避免将此类资金转入币安。</p>"
+    },
+    {
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-13T10:29:27+08:00",
+      "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
+      "image_local": "assets/newsbot/img/8ada2fcb26810132.jpg",
+      "content": "<p></p><p>The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.</p>"
+    },
     {
       "title": "Sky顾问BA Labs提议暂停核心金库新增借款",
       "url": "https://www.panewslab.com/zh/articles/01a1d128-992c-7321-8c59-34df40f6eaa6",
