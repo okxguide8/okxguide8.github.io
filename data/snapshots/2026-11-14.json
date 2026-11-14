@@ -1,8 +1,128 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T03:28:33.448155+08:00",
+  "generated_at": "2026-11-14T13:54:14.512875+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "Web3Auth披露安全事件进展：受影响钱包已恢复访问，即将公布资产返还流程",
+      "url": "https://www.panewslab.com/zh/articles/01a1d886-a1a5-7546-8e65-166c9393c1e5",
+      "source": "PANews",
+      "published": "2026-11-14T13:27:48+08:00",
+      "summary": "PANews 11月14日消息，Web3Auth发布安全事件最新进展，此前因基础设施存在安全漏洞影响部分通过Google或Apple登录创建的嵌入式钱包，导致部分账户遭到未经授权的访问，受影响服务包括Torus Wallet，以及Keplr…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，Web3Auth发布安全事件最新进展，此前因基础设施存在安全漏洞影响部分通过Google或Apple登录创建的嵌入式钱包，导致部分账户遭到未经授权的访问，受影响服务包括Torus Wallet，以及Keplr等第三方应用使用的部分嵌入式钱包。</p> <p>目前，受影响资金由项目方安全保管，正协调后续返还事宜，预计将在未来几天公布具体流程，资产救援行动仍在持续进行。服务方面，现有用户通过Web3Auth Plug &amp; Play和Single Factor Auth（SFA）SDK的登录及钱包访问功能已恢复，但部分限制仍然存在，其中Web3Auth SDK v9及更早版本已被弃用，开发者需升级至v10或v11；SFA现有用户可以正常登录，但新用户注册暂时受限。Sapphire网络开发者可通过迁移至最新版SDK开放新用户注册，Legacy网络则计划于2026年11月23日前恢复该功能。</p> <p>Web3Auth提醒用户警惕冒充官方的资产追回诈骗，不要向任何人泄露助记词、私钥或登录凭证，也不要轻信主动提供资产追回服务的私信。</p>"
+    },
+    {
+      "title": "比特币挖矿难度下调9.13%至134.82 T，为6月以来最大降幅",
+      "url": "https://www.panewslab.com/zh/articles/01a1d881-b11c-7495-8151-9c6c730076fa",
+      "source": "PANews",
+      "published": "2026-11-14T13:22:24+08:00",
+      "summary": "PANews 11月14日消息，据 cloverpool 数据，比特币挖矿难度在区块高度 975744 处迎来调整，挖矿难度下调 9.13%，从 148.36 T 降至134.82 T。这是自 6 月 14 日下调 10.09% 以来的最大…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，据 cloverpool 数据，比特币挖矿难度在区块高度 975744 处迎来调整，挖矿难度下调 9.13%，从 148.36 T 降至134.82 T。这是自 6 月 14 日下调 10.09% 以来的最大单次降幅。此前两次难度调整分别于 10 月 29 日和 10 月 16 日上调 5.54% 和 5.92%。</p>"
+    },
+    {
+      "title": "彭博：比特币一年内13次爆发5亿美元级清算，杠杆交易踩踏愈发频繁",
+      "url": "https://www.panewslab.com/zh/articles/01a1d854-ffb4-722f-986d-6b4402eaf4d7",
+      "source": "PANews",
+      "published": "2026-11-14T12:33:35+08:00",
+      "summary": "PANews 11月14日消息，据彭博社报道，比特币市场大规模清算正变得更加频繁。数据显示，过去一年比特币单日清算金额超过5亿美元的事件已发生13次，其中3次超过10亿美元，最新一轮抛售中加密市场24小时多头仓位清算规模约达13亿美元，比特…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，据彭博社报道，比特币市场大规模清算正变得更加频繁。数据显示，过去一年比特币单日清算金额超过5亿美元的事件已发生13次，其中3次超过10亿美元，最新一轮抛售中加密市场24小时多头仓位清算规模约达13亿美元，比特币仓位占据其中大部分。</p> <p>业内人士指出，过去12个月大规模清算事件较此前更加频繁，高杠杆交易与宏观消息冲击加剧了市场仓位踩踏，衍生品交易已成为加密市场常态，欧洲交易时段开始前流动性偏低，容易引发止损订单连锁触发。</p> <p>与此同时，市场也出现另一种观点：AI股票回调可能为投资者提供更具吸引力的抄底机会，导致投机资金流向科技股，而非像此前部分市场人士预期的那样转向比特币，随着现货比特币ETF推动BTC逐渐成为宏观资产，比特币已经开始与其他资产争夺有限的风险投资资金。</p>"
+    },
+    {
+      "title": "维持比特币零持仓，Bitdeer本周出售256.1枚BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a1d854-72f2-71cb-a9c0-3cef5e967159",
+      "source": "PANews",
+      "published": "2026-11-14T12:32:59+08:00",
+      "summary": "PANews 11月14日消息，纳斯达克上市比特币矿企 Bitdeer 在 X 平台发文表示，截至 11 月 13 日当周，其比特币挖矿产出为 256.1 枚 BTC，同期出售 256.1 枚 BTC，净新增 0 枚 BTC，当前仍维持比特…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，纳斯达克上市比特币矿企 Bitdeer 在 X 平台发文表示，截至 11 月 13 日当周，其比特币挖矿产出为 256.1  枚 BTC，同期出售 256.1  枚 BTC，净新增 0 枚 BTC，当前仍维持比特币零持仓。</p>"
+    },
+    {
+      "title": "Cursor更新安全事件进展：绝大多数用户未受影响，受影响用户已直接通知",
+      "url": "https://www.panewslab.com/zh/articles/01a1d852-bce9-710f-bd52-67ff6ea62f64",
+      "source": "PANews",
+      "published": "2026-11-14T12:31:08+08:00",
+      "summary": "PANews 11月14日消息，Cursor 发布关于近期安全事件的最新进展，经过两周的全面调查，事件源于攻击者获取了其签发给 Fireworks 的一个访问密钥。该密钥由 Fireworks 泄露，从而复制了有限的编程智能体链路追踪数据…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，Cursor 发布关于近期安全事件的最新进展，经过两周的全面调查，事件源于攻击者获取了其签发给 Fireworks 的一个访问密钥。该密钥由 Fireworks 泄露，从而复制了有限的编程智能体链路追踪数据，并进一步入侵部分 SaaS 工具，访问了部分归档源代码、支持数据等。攻击者随后利用窃取凭证，于 10 月 29 日在 Cursor VS Code 扩展市场分发缓存中放入恶意 Anthropic Claude Code 扩展副本（版本 2.1.312 和 2.1.313），最多约 5000 名用户可能受影响，该恶意版本存在约 11 小时后被移除。</p> <p>Cursor 强调，绝大多数客户未受影响，受影响客户已直接通知。隐私模式用户数据安全，生产系统、官方应用更新及客户代码仓库均未受影响。公司已轮换凭证、迁移推理流量、重建扩展市场，并认为事件已于 11 月 1 日得到控制。</p> <p><a href=\"https://www.panewslab.com/zh/articles/01a18c4d-87e1-7704-bad1-dfe2f8d98b4c\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">此前消息</a>，Cursor市场现恶意版Claude Code扩展，影响至多5000人。</p>"
+    },
+    {
+      "title": "ARK Invest加密主管质疑ETH价值叙事转向：仍存L1定位、抗量子路线等5大难题",
+      "url": "https://www.panewslab.com/zh/articles/01a1d845-02f3-74ac-9931-95a28160db38",
+      "source": "PANews",
+      "published": "2026-11-14T12:16:08+08:00",
+      "summary": "PANews 11月14日消息，ARK Invest数字资产研究主管Lorenzo Valente 发文表示，Vitalik Buterin近期关于将ETH定位为价值储存资产（SoV）的观点，可能是自“超声波货币”（Ultrasound M…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，ARK Invest数字资产研究主管Lorenzo Valente 发文表示，Vitalik Buterin近期关于将ETH定位为价值储存资产（SoV）的观点，可能是自“超声波货币”（Ultrasound Money）以来，ETH价值叙事最大的一次转变，但市场对此尚未展开足够讨论，并且围绕这一转变提出五大问题：</p> <p>1、以太坊是否将永久放弃通缩路线，通过持续增发解决长期网络安全预算问题，价值储存投资者能否接受长期通胀仍有待观察。</p> <p>2、价值储存资产需要可信的货币承诺，而ETH目前没有固定供应上限，发行曲线仍存在讨论空间，若要确立SoV定位，可能需要明确货币政策及最低发行水平。</p> <p>3、以太坊主网发行原生RWA与更保守的L1发展路线之间存在一定矛盾，发行方通常会选择用户、流动性和性能更具优势的网络，若主网发展停滞，RWA为何不选择L2。</p> <p>4、价值储存属性本质上是一种需要长期建立的社会共识，以太坊必须提出可量化指标，证明其能够与比特币竞争。</p> <p>5、如果网络长期生存能力是价值储存的首要标准，那么抗量子迁移就不应只是路线图上的普通事项，而应成为优先任务，并制定明确时间表。</p>"
+    },
+    {
+      "title": "币安：本周已重新开放87条网络提现服务，争取下周开放所有剩余网络及资产的提现服务",
+      "url": "https://www.panewslab.com/zh/articles/01a1d839-3d45-70f7-a763-1b2a03d5b9e0",
+      "source": "PANews",
+      "published": "2026-11-14T12:03:15+08:00",
+      "summary": "PANews 11月14日消息，据官方公告，币安本周已重新开放 87 条网络的提现服务，提现服务恢复工作仍在持续推进。币安将争取在下周末前，重新开放所有剩余网络及资产的提现服务。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，据官方公告，币安本周已重新开放 87 条网络的提现服务，提现服务恢复工作仍在持续推进。币安将争取在下周末前，重新开放所有剩余网络及资产的提现服务。</p>"
+    },
+    {
+      "title": "易理华：黄仁勋事件持续冲击美股，短期不考虑抄底加密市场",
+      "url": "https://www.panewslab.com/zh/articles/01a1d836-326c-75a4-af34-e09243acd342",
+      "source": "PANews",
+      "published": "2026-11-14T11:59:57+08:00",
+      "summary": "PANews 11月14日消息， Liquid Capital 创始人易理华分析称，加密市场周六下跌主要受到黄仁勋事件影响，市场对美股后续走势的预期转向悲观，美股进一步下跌 30% 也很正常。在局势明朗前，不宜轻易判断市场已经触底。易理华表…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息， Liquid Capital 创始人易理华分析称，加密市场周六下跌主要受到黄仁勋事件影响，市场对美股后续走势的预期转向悲观，美股进一步下跌 30% 也很正常。在局势明朗前，不宜轻易判断市场已经触底。易理华表示，此前看比特币 8.6 万美元回调后，看 7.9、7.5、7.1 万美元这 3 个关键位，并且在 7.7 万美元右侧抄底，从比特币结构来看没问题，有大幅度反弹机会，但随着美股暴跌，其已及时止盈离场，仅保留少量现货仓位。易理华认为，加密市场现在高度依赖美股，鉴于对黄仁勋回归及美股前景持悲观态度，短期内不考虑抄底。</p>"
+    },
+    {
+      "title": "去年11月开多138万枚HYPE后持仓至今的地址属于巨鲸smartestmoney，目前浮盈4295万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1d818-28ff-7126-bb6f-044a1c80d7bc",
+      "source": "PANews",
+      "published": "2026-11-14T11:27:08+08:00",
+      "summary": "PANews 11月14日消息，据链上分析师余烬监测，去年 11 月 38.6 美元开多 138 万枚 HYPE 后一直持仓至今的地址属于巨鲸 smartestmoney。该巨鲸的 138 万枚 HYPE 多仓在 9 月份 HYPE 最高到…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，据链上分析师余烬监测，去年 11 月 38.6 美元开多 138 万枚 HYPE 后一直持仓至今的地址属于巨鲸 smartestmoney。该巨鲸的 138 万枚 HYPE 多仓在 9 月份 HYPE 最高到 98 美元时，浮盈 8200 万美元。不过随着这段时间 HYPE 回调到 70 美元以下，浮盈已经回落到 4295 万美元，仓位的清算价在 65.15 美元，距离现价仅 4.65 美元。</p>"
+    },
+    {
+      "title": "Tom Lee：已签署声援黄仁勋的请愿网站Stand with Jensen",
+      "url": "https://www.panewslab.com/zh/articles/01a1d809-ae4f-73fa-bffc-67e19af1d7b9",
+      "source": "PANews",
+      "published": "2026-11-14T11:11:20+08:00",
+      "summary": "PANews 11月14日消息，以太坊财库公司 Bitmine 董事长 Tom Lee 发文表示，已签署声援黄仁勋的请愿网站 Stand with Jensen。网站数据显示，签名总数已超过 3 万，其中自称英伟达在职员工 2502 人、前…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月14日消息，以太坊财库公司 Bitmine 董事长 Tom Lee 发文表示，已签署声援黄仁勋的请愿网站 Stand with Jensen。网站数据显示，签名总数已超过 3 万，其中自称英伟达在职员工 2502 人、前员工 352 人、股东 17619 人。签名身份由签署者自行填写，网站未做核验。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-14T06:08:37+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-14T06:01:03+08:00",
+      "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually all…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
+      "image_local": "assets/newsbot/img/09c7d5b2baa96e36.jpg",
+      "content": "<p></p><p>OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.</p>"
+    },
     {
       "title": "Coinbase将调整Anthropic上市前永续合约指数",
       "url": "https://www.panewslab.com/zh/articles/01a1d648-163c-7305-ae02-b8ac96484c33",
