@@ -1,8 +1,108 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T01:52:05.606267+08:00",
+  "generated_at": "2026-11-15T13:55:25.136569+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "矿企MARA六周内售出13,597枚比特币，套现11亿美元，并计划进一步出售",
+      "url": "https://www.panewslab.com/zh/articles/01a1ddb6-30b2-7257-a8c1-fba97092953a",
+      "source": "PANews",
+      "published": "2026-11-15T13:37:49+08:00",
+      "summary": "PANews 11月15日消息，GSR 内容主管 Frank Chaparro 发文表示，矿企 MARA 在短短六周内售出了 13,597 枚比特币，套现 11 亿美元，并计划进一步出售。该公司曾表示会持有其比特币储备，但如今却选择将其变现…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，GSR 内容主管 Frank Chaparro 发文表示，矿企 MARA 在短短六周内售出了 13,597 枚比特币，套现 11 亿美元，并计划进一步出售。该公司曾表示会持有其比特币储备，但如今却选择将其变现，旨在偿还债务并为发展人工智能数据中心提供资金。</p>"
+    },
+    {
+      "title": "新型银行Nubank获巴西银行牌照，成功保住“Bank”名称",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd9e-bb24-757a-b5cb-72c801ddaf8b",
+      "source": "PANews",
+      "published": "2026-11-15T13:12:13+08:00",
+      "summary": "PANews 11月15日消息，据 Bitcoin.com News 报道，开展加密货币业务的新型银行 Nubank 已获准收购 Banco Porto Real de Investimentos S/A，从而在巴西正式取得银行牌照。此举使…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据 Bitcoin.com News 报道，开展加密货币业务的新型银行 Nubank 已获准收购 Banco Porto Real de Investimentos S/A，从而在巴西正式取得银行牌照。此举使该公司能够保留其现有名称；此前，由于缺乏巴西银行牌照，监管机构曾要求其不得在名称中使用“银行”（bank）一词。</p>"
+    },
+    {
+      "title": "慢雾CISO：地下论坛兜售号称支持iOS 13至27.2的远程控制工具，可窃取钥匙串及加密钱包数据",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd99-f9ff-7748-b128-4b228a7446f2",
+      "source": "PANews",
+      "published": "2026-11-15T13:07:03+08:00",
+      "summary": "PANews 11月15日消息，慢雾CISO 23pds发文称，地下论坛有人兜售一款号称支持iOS 13至27.2系统的远程控制工具，并配有集中式控制面板。攻击者据称可通过短信、聊天软件或邮件投递钓鱼链接，在用户点击后尝试获取设备访问权限…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，慢雾CISO 23pds发文称，地下论坛有人兜售一款号称支持iOS 13至27.2系统的远程控制工具，并配有集中式控制面板。攻击者据称可通过短信、聊天软件或邮件投递钓鱼链接，在用户点击后尝试获取设备访问权限，进而窃取钥匙串（Keychain）数据、聊天记录、文件凭据及加密钱包相关数据，还可监控摄像头、麦克风、定位和屏幕，并支持远程Shell及多设备管理。</p> <p>该工具宣称具备初始访问、权限提升、重启后驻留、数据导出、实时监控和远程控制六项能力，涉及绕过指针认证（PAC）、逃逸沙箱及获取内核读写权限等技术。不过，慢雾CISO对其兼容性表示怀疑，认为其宣称支持iOS 27.2可能存在夸大或稳定性问题，并推测该工具可能是Darksword的升级版本，其同时提醒用户及时更新系统，谨慎点击短信、邮件及聊天软件中的不明链接，注意设备和加密资产安全。</p>"
+    },
+    {
+      "title": "Bitwise首席投资官：加密市场需消化部分长期影响因素，未来会出现较大的买入机会",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd71-3731-70d3-9b1a-e3d71d590fda",
+      "source": "PANews",
+      "published": "2026-11-15T12:22:30+08:00",
+      "summary": "PANews 11月15日消息，Bitwise 首席投资官 Matt Hougan 发文指出，当前加密市场呈现出 2018 年中期的疲态，许多人选择放弃。市场可能需要一段时间消化选举、币安相关事件、收紧货币政策等长期影响。未来会出现较大的买…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，Bitwise 首席投资官 Matt Hougan 发文指出，当前加密市场呈现出 2018 年中期的疲态，许多人选择放弃。市场可能需要一段时间消化选举、币安相关事件、收紧货币政策等长期影响。未来会出现较大的买入机会，但具体时点难以判断。Hougan 指出，2018 年的低迷最终被 DeFi 这一创新打破，预计这次也可能类似，真正扭转局面的将是某种不可预测的创新突破。</p>"
+    },
+    {
+      "title": "OpenAI等五家AI公司遭起诉，要求叫停前沿AI研发",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd54-a546-7294-9184-26c05756460f",
+      "source": "PANews",
+      "published": "2026-11-15T11:51:17+08:00",
+      "summary": "PANews 11月15日消息，据智通财经报道，美国四家非营利组织联合向旧金山高等法院提起诉讼，将OpenAI、Anthropic、谷歌、Meta以及SpaceX AI列为被告，要求法院叫停这些企业进一步开发最先进的人工智能模型。原告的诉求…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据智通财经报道，美国四家非营利组织联合向旧金山高等法院提起诉讼，将OpenAI、Anthropic、谷歌、Meta以及SpaceX AI列为被告，要求法院叫停这些企业进一步开发最先进的人工智能模型。原告的诉求并非赔偿，而是在被告能够证明其技术处于人类控制之下以前，暂停下一代模型的训练与部署。</p> <p>参与诉讼的组织包括Irreplaceable Education Fund、Public Citizen、HeatInitiative和Alliance for Secure AI，是由网络安全和消费者权益倡导组织组成的联盟。这场诉讼的核心证据大量来自被告公司高管自己的公开表态。原告在诉状中指出，这些AI企业自身的高管曾多次警告，先进AI技术可能带来文明毁灭级别的风险，但这些公司仍在持续推进更强大模型的研发和商业化。</p>"
+    },
+    {
+      "title": "BIT：加密总市值自10月初以来蒸发约8000亿美元，市场流动性承压",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd51-0287-761d-8b2e-2e6e76988b33",
+      "source": "PANews",
+      "published": "2026-11-15T11:47:18+08:00",
+      "summary": "PANews 11月15日消息，据官方消息，BIT 独立分析师发文指出，自 10 月初以来，加密货币总市值已从 2.9 万亿美元降至 2.1 万亿美元，蒸发约 8000 亿美元。BTC 今早一度下跌约 9%，最低触及 6.2 万美元附近，随…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据官方消息，BIT 独立分析师发文指出，自 10 月初以来，加密货币总市值已从 2.9 万亿美元降至 2.1 万亿美元，蒸发约 8000 亿美元。BTC 今早一度下跌约 9%，最低触及 6.2 万美元附近，随后有所反弹。</p> <p>分析指出，与上周末仅约 290 亿美元的成交量相比，本周下跌期间成交量放大至约 1070 亿美元，爆仓加速，但承接买盘有限，市场正在寻找流动性。过去 30 天稳定币净流出扩大至约 140 亿美元，可用于承接抛压的资金减少。周末银行休市，新增法币资金难以快速入场；在宏观环境本就疲弱的背景下，部分投资者对近期网络安全风险的担忧也在上升。</p> <p><img src=\"../assets/newsbot/img/654427554850c799.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
+    },
+    {
+      "title": "10月建仓959万美元UNI的某巨鲸卖出部分UNI，预计亏损154.6万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd49-e563-7149-9c7c-470b4b7e34e2",
+      "source": "PANews",
+      "published": "2026-11-15T11:39:36+08:00",
+      "summary": "PANews 11月15日消息，据 Ai 姨监测，10 月以均价 7.42 美元建仓 959 万美元 UNI 的大户疑似割肉，预计亏损 154.6 万美元。地址 0x138…73b4D 于 10.10-10.13 从 Binance 提出…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据 Ai 姨监测，10 月以均价 7.42 美元建仓 959 万美元 UNI 的大户疑似割肉，预计亏损 154.6 万美元。地址 0x138…73b4D 于 10.10-10.13 从 Binance 提出 1,292,895 UNI，持仓一个月后过去 7 小时充值了其中 592,895 枚，充值价格 4.81 美元，若卖出将资产缩水 35.2%。该地址的剩余部分仍浮亏 415 万美元。</p>"
+    },
+    {
+      "title": "Aave高管：过去两天借款人共发生约3900万美元的清算",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd46-3bb9-713b-9880-c8f5e24155fa",
+      "source": "PANews",
+      "published": "2026-11-15T11:35:32+08:00",
+      "summary": "PANews 11月15日消息，据 The Defiant 报道，Aave 首席战略与业务官 Luigi D’Onorio DeMeo 发文表示，在过去两天内，借款人共发生了约 3900 万美元的清算。借款人的抵押资产不足以支持贷款时，仓位…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据 The Defiant 报道，Aave 首席战略与业务官 Luigi D’Onorio DeMeo 发文表示，在过去两天内，借款人共发生了约 3900 万美元的清算。借款人的抵押资产不足以支持贷款时，仓位可能被清算；但清算金额本身并不等同于 Aave 贷款方所遭受的损失。</p>"
+    },
+    {
+      "title": "韩国加密交易所Coinone客服外包服务器遭入侵，部分用户咨询信息泄露",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd37-957a-72d3-a02e-7fd5633c202b",
+      "source": "PANews",
+      "published": "2026-11-15T11:19:32+08:00",
+      "summary": "PANews 11月15日消息，韩国加密交易所 Coinone 发布公告称，其客户咨询业务外包商服务器于 11 月 12 日凌晨遭外部攻击者非法入侵，导致部分客户咨询相关个人信息泄露。Coinone 确认，仅有进行过客户中心咨询的用户受影响…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，韩国加密交易所 Coinone 发布公告称，其客户咨询业务外包商服务器于 11 月 12 日凌晨遭外部攻击者非法入侵，导致部分客户咨询相关个人信息泄露。Coinone 确认，仅有进行过客户中心咨询的用户受影响，无咨询记录的用户与本次泄露无关。泄露信息可能包括咨询过程中用户提供的电话号码、姓名、电子邮箱地址、出生日期、银行账号、密码、居民登记号码、证件签发日期、家庭住址、钱包地址以及交易 ID（TXID），具体因人而异。</p> <p>Coinone 强调，其会员账户、交易及虚拟资产钱包系统与外包商服务器相互独立，目前未发现直接入侵迹象。Coinone 已封锁相关 IP，并向韩国互联网振兴院、个人信息保护委员会及金融监督院报告了此次事件，并与外包商共同调查。</p>"
+    },
+    {
+      "title": "某交易员过去10小时遭遇7次爆仓，累计被清算1103万美元BTC和544万美元ETH",
+      "url": "https://www.panewslab.com/zh/articles/01a1dd1d-dfdd-7593-b1c4-57c03f7b1006",
+      "source": "PANews",
+      "published": "2026-11-15T10:51:27+08:00",
+      "summary": "PANews 11月15日消息，据 Lookonchain 监测，交易员 0xc05b 在过去 10 小时内遭遇了 7 次爆仓，累计被清算了 172 枚 BTC（价值 1103 万美元）和 2984 枚 ETH（价值 544 万美元）。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月15日消息，据 Lookonchain 监测，交易员 0xc05b 在过去 10 小时内遭遇了 7 次爆仓，累计被清算了 172 枚 BTC（价值 1103 万美元）和 2984 枚 ETH（价值 544 万美元）。</p>"
+    },
     {
       "title": "合计持股21.3亿美元的两大股东敦促英伟达董事会考虑黄仁勋回归",
       "url": "https://www.panewslab.com/zh/articles/01a1db2d-cddc-724d-b655-aebdf86ccab7",
