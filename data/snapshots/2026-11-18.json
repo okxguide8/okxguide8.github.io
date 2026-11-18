@@ -1,8 +1,128 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T04:43:09.463716+08:00",
+  "generated_at": "2026-11-18T14:56:22.609816+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "某交易者319万美元买入的TRUMP如今仅值25.8万美元，一年半亏损293万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed6c-1876-74df-bf5e-993c9566c9d0",
+      "source": "PANews",
+      "published": "2026-11-18T14:50:48+08:00",
+      "summary": "PANews 11月18日消息，据Lookonchain监测，某交易者1.5年前买入267,272枚TRUMP，当时价值319万美元，如今仅值25.8万美元，亏损293万美元（-92%）。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据Lookonchain监测，某交易者1.5年前买入267,272枚TRUMP，当时价值319万美元，如今仅值25.8万美元，亏损293万美元（-92%）。</p>"
+    },
+    {
+      "title": "币安期货今日将推出6个以TradFi美元为保证金的永续合约",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed58-b5e3-71e2-995d-76e0d93fe7bd",
+      "source": "PANews",
+      "published": "2026-11-18T14:29:38+08:00",
+      "summary": "PANews 11月18日消息，据官方公告，币安期货将扩展交易选择范围，于2026年11月18日推出多个以美元Ⓢ为保证金的永续合约并在币安RIE上线交易，由币安RCH进行清算结算。具体上线时间（UTC）为：09:30上线SOXXUSDT U…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据官方公告，币安期货将扩展交易选择范围，于2026年11月18日推出多个以美元Ⓢ为保证金的永续合约并在币安RIE上线交易，由币安RCH进行清算结算。具体上线时间（UTC）为：09:30上线SOXXUSDT USDT永续合约，09:35上线IGVUSDT USDT定价永续合约，09:40上线ARTYUSDT USDT定价永续合约，09:45上线IBITUSDT USDT以USDT计价的永续合约，09:50上线CCJUSDT USDT定价永续合约，09:55上线ETNUSDT USDT以USDT计价的永续合约。最高支持20倍杠杆，并以USDT结算。</p>"
+    },
+    {
+      "title": "TRON上USDT总供应量已达942.1亿美元，占USDT总供应量的54%",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed49-b2ec-77fa-adbc-f7da887e3aa7",
+      "source": "PANews",
+      "published": "2026-11-18T14:13:15+08:00",
+      "summary": "PANews 11月18日消息，据Lookonchain监测，TRON上USDT总供应量逐年增长，已达942.1亿美元，占USDT总供应量的54%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据Lookonchain监测，TRON上USDT总供应量逐年增长，已达942.1亿美元，占USDT总供应量的54%。</p>"
+    },
+    {
+      "title": "Vitalik：需要为现代数字资产找到类似房产投资的优质属性",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed3f-e33d-7631-85ab-f4520e051ef3",
+      "source": "PANews",
+      "published": "2026-11-18T14:02:31+08:00",
+      "summary": "PANews 11月18日消息，以太坊联合创始人Vitalik Buterin发文表示，年轻一代更多投资股票和其他数字产品而非房地产，好处之一是能削弱人们维持高房价的不良激励机制——不再像对待其他生活必需品那样，乐见价格下跌。但他也指出，房…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，以太坊联合创始人Vitalik Buterin发文表示，年轻一代更多投资股票和其他数字产品而非房地产，好处之一是能削弱人们维持高房价的不良激励机制——不再像对待其他生活必需品那样，乐见价格下跌。但他也指出，房地产有一个优势：在文化和政策引导下，它被当作安全、不疯狂且不易变现的默认投资方式；而现代平台鼓励的恰恰相反，导致更多不负责任的行为。我们需要为现代数字资产找到类似房产投资的优质属性。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-18T14:00:00+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "以太坊现货 ETF 昨日总净流出 2909.03 万美元，持续 3 日净流出",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed1a-8c8c-7458-9a68-c1768cf0d592",
+      "source": "PANews",
+      "published": "2026-11-18T13:21:44+08:00",
+      "summary": "PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）以太坊现货 ETF 总净流出 2909.03 万美元。 昨日单日净流入最多的以太坊现货 ETF 为 Bitwise ETF ETHW，单日净…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）以太坊现货 ETF 总净流出 2909.03 万美元。<br>\n昨日单日净流入最多的以太坊现货 ETF 为 Bitwise ETF ETHW，单日净流入为 128.28 万美元，目前 ETHW 历史总净流入达 3.90 亿美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 2760.21 万美元，目前 ETHA 历史总净流入达 111.85 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 99.68 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.53%，历史累计净流入已达 114.78 亿美元。</p>"
+    },
+    {
+      "title": "比特币现货ETF昨日总净流出2.4亿美元， 贝莱德IBIT净流出2.1亿美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed1a-5131-7627-8412-d502164fafe8",
+      "source": "PANews",
+      "published": "2026-11-18T13:21:29+08:00",
+      "summary": "PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）比特币现货 ETF 总净流出 2.40 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 2…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）比特币现货 ETF 总净流出 2.40 亿美元。<br>\n昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 292.63 万美元，目前 MSBT 历史总净流入达 8.39 亿美元。<br>\n其次为灰度 (Grayscale) 比特币迷你信托 ETF BTC，单日净流入为 112.99 万美元，目前 BTC 历史总净流入达 28.95 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 2.10 亿美元，目前 IBIT 历史总净流入达 640.59 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 796.50 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.19%，历史累计净流入已达 544.01 亿美元。</p>"
+    },
+    {
+      "title": "Paytaca：后端系统遭攻击但用户资金与私钥未受影响，提醒勿交互可疑订单",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed0e-7200-7437-9e5f-01168e1a059f",
+      "source": "PANews",
+      "published": "2026-11-18T13:08:32+08:00",
+      "summary": "PANews 11月18日消息，Bitcoin Cash（BCH）生态自托管钱包Paytaca发文称，其近期发现并应对了针对后端系统漏洞的网络安全攻击。11月17日，P2P Ramp后端漏洞被利用生成欺诈订单；11月18日，另一后端漏洞被利…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，Bitcoin Cash（BCH）生态自托管钱包Paytaca发文称，其近期发现并应对了针对后端系统漏洞的网络安全攻击。11月17日，P2P Ramp后端漏洞被利用生成欺诈订单；11月18日，另一后端漏洞被利用创建未经请求的支付请求。团队正在调查和修复，并加强防护。</p> <p>Paytaca强调，攻击针对的是后端基础设施，而非控制用户资金的私钥；其自托管架构提供关键保护，转移资金需用私钥生成加密签名，私钥始终保存在用户设备上，从不存储于Paytaca后端服务器。这限制了后端被攻破对用户资金的影响。Paytaca建议用户忽略且不交互可疑或未经请求的P2P订单和支付请求，不批准或签署非本人发起或不认识的交易，不向任何人分享钱包恢复短语或私钥。</p>"
+    },
+    {
+      "title": "分析：比特币12%周跌幅叠加跌破200周均线，历史三次类似情况三个月后均上涨",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed0b-858b-74a8-811a-54ccecb87d33",
+      "source": "PANews",
+      "published": "2026-11-18T13:05:19+08:00",
+      "summary": "PANews 11月18日消息，据CoinDesk分析，比特币上周下跌12.6%，收于略高于6.5万美元，跌破目前约6.8万美元的200周简单移动平均线，引发市场对进一步下跌的担忧。自2013年该均线可用以来，周跌幅超12%且跌破200周均…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据CoinDesk分析，比特币上周下跌12.6%，收于略高于6.5万美元，跌破目前约6.8万美元的200周简单移动平均线，引发市场对进一步下跌的担忧。自2013年该均线可用以来，周跌幅超12%且跌破200周均线的情况此前仅出现三次：2015年8月之后三个月比特币上涨40.3%，2020年3月新冠暴跌后上涨82.5%，2022年6月跌破后上涨6.3%，但该涨幅因FTX崩盘未能持续。</p> <p>前三次反弹均未立即到来，比特币每次都先再跌10%至17%才转涨；若类似，从上周收盘价再跌10%至17%将落在约5.4万至5.9万美元，与Wintermute对5万多美元价格的预测一致。此类跌破200周均线的12%暴跌似乎发生在熊市末期，而非起点或中段，但三次案例不足以构成规律，宏观环境仍重要，持续的ETF资金流出和债券收益率上升可能使价格承压超过三个月。</p>"
+    },
+    {
+      "title": "币安将于11月20日移除GAS/TRY、HBAR/BNB等5个现货交易对",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed07-e83c-7359-bb4d-f454d0e4e3e3",
+      "source": "PANews",
+      "published": "2026-11-18T13:01:24+08:00",
+      "summary": "PANews 11月18日消息，据币安公告，根据近期审核结果，将于2026年11月20日11:00（东八区时间）移除GAS/TRY、HBAR/BNB、HIVE/TRY、KSM/TRY和ZAMA/TRY现货交易对并停止交易。币安表示会定期审核…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据币安公告，根据近期审核结果，将于2026年11月20日11:00（东八区时间）移除GAS/TRY、HBAR/BNB、HIVE/TRY、KSM/TRY和ZAMA/TRY现货交易对并停止交易。币安表示会定期审核所有上线现货交易对，可能因流动性、交易量不佳等多种因素下架部分交易对，以保护用户并维护高质量交易市场。</p>"
+    },
+    {
+      "title": "腾讯混元Hy4 flash模型官宣开源",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed04-1ebe-7709-abcd-92d4284908d4",
+      "source": "PANews",
+      "published": "2026-11-18T12:57:17+08:00",
+      "summary": "PANews 11月18日消息，据官方消息，腾讯混元宣布开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flash Base，开发者可在GitHub、Hugging Face、ModelScope和G…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据官方消息，腾讯混元宣布开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flash Base，开发者可在GitHub、Hugging Face、ModelScope和GitCode下载部署。此外，腾讯混元预告正在加速开源Hy4模型。</p>"
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-18T10:39:52+08:00",
+      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at author…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg",
+      "image_local": "assets/newsbot/img/6beffc0756590c68.jpg",
+      "content": "<p></p><p>Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.</p>"
+    },
     {
       "title": "分析：比特币周跌约14%，多数加密财库公司市值已低于所持币价",
       "url": "https://www.panewslab.com/zh/articles/01a1eb34-9db7-74ae-8f7e-029c9c418f91",

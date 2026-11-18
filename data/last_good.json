@@ -1,126 +1,126 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T04:43:01.126257+08:00",
+  "generated_at": "2026-11-18T14:56:20.927286+08:00",
   "items": [
     {
-      "title": "分析：比特币周跌约14%，多数加密财库公司市值已低于所持币价",
-      "url": "https://www.panewslab.com/zh/articles/01a1eb34-9db7-74ae-8f7e-029c9c418f91",
+      "title": "某交易者319万美元买入的TRUMP如今仅值25.8万美元，一年半亏损293万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed6c-1876-74df-bf5e-993c9566c9d0",
       "source": "PANews",
-      "published": "2026-11-18T04:30:59+08:00",
-      "summary": "PANews 11月18日消息，据彭博社报道，比特币过去一周约下跌14%，Strategy、Strive等加密财库公司股价至少下跌15%，其“溢价增发再买入加密资产”的模式承压。Blockworks追踪的25家大型数字资产财库公司中，除一家…",
+      "published": "2026-11-18T14:50:48+08:00",
+      "summary": "PANews 11月18日消息，据Lookonchain监测，某交易者1.5年前买入267,272枚TRUMP，当时价值319万美元，如今仅值25.8万美元，亏损293万美元（-92%）。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，据彭博社报道，比特币过去一周约下跌14%，Strategy、Strive等加密财库公司股价至少下跌15%，其“溢价增发再买入加密资产”的模式承压。Blockworks追踪的25家大型数字资产财库公司中，除一家外市值均已低于所持加密资产价值。前Citadel Securities交易员Tian Zeng旗下Third Eye基金自9月1日成立以来录得约35%总回报，大部分来自折价买入SkyAI股票和权证并推动改善回购条款。此前，PANews曾报道<a href=\"https://www.panewslab.com/zh/articles/01a1cd08-8488-70c4-9406-4e02fec1bce2\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">MSCI指数将剔除Strategy、Metaplanet等公司</a></p>"
+      "content": "<p>PANews 11月18日消息，据Lookonchain监测，某交易者1.5年前买入267,272枚TRUMP，当时价值319万美元，如今仅值25.8万美元，亏损293万美元（-92%）。</p>"
     },
     {
-      "title": "浑水宣布做空英伟达，质疑其前销售高管与超微电脑前高管存在关联",
-      "url": "https://www.panewslab.com/zh/articles/01a1eb32-3273-7506-b996-0c9419524dd8",
+      "title": "币安期货今日将推出6个以TradFi美元为保证金的永续合约",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed58-b5e3-71e2-995d-76e0d93fe7bd",
       "source": "PANews",
-      "published": "2026-11-18T04:28:21+08:00",
-      "summary": "PANews 11月18日消息，浑水研究（Muddy Waters）11月17日在官网及X平台宣布做空英伟达，发布报告《MW is Short NVIDIA: More Questions About China》。报告质疑英伟达前全球销售…",
+      "published": "2026-11-18T14:29:38+08:00",
+      "summary": "PANews 11月18日消息，据官方公告，币安期货将扩展交易选择范围，于2026年11月18日推出多个以美元Ⓢ为保证金的永续合约并在币安RIE上线交易，由币安RCH进行清算结算。具体上线时间（UTC）为：09:30上线SOXXUSDT U…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，浑水研究（Muddy Waters）11月17日在官网及X平台宣布做空英伟达，发布报告《MW is Short NVIDIA: More Questions About China》。报告质疑英伟达前全球销售执行副总裁Ajay K. Puri与超微电脑一名前首席增长官存在密切关联，而超微电脑此前有员工因涉嫌违规向中国客户销售搭载英伟达GPU的服务器遭起诉。浑水同时写明，相关人士未被政府指控刑事犯罪，诉讼主张尚未证实。Puri已于6月下旬卸任，目前仍任高级顾问。此前，PANews曾报道<a href=\"https://www.panewslab.com/zh/articles/01a1e823-c0b9-73ce-9bde-b942f4e43b8e\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">英伟达股价自历史高点下跌35%，空头已浮盈240亿美元</a></p>"
+      "content": "<p>PANews 11月18日消息，据官方公告，币安期货将扩展交易选择范围，于2026年11月18日推出多个以美元Ⓢ为保证金的永续合约并在币安RIE上线交易，由币安RCH进行清算结算。具体上线时间（UTC）为：09:30上线SOXXUSDT USDT永续合约，09:35上线IGVUSDT USDT定价永续合约，09:40上线ARTYUSDT USDT定价永续合约，09:45上线IBITUSDT USDT以USDT计价的永续合约，09:50上线CCJUSDT USDT定价永续合约，09:55上线ETNUSDT USDT以USDT计价的永续合约。最高支持20倍杠杆，并以USDT结算。</p>"
     },
     {
-      "title": "世界银行联手花旗、Circle探索用USDC拨付资金",
-      "url": "https://www.panewslab.com/zh/articles/01a1eb2c-f4f6-747d-9ae0-6e2c02f746b5",
+      "title": "TRON上USDT总供应量已达942.1亿美元，占USDT总供应量的54%",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed49-b2ec-77fa-adbc-f7da887e3aa7",
       "source": "PANews",
-      "published": "2026-11-18T04:22:41+08:00",
-      "summary": "PANews 11月18日消息，据世界银行集团官方公告，世界银行集团宣布将与花旗及Circle合作，探索以受监管的美元稳定币及区块链支付通道，配合或改进其现有基于代理行体系的资金拨付安排。其中，花旗提供现有银行通道连接，Circle负责以U…",
+      "published": "2026-11-18T14:13:15+08:00",
+      "summary": "PANews 11月18日消息，据Lookonchain监测，TRON上USDT总供应量逐年增长，已达942.1亿美元，占USDT总供应量的54%。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，据世界银行集团官方公告，世界银行集团宣布将与花旗及Circle合作，探索以受监管的美元稳定币及区块链支付通道，配合或改进其现有基于代理行体系的资金拨付安排。其中，花旗提供现有银行通道连接，Circle负责以USDC铸造和结算资金。该计划基于世界银行的区块链平台FundsChain，目前已有96个国家的逾350个项目接入。此前，PANews曾报道<a href=\"https://www.panewslab.com/zh/articles/01a14471-0053-7385-ae7b-3a001c75eb5e\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Circle拟进军约40个新兴及发展中国家市场</a>。</p>"
+      "content": "<p>PANews 11月18日消息，据Lookonchain监测，TRON上USDT总供应量逐年增长，已达942.1亿美元，占USDT总供应量的54%。</p>"
     },
     {
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Vitalik：需要为现代数字资产找到类似房产投资的优质属性",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed3f-e33d-7631-85ab-f4520e051ef3",
+      "source": "PANews",
+      "published": "2026-11-18T14:02:31+08:00",
+      "summary": "PANews 11月18日消息，以太坊联合创始人Vitalik Buterin发文表示，年轻一代更多投资股票和其他数字产品而非房地产，好处之一是能削弱人们维持高房价的不良激励机制——不再像对待其他生活必需品那样，乐见价格下跌。但他也指出，房…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，以太坊联合创始人Vitalik Buterin发文表示，年轻一代更多投资股票和其他数字产品而非房地产，好处之一是能削弱人们维持高房价的不良激励机制——不再像对待其他生活必需品那样，乐见价格下跌。但他也指出，房地产有一个优势：在文化和政策引导下，它被当作安全、不疯狂且不易变现的默认投资方式；而现代平台鼓励的恰恰相反，导致更多不负责任的行为。我们需要为现代数字资产找到类似房产投资的优质属性。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-18T04:05:04+08:00",
-      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
-      "image_local": "assets/newsbot/img/3c4fa86a7aa9c608.jpg",
-      "content": "<p></p><p>Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.</p>"
+      "published": "2026-11-18T14:00:00+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
     },
     {
-      "title": "分析：零售交易员转押注Anthropic IPO之际，加密市场亏损加重",
-      "url": "https://www.panewslab.com/zh/articles/01a1eafd-2666-7322-9a7f-e2e90c455835",
+      "title": "以太坊现货 ETF 昨日总净流出 2909.03 万美元，持续 3 日净流出",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed1a-8c8c-7458-9a68-c1768cf0d592",
       "source": "PANews",
-      "published": "2026-11-18T03:30:25+08:00",
-      "summary": "PANews 11月18日消息，据彭博社报道，比特币自高点回撤约50%仍难吸引抄底盘。Glassnode数据显示，约一半流通比特币已低于上次转移价格，而9月底该比例不足四分之一；该机构跟踪的稳定币供应量在截至11月15日的30天内减少约16…",
+      "published": "2026-11-18T13:21:44+08:00",
+      "summary": "PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）以太坊现货 ETF 总净流出 2909.03 万美元。 昨日单日净流入最多的以太坊现货 ETF 为 Bitwise ETF ETHW，单日净…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，据彭博社报道，比特币自高点回撤约50%仍难吸引抄底盘。Glassnode数据显示，约一半流通比特币已低于上次转移价格，而9月底该比例不足四分之一；该机构跟踪的稳定币供应量在截至11月15日的30天内减少约165亿美元。与此同时，交易员已在Hyperliquid上建立逾3.34亿美元与Anthropic估值相关的头寸。Glassnode分析师Frederik Theissen称，市场对加密资产的热情已经消退。此前，PANews曾报道<a href=\"https://www.panewslab.com/zh/articles/01a1e9f9-acfe-7450-b323-71896a05ef47\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Anthropic获多笔百亿美元IPO订单</a>。</p>"
+      "content": "<p>PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）以太坊现货 ETF 总净流出 2909.03 万美元。<br>\n昨日单日净流入最多的以太坊现货 ETF 为 Bitwise ETF ETHW，单日净流入为 128.28 万美元，目前 ETHW 历史总净流入达 3.90 亿美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 2760.21 万美元，目前 ETHA 历史总净流入达 111.85 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 99.68 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.53%，历史累计净流入已达 114.78 亿美元。</p>"
     },
     {
-      "title": "微软在Ignite发布七款自研AI模型，称以更低成本对标OpenAI和Anthropic",
-      "url": "https://www.panewslab.com/zh/articles/01a1eadd-40a7-765f-bfbf-d8f5bf603eec",
+      "title": "比特币现货ETF昨日总净流出2.4亿美元， 贝莱德IBIT净流出2.1亿美元居首",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed1a-5131-7627-8412-d502164fafe8",
       "source": "PANews",
-      "published": "2026-11-18T02:55:34+08:00",
-      "summary": "PANews 11月18日消息，微软11月17日在Ignite大会发布七款自研MAI模型，覆盖编程、网络安全、图像、实时语音等领域。官方称，MAI Code 2在多项企业编程基准上达到GPT-6.1 Sol约98%的表现、价格约为其40%…",
+      "published": "2026-11-18T13:21:29+08:00",
+      "summary": "PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）比特币现货 ETF 总净流出 2.40 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 2…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，微软11月17日在Ignite大会发布七款自研MAI模型，覆盖编程、网络安全、图像、实时语音等领域。官方称，MAI Code 2在多项企业编程基准上达到GPT-6.1 Sol约98%的表现、价格约为其40%，达到Claude Opus 5.5约96%的表现、价格约为其5%；MAI Cyber 2 Flash在CyberGymE2E基准上质量对标GPT-6 Astra，单任务成本不到其2%。部分比价按促销价计算。Code 2及Code 2 Flash已登陆GitHub Copilot，微软同时推出许可权重，供企业定制并在Azure运行。同日，PANews报道<a href=\"https://www.panewslab.com/zh/articles/01a1eac4-8b4d-72bd-ab00-78c41904ba43\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OpenAI正式发布GPT-6.2 Astra与Sol</a>。</p>"
+      "content": "<p>PANews 11月18日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 17 日）比特币现货 ETF 总净流出 2.40 亿美元。<br>\n昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ETF MSBT，单日净流入为 292.63 万美元，目前 MSBT 历史总净流入达 8.39 亿美元。<br>\n其次为灰度 (Grayscale) 比特币迷你信托 ETF BTC，单日净流入为 112.99 万美元，目前 BTC 历史总净流入达 28.95 亿美元。<br>\n昨日单日净流出最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流出为 2.10 亿美元，目前 IBIT 历史总净流入达 640.59 亿美元。<br>\n截至发稿前，比特币现货 ETF 总资产净值为 796.50 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.19%，历史累计净流入已达 544.01 亿美元。</p>"
     },
     {
-      "title": "OpenAI正式发布GPT-6.2 Astra与Sol，ChatGPT及API即日起可用",
-      "url": "https://www.panewslab.com/zh/articles/01a1eac4-8b4d-72bd-ab00-78c41904ba43",
+      "title": "Paytaca：后端系统遭攻击但用户资金与私钥未受影响，提醒勿交互可疑订单",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed0e-7200-7437-9e5f-01168e1a059f",
       "source": "PANews",
-      "published": "2026-11-18T02:28:35+08:00",
-      "summary": "PANews 11月18日消息，OpenAI在官网及X平台宣布，推出新一代前沿模型GPT-6.2 Astra及面向日常工作的高效模型GPT-6.2 Sol。官方称，Astra主打高难度专业任务，在幻灯片、表格、文档及编程任务上表现提升，在测…",
+      "published": "2026-11-18T13:08:32+08:00",
+      "summary": "PANews 11月18日消息，Bitcoin Cash（BCH）生态自托管钱包Paytaca发文称，其近期发现并应对了针对后端系统漏洞的网络安全攻击。11月17日，P2P Ramp后端漏洞被利用生成欺诈订单；11月18日，另一后端漏洞被利…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，OpenAI在官网及X平台宣布，推出新一代前沿模型GPT-6.2 Astra及面向日常工作的高效模型GPT-6.2 Sol。官方称，Astra主打高难度专业任务，在幻灯片、表格、文档及编程任务上表现提升，在测试多步骤专业工作的Agents’ Last Exam上较GPT-6 Astra高5.2分，单次任务成本不到其三分之一。即日起，两款模型向ChatGPT Plus、Pro、Enterprise和Edu用户开放，并上线Codex及API；Astra的API价格为每百万token输入8美元、输出40美元，较GPT-6 Astra低20%。官方表示，两款模型在其准备度框架下达到网络安全“关键”阈值，将对高风险网络安全协助施加更严格防护。据彭博社报道，此次发布是在OpenAI取消前代GPT-6.1 Astra之后。此前，PANews曾报道OpenAI因安全问题<a href=\"https://www.panewslab.com/zh/articles/01a0ea6f-89c2-7669-9376-fe9c7039f8fa\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">推迟发布GPT-6.1 Astra</a>。</p>"
+      "content": "<p>PANews 11月18日消息，Bitcoin Cash（BCH）生态自托管钱包Paytaca发文称，其近期发现并应对了针对后端系统漏洞的网络安全攻击。11月17日，P2P Ramp后端漏洞被利用生成欺诈订单；11月18日，另一后端漏洞被利用创建未经请求的支付请求。团队正在调查和修复，并加强防护。</p> <p>Paytaca强调，攻击针对的是后端基础设施，而非控制用户资金的私钥；其自托管架构提供关键保护，转移资金需用私钥生成加密签名，私钥始终保存在用户设备上，从不存储于Paytaca后端服务器。这限制了后端被攻破对用户资金的影响。Paytaca建议用户忽略且不交互可疑或未经请求的P2P订单和支付请求，不批准或签署非本人发起或不认识的交易，不向任何人分享钱包恢复短语或私钥。</p>"
     },
     {
-      "title": "Coinbase加密抵押借贷登陆纽约州，覆盖全美50州",
-      "url": "https://www.panewslab.com/zh/articles/01a1eabe-d7cd-7079-9e62-2c9558b749ab",
+      "title": "分析：比特币12%周跌幅叠加跌破200周均线，历史三次类似情况三个月后均上涨",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed0b-858b-74a8-811a-54ccecb87d33",
       "source": "PANews",
-      "published": "2026-11-18T02:22:22+08:00",
-      "summary": "PANews 11月18日消息，Coinbase在X平台发帖称，纽约州用户现可在Coinbase以BTC、ETH或SOL作抵押借入USDC，获得即时流动性，至此该功能已覆盖美国全部50个州。据The Block报道，该链上借贷产品基于Mor…",
+      "published": "2026-11-18T13:05:19+08:00",
+      "summary": "PANews 11月18日消息，据CoinDesk分析，比特币上周下跌12.6%，收于略高于6.5万美元，跌破目前约6.8万美元的200周简单移动平均线，引发市场对进一步下跌的担忧。自2013年该均线可用以来，周跌幅超12%且跌破200周均…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，Coinbase在X平台发帖称，纽约州用户现可在Coinbase以BTC、ETH或SOL作抵押借入USDC，获得即时流动性，至此该功能已覆盖美国全部50个州。据The Block报道，该链上借贷产品基于Morpho协议运行。此前，PANews曾报道<a href=\"https://www.panewslab.com/zh/articles/01a1b17f-ba5a-7358-9bb5-6ba870f33c55\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Coinbase上线以PAXG为抵押借入USDC功能</a>。</p>"
+      "content": "<p>PANews 11月18日消息，据CoinDesk分析，比特币上周下跌12.6%，收于略高于6.5万美元，跌破目前约6.8万美元的200周简单移动平均线，引发市场对进一步下跌的担忧。自2013年该均线可用以来，周跌幅超12%且跌破200周均线的情况此前仅出现三次：2015年8月之后三个月比特币上涨40.3%，2020年3月新冠暴跌后上涨82.5%，2022年6月跌破后上涨6.3%，但该涨幅因FTX崩盘未能持续。</p> <p>前三次反弹均未立即到来，比特币每次都先再跌10%至17%才转涨；若类似，从上周收盘价再跌10%至17%将落在约5.4万至5.9万美元，与Wintermute对5万多美元价格的预测一致。此类跌破200周均线的12%暴跌似乎发生在熊市末期，而非起点或中段，但三次案例不足以构成规律，宏观环境仍重要，持续的ETF资金流出和债券收益率上升可能使价格承压超过三个月。</p>"
     },
     {
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "币安将于11月20日移除GAS/TRY、HBAR/BNB等5个现货交易对",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed07-e83c-7359-bb4d-f454d0e4e3e3",
+      "source": "PANews",
+      "published": "2026-11-18T13:01:24+08:00",
+      "summary": "PANews 11月18日消息，据币安公告，根据近期审核结果，将于2026年11月20日11:00（东八区时间）移除GAS/TRY、HBAR/BNB、HIVE/TRY、KSM/TRY和ZAMA/TRY现货交易对并停止交易。币安表示会定期审核…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据币安公告，根据近期审核结果，将于2026年11月20日11:00（东八区时间）移除GAS/TRY、HBAR/BNB、HIVE/TRY、KSM/TRY和ZAMA/TRY现货交易对并停止交易。币安表示会定期审核所有上线现货交易对，可能因流动性、交易量不佳等多种因素下架部分交易对，以保护用户并维护高质量交易市场。</p>"
+    },
+    {
+      "title": "腾讯混元Hy4 flash模型官宣开源",
+      "url": "https://www.panewslab.com/zh/articles/01a1ed04-1ebe-7709-abcd-92d4284908d4",
+      "source": "PANews",
+      "published": "2026-11-18T12:57:17+08:00",
+      "summary": "PANews 11月18日消息，据官方消息，腾讯混元宣布开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flash Base，开发者可在GitHub、Hugging Face、ModelScope和G…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月18日消息，据官方消息，腾讯混元宣布开源Hy4 flash模型，包含Hy4 flash、Hy4 flash-FP8和Hy4 flash Base，开发者可在GitHub、Hugging Face、ModelScope和GitCode下载部署。此外，腾讯混元预告正在加速开源Hy4模型。</p>"
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-18T01:51:53+08:00",
-      "summary": "DeFi",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg",
-      "image_local": "assets/newsbot/img/d2baba4ed0654816.jpg",
-      "content": "DeFi"
-    },
-    {
-      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-18T01:39:41+08:00",
-      "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png",
-      "image_local": "assets/newsbot/img/93019e5fa6cdd009.jpg",
-      "content": "<p></p><p>Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.</p>"
-    },
-    {
-      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-18T00:39:43+08:00",
-      "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 e…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves-960x640.webp",
-      "image_local": "assets/newsbot/img/a60188c69a6ce8d3.jpg",
-      "content": "<p></p><p>Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.</p>"
-    },
-    {
-      "title": "Anchorage Digital与Kalshi Prime合作，机构可用托管BTC作保证金",
-      "url": "https://www.panewslab.com/zh/articles/01a1ea5f-9052-775c-8d70-c3788fa1d07e",
-      "source": "PANews",
-      "published": "2026-11-18T00:38:18+08:00",
-      "summary": "PANews 11月18日消息，加密托管银行Anchorage Digital宣布与预测市场平台Kalshi旗下机构业务Kalshi Prime达成合作，允许机构客户将托管在Anchorage Digital Bank的比特币和稳定币，用作…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月18日消息，加密托管银行Anchorage Digital宣布与预测市场平台Kalshi旗下机构业务Kalshi Prime达成合作，允许机构客户将托管在Anchorage Digital Bank的比特币和稳定币，用作在Kalshi Prime HODL Margining网络上交易的保证金。资产无需划转至交易场所或出售套现，而是由客户、Kalshi Prime与Anchorage Digital通过三方托管安排锁定，客户仍保留抵押品所有权。Kalshi Prime为在美国商品期货交易委员会（CFTC）注册的期货佣金商（FCM）。此前PANews曾报道，<a href=\"https://www.panewslab.com/zh/articles/01a15ef0-186c-774e-9248-95f95ac6c9a1\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kalshi将允许用户以BTC、ETH等加密资产抵押借款交易永续合约</a>。</p>"
+      "published": "2026-11-18T10:39:52+08:00",
+      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at author…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg",
+      "image_local": "assets/newsbot/img/6beffc0756590c68.jpg",
+      "content": "<p></p><p>Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.</p>"
     }
   ]
 }
