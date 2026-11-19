@@ -1,126 +1,126 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T04:18:13.309195+08:00",
+  "generated_at": "2026-11-19T14:56:45.957843+08:00",
   "items": [
     {
-      "title": "美联储纪要：若通胀数据不佳，下次会议或考虑加息超25基点",
-      "url": "https://www.panewslab.com/zh/articles/01a1f028-e907-7372-8f52-7efba833d193",
+      "title": "澳大利亚监管机构关停QUFC Exchange相关网站，并向消费者发出警告",
+      "url": "https://www.panewslab.com/zh/articles/01a1f294-0d81-7618-9bcf-9c9f98de1d16",
       "source": "PANews",
-      "published": "2026-11-19T03:36:19+08:00",
-      "summary": "PANews 11月19日消息，据美联储公布的10月27日至28日货币政策会议纪要，10名委员同意将联邦基金利率目标区间维持在3.75%至4.00%，两名委员反对并主张加息25个基点。少数与会者指出，若后续通胀数据不佳，下次会议可考虑加息超…",
+      "published": "2026-11-19T14:52:33+08:00",
+      "summary": "PANews 11月19日消息，据The Block报道，澳大利亚证券与投资委员会（ASIC）在关停与加密平台QUFC Exchange相关的20多个网站后，就该平台向消费者发出警告。ASIC称，QUFC Pty Ltd未持有澳大利亚金融服…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据美联储公布的10月27日至28日货币政策会议纪要，10名委员同意将联邦基金利率目标区间维持在3.75%至4.00%，两名委员反对并主张加息25个基点。少数与会者指出，若后续通胀数据不佳，下次会议可考虑加息超过25个基点。委员会重申应及时使通胀回到2%的目标。</p>"
+      "content": "<p>PANews 11月19日消息，据The Block报道，澳大利亚证券与投资委员会（ASIC）在关停与加密平台QUFC Exchange相关的20多个网站后，就该平台向消费者发出警告。ASIC称，QUFC Pty Ltd未持有澳大利亚金融服务牌照，并虚假声称与麦格理集团存在关联，麦格理已否认与该平台有任何关系。</p>"
     },
     {
-      "title": "标普：USDT挂钩能力评为弱，风险资产占比升至28%",
-      "url": "https://www.panewslab.com/zh/articles/01a1f026-88d2-7344-abf4-e03c28e1dfea",
+      "title": "分析师：未平仓合约一周内减少9700枚BTC，激进卖方仍主导期货交易",
+      "url": "https://www.panewslab.com/zh/articles/01a1f291-d250-71c0-8266-41ef4e523167",
       "source": "PANews",
-      "published": "2026-11-19T03:33:44+08:00",
-      "summary": "PANews 11月19日消息，据The Block报道，标普全球评级将Tether（USDT）维持美元挂钩的能力评估为5（弱），理由是其储备中风险资产占比上升，且信息披露仍有缺口。标普称，截至9月30日，风险资产已升至USDT流通量的28…",
+      "published": "2026-11-19T14:50:07+08:00",
+      "summary": "PANews 11月19日消息，CryptoQuant分析师Axel Adler Jr.发文称，14家永续合约平台的未平仓合约一周内减少9700枚BTC，降至35.67万枚BTC。期货主动买卖累计差额（CVD）为-30.61万枚BTC，前一…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据The Block报道，标普全球评级将Tether（USDT）维持美元挂钩的能力评估为5（弱），理由是其储备中风险资产占比上升，且信息披露仍有缺口。标普称，截至9月30日，风险资产已升至USDT流通量的28%，高于一年前的24%，主要受黄金持仓增加及新增42亿美元公开市场股票敞口推动。其他风险资产包括担保贷款、公司债券及信用状况披露有限的投资。</p>"
+      "content": "<p>PANews 11月19日消息，CryptoQuant分析师Axel Adler Jr.发文称，14家永续合约平台的未平仓合约一周内减少9700枚BTC，降至35.67万枚BTC。期货主动买卖累计差额（CVD）为-30.61万枚BTC，前一周为-17.94万枚BTC；日吃单差额为-1.2万枚BTC，显示激进卖方仍主导期货交易。</p> <p>文章称，关键信号是仓位继续收缩还是交易者重新加杠杆。CVD企稳且日吃单差额转正，将是抛压缓解的首个迹象；若未平仓合约回升而CVD继续下降，则仓位在激进抛售中累积，可能增加进一步回调的风险。</p>"
     },
     {
-      "title": "AI安全中心发布联署声明，质疑Anthropic安全承诺",
-      "url": "https://www.panewslab.com/zh/articles/01a1f009-1e8c-71eb-86b3-da3150eac822",
+      "title": "Upbit将在BTC、USDT市场上线STRK、EIGEN、US、REQ代币",
+      "url": "https://www.panewslab.com/zh/articles/01a1f28c-447d-74b9-b785-e707c7d8c810",
       "source": "PANews",
-      "published": "2026-11-19T03:01:35+08:00",
-      "summary": "PANews 11月19日消息，据人工智能安全中心（CAIS）官网，多名科学家、法律学者及科技界人士发布联署声明，质疑Anthropic的安全承诺。声明称，该公司一边警告递归自我改进AI可能脱离人类控制，一边竞相研发，并已弱化既有安全承诺…",
+      "published": "2026-11-19T14:43:51+08:00",
+      "summary": "PANews 11月19日消息，据官方公告，韩国加密交易所Upbit将在BTC、USDT市场上线STRK、EIGEN、US、REQ代币，交易将于当地时间11月19日17:00开始。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据人工智能安全中心（CAIS）官网，多名科学家、法律学者及科技界人士发布联署声明，质疑Anthropic的安全承诺。声明称，该公司一边警告递归自我改进AI可能脱离人类控制，一边竞相研发，并已弱化既有安全承诺。联署人包括哈佛教授史蒂文·平克、诺奖得主奥利弗·哈特及图灵奖得主朱迪亚·珀尔等。</p>"
+      "content": "<p>PANews 11月19日消息，据官方公告，韩国加密交易所Upbit将在BTC、USDT市场上线STRK、EIGEN、US、REQ代币，交易将于当地时间11月19日17:00开始。</p>"
     },
     {
-      "title": "币安获阿布扎比法庭65亿美元全球冻结令追索被盗资产",
-      "url": "https://www.panewslab.com/zh/articles/01a1efee-331f-752b-9b6f-c1f390b87267",
+      "title": "俄央行拟明年修法允许面向合格投资者的基金购买加密货币",
+      "url": "https://www.panewslab.com/zh/articles/01a1f286-aca7-77fb-9dd3-76483da213bb",
       "source": "PANews",
-      "published": "2026-11-19T02:32:11+08:00",
-      "summary": "PANews 11月19日消息，据The Block报道，币安表示，阿布扎比全球市场（ADGM）法庭已对身份不明攻击者签发65亿美元全球冻结令，该金额为禁令覆盖范围，并非已追回金额。此前约63.4亿美元被盗资产中，约28.5亿美元已被第三方…",
+      "published": "2026-11-19T14:37:57+08:00",
+      "summary": "PANews 11月19日消息，据俄罗斯RBC报道，俄央行预计2027年将出现首批投资加密资产的共同基金（PIF），仅面向合格投资者。俄央行投资金融中介部门主管Olga Shishlyannikova称，央行正考虑明年修法，允许面向合格投资…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据The Block报道，币安表示，阿布扎比全球市场（ADGM）法庭已对身份不明攻击者签发65亿美元全球冻结令，该金额为禁令覆盖范围，并非已追回金额。此前约63.4亿美元被盗资产中，约28.5亿美元已被第三方冻结或拦截。法庭还签发临时禁令及交付令。代理律所Gibson Dunn称，命令可通过区块链送达，已识别约2.6万个持有被盗资产的钱包地址，名单将随资金转移更新。</p>"
+      "content": "<p>PANews 11月19日消息，据俄罗斯RBC报道，俄央行预计2027年将出现首批投资加密资产的共同基金（PIF），仅面向合格投资者。俄央行投资金融中介部门主管Olga Shishlyannikova称，央行正考虑明年修法，允许面向合格投资者的基金购买加密货币，目前已收到相关基金注册申请，若修正案获司法部登记，首批基金可能在2027年面世。她表示，现阶段不考虑将加密货币购买机会扩展至非合格投资者。</p>"
     },
     {
-      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-      "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "DeepSeek完成股权变更：新增31名合伙人",
+      "url": "https://www.panewslab.com/zh/articles/01a1f283-7477-7189-9ebc-160baf521dee",
+      "source": "PANews",
+      "published": "2026-11-19T14:34:27+08:00",
+      "summary": "PANews 11月19日消息，据《科创板日报》报道，DeepSeek第二轮融资出现最新进展。工商信息显示，DeepSeek运营主体近日完成股权变更，其新增持股平台已有31家出资方进入。此前多家媒体报道称，本轮融资规模约为1000亿元至10…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月19日消息，据《科创板日报》报道，DeepSeek第二轮融资出现最新进展。工商信息显示，DeepSeek运营主体近日完成股权变更，其新增持股平台已有31家出资方进入。此前多家媒体报道称，本轮融资规模约为1000亿元至1060亿元。此次变更涉及杭州深度求索人工智能基础技术研究有限公司。该公司新增杭州程砚企业管理咨询合伙企业为股东，注册资本增至1991.8707万元，增幅约21.1%。</p> <p>从工商信息可以看到，杭州程砚同期新增31名合伙人，登记出资额由0.6万元增加至34.38979亿元。新增合伙人涵盖互联网、通信、芯片、汽车及新能源等多个行业，包括腾讯、中国移动、中国电信、宁德时代、兆易创新、小红书和vivo等产业投资方。投资机构方面，砺思资本、博裕资本、IDG资本、高榕资本、君联资本、正心谷及中信证券等也出现在名单中。</p>"
+    },
+    {
+      "title": "Sygnum：2027年比特币现货与期货套利策略回报预计将高于美国国债",
+      "url": "https://www.panewslab.com/zh/articles/01a1f268-6871-7071-a477-7f0013f79cb5",
+      "source": "PANews",
+      "published": "2026-11-19T14:04:53+08:00",
+      "summary": "PANews 11月19日消息，据The Block报道，瑞士银行Sygnum在2027年展望报告中预计，明年买入比特币现货并做空期货的套利策略平均回报将高于美国国债。该策略在2026年表现艰难，比特币30天平均资金费率截至5月连续67天低…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月19日消息，据The Block报道，瑞士银行Sygnum在2027年展望报告中预计，明年买入比特币现货并做空期货的套利策略平均回报将高于美国国债。该策略在2026年表现艰难，比特币30天平均资金费率截至5月连续67天低于零；到8月，CME比特币期货年化基差降至约3%，低于两年期美债3.8%的收益率。报告称，比特币资金费率到10月底已回升至约8%年化收益率。</p> <p>Sygnum还基于美国可能加息的预期，称联邦基金期货暗示到2027年底至少还有一次25个基点加息。该行认为，更高利率会提高比特币套利策略与美国国债竞争所需的回报，但杠杆需求及数字资产采用扩大应使资金费率和期货基差在明年大部分时间保持正值。该预测成立需CME三个月比特币期货年化基差和未平仓合约加权平均资金费率在2027年平均高于三个月美国国债收益率2个百分点以上。</p>"
+    },
+    {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-19T02:27:52+08:00",
-      "summary": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition addi…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png",
-      "image_local": "assets/newsbot/img/26da97d9c8b4f7eb.jpg",
-      "content": "<p></p><p>The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.</p>"
+      "published": "2026-11-19T14:00:00+08:00",
+      "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop i…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R6WEJ8WD3YY7VF1JPW7MH8/sponsor-screen-traid-bitcoin.jpg",
+      "image_local": "assets/newsbot/img/a099d03a8f0887fd.jpg",
+      "content": "<p></p><p>Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.</p>"
     },
     {
-      "title": "Anchorage与FOMO Pay合作拓展亚洲及中东稳定币支付",
-      "url": "https://www.panewslab.com/zh/articles/01a1efd0-6953-75ef-a5d4-e046f1687ac1",
-      "source": "PANews",
-      "published": "2026-11-19T01:59:37+08:00",
-      "summary": "PANews 11月19日消息，据Anchorage Digital官网公告，该机构与支付机构FOMO Pay达成合作。FOMO Pay将使用Anchorage Digital Bank的稳定币发行基础设施，将受监管美元稳定币的铸造与赎回接…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据Anchorage Digital官网公告，该机构与支付机构FOMO Pay达成合作。FOMO Pay将使用Anchorage Digital Bank的稳定币发行基础设施，将受监管美元稳定币的铸造与赎回接入亚洲及中东的持牌支付与结算网络。Anchorage Digital Bank持有美国货币监理署全国性信托银行牌照。</p>"
-    },
-    {
-      "title": "花旗下调比特币目标价至99532美元、以太坊至2838美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1efcd-82d8-70b4-9d30-4807021384bb",
-      "source": "PANews",
-      "published": "2026-11-19T01:56:28+08:00",
-      "summary": "PANews 11月19日消息，据The Block报道，花旗将比特币和以太坊的基准情形目标价分别下调至99532美元和2838美元，因加密市场已跌破此前区间。策略师Alex Saunders将此次下调归因于ETF需求走弱、期货市场去杠杆及…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据The Block报道，花旗将比特币和以太坊的基准情形目标价分别下调至99532美元和2838美元，因加密市场已跌破此前区间。策略师Alex Saunders将此次下调归因于ETF需求走弱、期货市场去杠杆及美元走强。花旗今年10月初给出的目标价分别为11.3万美元和3028美元。</p>"
-    },
-    {
-      "title": "谷歌推出长程运行智能体Stitch Loop",
-      "url": "https://www.panewslab.com/zh/articles/01a1efb8-80c2-708e-9667-03c7957df0a5",
-      "source": "PANews",
-      "published": "2026-11-19T01:33:35+08:00",
-      "summary": "PANews 11月19日消息，据谷歌官方博客，谷歌实验室推出实验产品Stitch Loop。该智能体可连接代码库与实时指标，在隔离沙箱中编写代码并提交GitHub拉取请求，经人工审批后才会合并。系统默认提供网络安全、延迟与可访问性循环，安…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，据谷歌官方博客，谷歌实验室推出实验产品Stitch Loop。该智能体可连接代码库与实时指标，在隔离沙箱中编写代码并提交GitHub拉取请求，经人工审批后才会合并。系统默认提供网络安全、延迟与可访问性循环，安全循环结合Gemini 4 Carbon与DeepMind的CodeMender。全球用户可加入等候名单，符合条件的Google AI Ultra用户可优先使用。</p>"
-    },
-    {
-      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-      "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-19T01:05:04+08:00",
-      "summary": "MEV",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg",
-      "image_local": "assets/newsbot/img/9fe6203e294067af.jpg",
-      "content": "MEV"
+      "published": "2026-11-19T14:00:00+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
     },
     {
-      "title": "XRP Ledger完成GL1工具包自评，CertiK核验两项原则",
-      "url": "https://www.panewslab.com/zh/articles/01a1ef9a-4f49-76da-bc04-84272338e261",
+      "title": "Binance热钱包攻击者24小时内累计将14895.59枚ETH跨链兑换为BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a1f262-299b-773d-bbd3-01203151bdb1",
       "source": "PANews",
-      "published": "2026-11-19T01:00:34+08:00",
-      "summary": "PANews 11月19日消息，XRP Ledger基金会宣布，已完成对GL1市场基础设施工具包全部十项原则的自我评估，CertiK对其中的架构与韧性原则进行了独立核验。基金会强调，这不构成GL1或任何央行、监管机构及金融机构的认证、批准或…",
+      "published": "2026-11-19T13:58:03+08:00",
+      "summary": "PANews 11月19日消息，据Beosin Trace监测，11月18日-19日，Binance 热钱包攻击者地址（0x2763b7244b37febefb220864b6a89f7c2e69af81）通过94笔交易，将此前存放的12…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月19日消息，XRP Ledger基金会宣布，已完成对GL1市场基础设施工具包全部十项原则的自我评估，CertiK对其中的架构与韧性原则进行了独立核验。基金会强调，这不构成GL1或任何央行、监管机构及金融机构的认证、批准或背书，机构仍须自行评估。</p>"
+      "content": "<p>PANews 11月19日消息，据Beosin Trace监测，11月18日-19日，Binance 热钱包攻击者地址（0x2763b7244b37febefb220864b6a89f7c2e69af81）通过94笔交易，将此前存放的12,000枚ETH分散转移至11个地址。其中约11773.6枚ETH已通过Thorchain跨链兑换成BTC，剩余约226.3枚ETH被分散转移至多个以太坊新地址。过去24小时内，攻击者累计将14895.59枚ETH通过Thorchain跨链兑换成BTC。</p> <p><img src=\"../assets/newsbot/img/f1270db1177f42fa.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
     },
     {
-      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-      "url": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-19T01:00:00+08:00",
-      "summary": "Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now e…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PGAVAC26A920BS70GX2Q7N/polymarket.jpg",
-      "image_local": "assets/newsbot/img/18b4558be154d6cd.jpg",
-      "content": "<p></p><p>Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now expanding the format to energy commodities. </p>"
+      "title": "Amber Group调整战略重心聚焦AI，有序缩减做市与交易业务规模",
+      "url": "https://www.panewslab.com/zh/articles/01a1f25a-b814-74d2-bfcf-bed65dc81762",
+      "source": "PANews",
+      "published": "2026-11-19T13:49:58+08:00",
+      "summary": "PANews 11月19日消息，Amber Group发文称，作为持续业务转型的一部分，公司正进一步聚焦AI相关投资与孵化，认为该领域具备显著长期机会。为配合这一战略重心，Amber Group正将更多业务活动和资源转向AI，同时对做市与交…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月19日消息，Amber Group发文称，作为持续业务转型的一部分，公司正进一步聚焦AI相关投资与孵化，认为该领域具备显著长期机会。为配合这一战略重心，Amber Group正将更多业务活动和资源转向AI，同时对做市与交易业务的规模及投入资本进行有序调整。此次战略调整已影响部分同事，公司承诺支持他们度过过渡期，并表示尊重受影响者的关切，但近期针对公司及管理层的相关指控完全缺乏事实依据，也不反映这些业务变化的性质。公司称各项业务仍在有序推进，将继续坚持既定战略方向。</p>"
     },
     {
-      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-      "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Glassnode：Gate RWA 永续合约上线数量排名升幅居首，未平仓合约规模位列第三",
+      "url": "https://www.panewslab.com/zh/articles/01a1f24f-dbf7-710b-8c85-c9e91c653809",
+      "source": "PANews",
+      "published": "2026-11-19T13:38:06+08:00",
+      "summary": "PANews 11月19日消息，据 Glassnode 最新发布的链上周报《Capitulation Meets Support》显示，Gate 成为 RWA 永续合约上线数量排名增长最快的平台，上线总数位居全球第二，并曾于 6 月至 9…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月19日消息，据 Glassnode 最新发布的链上周报《Capitulation Meets Support》显示，Gate 成为 RWA 永续合约上线数量排名增长最快的平台，上线总数位居全球第二，并曾于 6 月至 9 月连续四个月位居榜首。目前，Gate 已上线 490 个 RWA 永续合约，较年初的 20 个大幅增加，展现出平台在 RWA 衍生品交易品类覆盖上的显著进展。</p> <p>未平仓合约方面，Gate RWA 永续合约持仓规模约达 21 亿美元，相比于 2026 年初增长超过 20 倍，在交易所中排名第三，仅次于 Binance 和 Hyperliquid。自 7 月下旬以来，Gate 在该指标的每周统计中均保持前三。Glassnode 认为，未平仓合约规模是衡量交易者对平台信任度的重要指标，反映出用户在持仓及保证金存放上的平台选择。</p> <p>此外，Gate 通过储备金证明（PoR）与资金安全证明（PoSEC）分别披露资产储备充足性及资金存储风险覆盖情况。其总储备金率达到 118.49%，冷存储覆盖率达到 104.58%。同时，Gate 安全卫士支持针对未经授权的资产转出所造成的直接损失申请补偿，进一步完善安全保护机制。总体来看，Gate 在 RWA 永续合约产品覆盖、市场参与度及用户资产安全上表现突出，体现出平台在拓展多元交易场景与强化资金安全体系上的综合实力。</p>"
+    },
+    {
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-19T00:34:20+08:00",
-      "summary": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QP748ANKPH8QB50GJRMQ92/hi-what-is-impermanent-loss-and-how-to-avoid-it2-1-1280x853.webp",
-      "image_local": "assets/newsbot/img/a7df2b169d8200d6.jpg",
-      "content": "<p></p><p>Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.</p>"
+      "published": "2026-11-19T13:27:45+08:00",
+      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qua…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S3XTAVJ2EZZX3W47HHYMWA/federal-usa-state-issuer.png",
+      "image_local": "assets/newsbot/img/6bbb37c922f46d79.jpg",
+      "content": "<p></p><p>The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.</p>"
     }
   ]
 }
