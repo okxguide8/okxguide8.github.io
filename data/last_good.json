@@ -1,126 +1,126 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T04:22:28.701595+08:00",
+  "generated_at": "2026-11-20T14:48:21.717989+08:00",
   "items": [
     {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "分析师：目前短期持有者平均实现约15%的亏损，SOPR指标释放入场信号",
+      "url": "https://www.panewslab.com/zh/articles/01a1f7b2-1547-770d-99fb-f2e5efec217e",
+      "source": "PANews",
+      "published": "2026-11-20T14:43:27+08:00",
+      "summary": "PANews 11月20日消息，CryptoQuant分析师Darkfost指出，当短期持有者（STH）的SOPR跌破0.993时，表明STH正在亏损卖出，往往在STH开始投降时可能出现良好机会。SOPR（花费产出利润率）是衡量STH的UT…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，CryptoQuant分析师Darkfost指出，当短期持有者（STH）的SOPR跌破0.993时，表明STH正在亏损卖出，往往在STH开始投降时可能出现良好机会。SOPR（花费产出利润率）是衡量STH的UTXO在被花费时产生的已实现盈亏比率的指标。</p> <p>该预设提醒旨在识别比特币中长期的良好入场点，尤其适用于定投策略，对短线交易也有帮助，但不提供离场信号。该提醒在牛市阶段更为有效，因为在熊市中STH承受的痛苦更明显、持续时间更长。目前其估计STH平均实现约15%的亏损，越来越多亏损的比特币流入交易所，证实STH确实在实现亏损，而非简单的比特币转移。</p>"
+    },
+    {
+      "title": "Michael Saylor：STRC优先股在12%股息率下存在50亿至75亿美元自然需求",
+      "url": "https://www.panewslab.com/zh/articles/01a1f7a2-a857-74cf-bc7a-5c25bac666c4",
+      "source": "PANews",
+      "published": "2026-11-20T14:26:37+08:00",
+      "summary": "PANews 11月20日消息，据The Block报道，Strategy创始人Michael Saylor表示，按当前12%的股息率，他预计公司STRC优先股存在约50亿至75亿美元的“自然、有机”需求。近几个月，随着信贷市场在过去四至五…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，据The Block报道，Strategy创始人Michael Saylor表示，按当前12%的股息率，他预计公司STRC优先股存在约50亿至75亿美元的“自然、有机”需求。近几个月，随着信贷市场在过去四至五个月收缩，公司已在面值以下回购约30亿美元的STRC。</p>"
+    },
+    {
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-20T04:06:34+08:00",
-      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
-      "image_local": "assets/newsbot/img/723fc9253f0c06b5.jpg",
-      "content": "<p></p><p>Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.</p>"
+      "published": "2026-11-20T14:24:41+08:00",
+      "summary": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
+      "image_local": "assets/newsbot/img/1cce75c29beb32b5.jpg",
+      "content": "<p></p><p>Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.</p>"
     },
     {
-      "title": "Binance.US：CFTC认定其衍生品注册申请材料完备",
-      "url": "https://www.panewslab.com/zh/articles/01a1f56a-505b-70a8-b6fa-e6435a3cac26",
+      "title": "币安今日将上线JNJ、AMDL和NIO相关U本位TradFi永续合约",
+      "url": "https://www.panewslab.com/zh/articles/01a1f79e-9c40-721b-b2c2-f6eeefcdf90e",
       "source": "PANews",
-      "published": "2026-11-20T04:05:52+08:00",
-      "summary": "PANews 11月20日消息，据Binance.US官方博客，美国商品期货交易委员会（CFTC）已认定该平台作为指定合约市场（DCM）和衍生品清算组织（DCO）的注册申请材料完备。Binance.US称，材料完备意味着申请所含信息足以进入…",
+      "published": "2026-11-20T14:22:11+08:00",
+      "summary": "PANews 11月20日消息，据官方公告，币安合约平台将于以下时间上线永续合约：2026年11月20日17:30（东八区时间）上线JNJUSDT USDT计价永续合约，追踪Johnson & Johnson Common Stock (N…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Binance.US官方博客，美国商品期货交易委员会（CFTC）已认定该平台作为指定合约市场（DCM）和衍生品清算组织（DCO）的注册申请材料完备。Binance.US称，材料完备意味着申请所含信息足以进入实质审查，并不构成对该申请的批准。若获批成为DCM，该平台将可挂牌期货、期权及其他衍生品合约；若获批成为DCO，则可为这些合约提供清算。该平台表示，这是其计划向美国客户提供受监管永续合约的重要一步，但目前尚未提供任何衍生品产品，且在CFTC批准相关注册之前不会推出此类产品。官方还称，DCM申请现已可在CFTC网站查阅。</p>"
+      "content": "<p>PANews 11月20日消息，据官方公告，币安合约平台将于以下时间上线永续合约：2026年11月20日17:30（东八区时间）上线JNJUSDT USDT计价永续合约，追踪Johnson &amp; Johnson Common Stock (NYSE: JNJ)的价格；2026年11月20日17:35（东八区时间）上线AMDLUSDT USDT计价永续合约，追踪GraniteShares 2x Long AMD Daily ETF (Nasdaq: AMDL)的价格；2026年11月20日17:40（东八区时间）上线NIOUSDT USDT计价永续合约，追踪NIO Inc. ADR, each representing one Class A ordinary share (NYSE: NIO)的价格。上述合约最高杠杆均可达20倍。</p>"
     },
     {
-      "title": "美SEC指控八家实体利用虚假加密平台骗取超3700万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1f553-edcd-7797-9919-374da1220bcc",
+      "title": "何一：Netflix的SBF剧集远不如红果，“主角犯罪皆他人之过”",
+      "url": "https://www.panewslab.com/zh/articles/01a1f790-46da-74b3-bf7f-92bcaef3ce36",
       "source": "PANews",
-      "published": "2026-11-20T03:41:23+08:00",
-      "summary": "PANews 11月20日消息，美国证券交易委员会（SEC）宣布，已起诉八家位于科罗拉多州的实体，指控其通过虚假投资顾问和虚假加密资产交易平台，骗取美国投资者超过3700万美元。据起诉书，被告通过社交媒体广告将投资者导流至由其控制的聊天群组…",
+      "published": "2026-11-20T14:06:32+08:00",
+      "summary": "PANews 11月20日消息，币安联合CEO何一批评Netflix以SBF为原型的剧集《The Altruists》，称其远不及中国短剧“红果”。她表示，与红果一样，Netflix的角色扁平刻板，“只要你是主角，连犯罪都是别人的错”，但红…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，美国证券交易委员会（SEC）宣布，已起诉八家位于科罗拉多州的实体，指控其通过虚假投资顾问和虚假加密资产交易平台，骗取美国投资者超过3700万美元。据起诉书，被告通过社交媒体广告将投资者导流至由其控制的聊天群组，先建议交易美股，再诱使投资者向所谓加密交易平台转账；四组“顾问—平台”配对自2024年8月至2026年5月轮流运作，投资者以为在购买真实加密资产。起诉书称，逾1500名美国投资者累计转入约3744.58万美元。SEC称，这些顾问和平台实为骗取资金的幌子。</p>"
+      "content": "<p>PANews 11月20日消息，币安联合CEO何一批评Netflix以SBF为原型的剧集《The Altruists》，称其远不及中国短剧“红果”。她表示，与红果一样，Netflix的角色扁平刻板，“只要你是主角，连犯罪都是别人的错”，但红果至少每三分钟给一个反转，Netflix“还不如干脆别做了”。</p> <p>此番言论之前，币安联合创始人赵长鹏分享了一篇文章，指出该剧将其描绘成说服SBF欺骗FTX客户的人，而现实中并无经证实的证据。</p>"
     },
     {
-      "title": "Base：Anthropic代币化股票ANTc已于上市首日上线并可交易",
-      "url": "https://www.panewslab.com/zh/articles/01a1f550-864b-7220-85f1-26f2c187c1ef",
+      "title": "币安将为BANK、INIT等代币添加观察标签，移除MORPHO和HYPE种子标签",
+      "url": "https://www.panewslab.com/zh/articles/01a1f78c-2fa1-7338-abd0-8dc4de24bde2",
       "source": "PANews",
-      "published": "2026-11-20T03:37:40+08:00",
-      "summary": "PANews 11月20日消息，据Coinbase旗下Layer2网络Base的官方账号在X平台发帖，Anthropic代币化股票已于该公司上市首日在Base链上线并可交易，代币代码为ANTc。官方同时说明，代币化股票仅面向美国以外的合资格…",
+      "published": "2026-11-20T14:02:04+08:00",
+      "summary": "PANews 11月20日消息，据官方公告，币安将于2026年11月20日为更多代币添加观察标签。添加至观察标签榜单的代币如下：Lorenzo Protocol (BANK)、Initia (INIT)、Mitosis (MITO)、Har…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Coinbase旗下Layer2网络Base的官方账号在X平台发帖，Anthropic代币化股票已于该公司上市首日在Base链上线并可交易，代币代码为ANTc。官方同时说明，代币化股票仅面向美国以外的合资格司法管辖区开放。该产品由在阿布扎比全球市场（ADGM）注册成立的Coinbase Onchain SPV Ltd发行，属于Coinbase代币化股票，并不构成对标的Anthropic股票的直接投资，亦非由Anthropic发行或批准，持有人不享有对标的股票的直接投票权。</p>"
+      "content": "<p>PANews 11月20日消息，据官方公告，币安将于2026年11月20日为更多代币添加观察标签。添加至观察标签榜单的代币如下：Lorenzo Protocol (BANK)、Initia (INIT)、Mitosis (MITO)、Harmony (ONE)、THENA (THE)、Zilliqa (ZIL)。移除种子标签榜单的代币如下：Morpho Token (MORPHO)、Hyperliquid (HYPE)。</p>"
     },
     {
-      "title": "谷歌为Mac版Gemini应用推出电脑操控功能",
-      "url": "https://www.panewslab.com/zh/articles/01a1f54a-52fa-7248-90ba-a4a8c9033054",
-      "source": "PANews",
-      "published": "2026-11-20T03:30:57+08:00",
-      "summary": "PANews 11月20日消息，据谷歌官网博客，谷歌已在Mac版Gemini应用中推出电脑操控功能，用户可用自然语言描述任务，由Gemini在独立后台窗口操作本地文件、桌面应用和网页。该功能提供聊天内实时预览，主屏幕和光标仍可继续使用；用户…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据谷歌官网博客，谷歌已在Mac版Gemini应用中推出电脑操控功能，用户可用自然语言描述任务，由Gemini在独立后台窗口操作本地文件、桌面应用和网页。该功能提供聊天内实时预览，主屏幕和光标仍可继续使用；用户可自选应用权限、随时暂停，并对关键操作确认。该功能即日起面向美国以英语推出，需使用搭载Apple Silicon且系统为macOS Sequoia 15.0或以上的Mac，适用于18岁以上个人谷歌账户的Google AI Plus、Pro和Ultra用户。</p>"
-    },
-    {
-      "title": "Lighter在Robinhood Chain上线ANT/USDG现货交易",
-      "url": "https://www.panewslab.com/zh/articles/01a1f537-f22b-70aa-adda-deff591739bf",
-      "source": "PANews",
-      "published": "2026-11-20T03:10:49+08:00",
-      "summary": "PANews 11月20日消息，去中心化交易平台Lighter官方账号在X平台发帖称，ANT/USDG现货交易已在该平台的Robinhood Chain市场上线。该ANT为Robinhood Chain上的股票代币，并非在纳斯达克登记的An…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，去中心化交易平台Lighter官方账号在X平台发帖称，ANT/USDG现货交易已在该平台的Robinhood Chain市场上线。该ANT为Robinhood Chain上的股票代币，并非在纳斯达克登记的Anthropic正股，亦不授予对标的股票的所有权或相关权利。</p>"
-    },
-    {
-      "title": "Coinbase将ANT盘前永续转为标准股票永续合约",
-      "url": "https://www.panewslab.com/zh/articles/01a1f533-d295-72ee-abc3-f9bbc65139f8",
-      "source": "PANews",
-      "published": "2026-11-20T03:06:19+08:00",
-      "summary": "PANews 11月20日消息，据Coinbase Markets在X平台发帖，因Anthropic已公开上市，其原ANT盘前永续合约已转换为标准Anthropic股票永续合约，现已向美国以外的合格交易者开放。",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Coinbase Markets在X平台发帖，因Anthropic已公开上市，其原ANT盘前永续合约已转换为标准Anthropic股票永续合约，现已向美国以外的合格交易者开放。</p>"
-    },
-    {
-      "title": "Robinhood：Anthropic股票代币已于上市首日在Robinhood Chain上线",
-      "url": "https://www.panewslab.com/zh/articles/01a1f524-c30d-77c5-805f-322b48aed0d4",
-      "source": "PANews",
-      "published": "2026-11-20T02:49:51+08:00",
-      "summary": "PANews 11月20日消息，据Robinhood Crypto官方账号在X平台发帖，Anthropic股票代币已于该公司上市首日在Robinhood Chain上线。官方称，该代币代码为ANT，加入该链上已有的200余种股票代币，为用户…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Robinhood Crypto官方账号在X平台发帖，Anthropic股票代币已于该公司上市首日在Robinhood Chain上线。官方称，该代币代码为ANT，加入该链上已有的200余种股票代币，为用户提供对美国市场的链上敞口。官方同时说明，Robinhood股票代币由Robinhood Assets（Jersey）Limited发行，属于代币化债务证券，并非由标的股票的发行方发行，也不授予对标的股票的所有权或相关权利。</p>"
-    },
-    {
-      "title": "Securitize在Anthropic上市首日上线代币化ANT股票",
-      "url": "https://www.panewslab.com/zh/articles/01a1f51e-9010-71a4-a2b3-0f0a49fdf429",
-      "source": "PANews",
-      "published": "2026-11-20T02:43:07+08:00",
-      "summary": "PANews 11月20日消息，代币化资产平台Securitize（纽交所代码：SECZ）宣布，Anthropic（纳斯达克代码：ANT）已于上市首日通过Securitize Stocks在Solana上线。合格投资者可在美国、欧盟及其他获…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，代币化资产平台Securitize（纽交所代码：SECZ）宣布，Anthropic（纳斯达克代码：ANT）已于上市首日通过Securitize Stocks在Solana上线。合格投资者可在美国、欧盟及其他获准司法管辖区，获得由标的Anthropic股票1:1支持的代币化证券权益，交易以USDC结算，流动性基础设施由Jump Trading支持。官方称，该产品目前可在传统交易时段之外交易，并计划逐步扩展至全天候交易。同期上线的还有安进（AMGN）和福克斯（FOXA），Securitize Stocks平台上的代币化美股已超过50只。Securitize同时说明，持有人并非登记在册的Anthropic股东，Anthropic亦未赞助、授权或背书该产品。</p>"
-    },
-    {
-      "title": "Bitget获配153,774股ANT，rANT现货与永续已开盘",
-      "url": "https://www.panewslab.com/zh/articles/01a1f519-bb07-75e8-8051-842fc75e0ede",
-      "source": "PANews",
-      "published": "2026-11-20T02:37:49+08:00",
-      "summary": "PANews 11月20日消息，据Bitget官方账号在X平台发帖，该平台此次Anthropic IPO最终获配153,774股，其中VIP轮137,494股、配售比例10.06%，股票分发及未获配资金退还须在11月20日16:00（UTC…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Bitget官方账号在X平台发帖，该平台此次Anthropic IPO最终获配153,774股，其中VIP轮137,494股、配售比例10.06%，股票分发及未获配资金退还须在11月20日16:00（UTC）前完成；公开轮16,280股、配售比例1.3%，须在11月19日20:00（UTC）前完成。官方账号随后称，Anthropic代币化股票rANT已在该平台现货和股票永续合约开放交易。Bitget交易页显示，rANT为由Reality发行、按1:1追踪Anthropic（ANT）的代币化股票。</p>"
-    },
-    {
-      "title": "Bybit上线Anthropic股票并转ANTUSDT为标准永续",
-      "url": "https://www.panewslab.com/zh/articles/01a1f516-cb71-75ad-9ad5-b7bd4ed6a1ba",
-      "source": "PANews",
-      "published": "2026-11-20T02:34:36+08:00",
-      "summary": "PANews 11月20日消息，据Bybit公告，Anthropic股票（代码ANT）现已通过Bybit Direct Stocks向符合条件的用户开放二级市场交易，该服务不包括IPO申购或按发行价获配。另据公告，ANTUSDT预上市永续合…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Bybit公告，Anthropic股票（代码ANT）现已通过Bybit Direct Stocks向符合条件的用户开放二级市场交易，该服务不包括IPO申购或按发行价获配。另据公告，ANTUSDT预上市永续合约已于11月19日17:30（UTC，北京时间20日1:30）转为标准永续合约，最高杠杆100倍，支持全天交易，资金费率结算间隔为8小时，最小价格变动为0.01。</p>"
-    },
-    {
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-20T02:20:49+08:00",
-      "summary": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after con…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-trusted-with-hard-forks.png",
-      "image_local": "assets/newsbot/img/bb005a5ca13c4e9d.jpg",
-      "content": "<p></p><p>Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.</p>"
+      "published": "2026-11-20T14:00:00+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "XMR1疑似遭黑客攻击，攻击者抛售520万枚XMR1后买入ETH",
+      "url": "https://www.panewslab.com/zh/articles/01a1f787-5de9-76e5-a465-64ea0832e804",
+      "source": "PANews",
+      "published": "2026-11-20T13:56:48+08:00",
+      "summary": "PANews 11月20日消息，据Lookonchain监测，XMR1疑似遭黑客攻击。攻击者0x1464收到520万枚XMR1并在Hyperliquid上抛售，随后用所得资金买入ETH。截至目前，该攻击者已花费1322万枚USDC买入746…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，据Lookonchain监测，XMR1疑似遭黑客攻击。攻击者0x1464收到520万枚XMR1并在Hyperliquid上抛售，随后用所得资金买入ETH。截至目前，该攻击者已花费1322万枚USDC买入7467枚ETH。</p>"
+    },
+    {
+      "title": "CME的XRP期货在推出后的18个月内名义成交量达812亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1f77f-c559-732d-aa28-820411104494",
+      "source": "PANews",
+      "published": "2026-11-20T13:48:30+08:00",
+      "summary": "PANews 11月20日消息，据Bitcoin.com报道，CME Group在11月19日公布，其标准及微型XRP期货在推出后的18个月内名义交易量达812亿美元，截至2026年11月16日合计成交190万份合约，日均名义交易量2.16…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，据Bitcoin.com报道，CME Group在11月19日公布，其标准及微型XRP期货在推出后的18个月内名义交易量达812亿美元，截至2026年11月16日合计成交190万份合约，日均名义交易量2.16亿美元，成交量相当于428亿枚XRP。CME援引Coinglass数据称，其XRP期货未平仓合约在北京时间2026年11月20日1:03约占18.5%，在跟踪的交易所中排名第一。</p>"
+    },
+    {
+      "title": "矿企PowerCompute出售267枚BTC偿还2200万美元债务，但仍存持续经营疑虑",
+      "url": "https://www.panewslab.com/zh/articles/01a1f779-89de-757e-9138-ef74922b4b5b",
+      "source": "PANews",
+      "published": "2026-11-20T13:41:42+08:00",
+      "summary": "PANews 11月20日消息，据CoinDesk报道，纳斯达克上市的比特币矿企PowerCompute于9月24日由贷款方Arch Lending出售其质押的约267枚比特币，偿还近2200万美元贷款本金，担保债务降至125万美元。Arc…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，据CoinDesk报道，纳斯达克上市的比特币矿企PowerCompute于9月24日由贷款方Arch Lending出售其质押的约267枚比特币，偿还近2200万美元贷款本金，担保债务降至125万美元。Arch Lending联合创始人Himanshu Sahay称，此次出售由PowerCompute指示，属公司战略调整而非市场事件。</p> <p>PowerCompute上周提交的10-Q文件显示，截至9月底公司现金约65万美元，并称对公司持续经营能力的“重大疑虑”尚未消除。公司计划通过债务再融资和增发股票筹资，后者尚有约7100万美元额度。其股价周四收于约40美分，公司估值约100万美元。</p>"
+    },
+    {
+      "title": "Sky的USDS流通供应量单日下降约39%",
+      "url": "https://www.panewslab.com/zh/articles/01a1f771-617e-71b1-9471-adf767996828",
+      "source": "PANews",
+      "published": "2026-11-20T13:32:47+08:00",
+      "summary": "PANews 11月20日消息，据The Defiant报道，据DefiLlama数据，截至北京时间2026年11月20日上午8点的24小时内，Sky的USDS流通供应量下降约39%，从约52.4亿枚降至32.1亿枚，减少约20.3亿枚。在…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，据The Defiant报道，据DefiLlama数据，截至北京时间2026年11月20日上午8点的24小时内，Sky的USDS流通供应量下降约39%，从约52.4亿枚降至32.1亿枚，减少约20.3亿枚。在最新稳定币市值排名中，USDS位列第五，排在USDT、USDC、USDe和DAI之后。</p> <p>以太坊记录显示一笔大规模转换：北京时间2026年11月19日23:48，Etherscan标记为“Poloniex 9”的地址通过Spark的转换合约将4亿枚USDS换成4亿枚USDC，USDS被销毁。Sky联合创始人Rune Christensen表示，协议在过去一天处理了超过20亿美元的资金流出，支持锚定的稳定币流动性已恢复至22.5亿美元以上。</p>"
+    },
+    {
+      "title": "以太坊现货 ETF 昨日总净流出 1.31 亿美元，持续 5 日净流出",
+      "url": "https://www.panewslab.com/zh/articles/01a1f76f-5845-7772-8759-0b4b0c80f856",
+      "source": "PANews",
+      "published": "2026-11-20T13:30:33+08:00",
+      "summary": "PANews 11月20日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 19 日）以太坊现货 ETF 总净流出 1.31 亿美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月20日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 19 日）以太坊现货 ETF 总净流出 1.31 亿美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 1.24 亿美元，目前 ETHA 历史总净流入达 110.43 亿美元。<br>\n其次为灰度（Grayscale）以太坊信托 ETF ETHE，单日净流出为 520.90 万美元，目前 ETHE 历史总净流出达 55.42 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 95.99 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.46%，历史累计净流入已达 113.07 亿美元。</p>"
     }
   ]
 }
