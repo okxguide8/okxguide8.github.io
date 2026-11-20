@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T14:48:21.717989+08:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:53:33.843430+08:00",
   "items": [
     {
-      "title": "分析师：目前短期持有者平均实现约15%的亏损，SOPR指标释放入场信号",
-      "url": "https://www.panewslab.com/zh/articles/01a1f7b2-1547-770d-99fb-f2e5efec217e",
-      "source": "PANews",
-      "published": "2026-11-20T14:43:27+08:00",
-      "summary": "PANews 11月20日消息，CryptoQuant分析师Darkfost指出，当短期持有者（STH）的SOPR跌破0.993时，表明STH正在亏损卖出，往往在STH开始投降时可能出现良好机会。SOPR（花费产出利润率）是衡量STH的UT…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，CryptoQuant分析师Darkfost指出，当短期持有者（STH）的SOPR跌破0.993时，表明STH正在亏损卖出，往往在STH开始投降时可能出现良好机会。SOPR（花费产出利润率）是衡量STH的UTXO在被花费时产生的已实现盈亏比率的指标。</p> <p>该预设提醒旨在识别比特币中长期的良好入场点，尤其适用于定投策略，对短线交易也有帮助，但不提供离场信号。该提醒在牛市阶段更为有效，因为在熊市中STH承受的痛苦更明显、持续时间更长。目前其估计STH平均实现约15%的亏损，越来越多亏损的比特币流入交易所，证实STH确实在实现亏损，而非简单的比特币转移。</p>"
-    },
-    {
-      "title": "Michael Saylor：STRC优先股在12%股息率下存在50亿至75亿美元自然需求",
-      "url": "https://www.panewslab.com/zh/articles/01a1f7a2-a857-74cf-bc7a-5c25bac666c4",
-      "source": "PANews",
-      "published": "2026-11-20T14:26:37+08:00",
-      "summary": "PANews 11月20日消息，据The Block报道，Strategy创始人Michael Saylor表示，按当前12%的股息率，他预计公司STRC优先股存在约50亿至75亿美元的“自然、有机”需求。近几个月，随着信贷市场在过去四至五…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据The Block报道，Strategy创始人Michael Saylor表示，按当前12%的股息率，他预计公司STRC优先股存在约50亿至75亿美元的“自然、有机”需求。近几个月，随着信贷市场在过去四至五个月收缩，公司已在面值以下回购约30亿美元的STRC。</p>"
-    },
-    {
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-20T14:24:41+08:00",
-      "summary": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
-      "image_local": "assets/newsbot/img/1cce75c29beb32b5.jpg",
-      "content": "<p></p><p>Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.</p>"
+      "published": "2026-11-21T03:37:27+08:00",
+      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
+      "image_local": "assets/newsbot/img/abd186a8fd9daa38.jpg",
+      "content": "<p></p><p>Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.</p>"
     },
     {
-      "title": "币安今日将上线JNJ、AMDL和NIO相关U本位TradFi永续合约",
-      "url": "https://www.panewslab.com/zh/articles/01a1f79e-9c40-721b-b2c2-f6eeefcdf90e",
+      "title": "966枚BTC从Kraken转至Abraxas",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa6c-83a8-76a9-8a42-b6724503c910",
       "source": "PANews",
-      "published": "2026-11-20T14:22:11+08:00",
-      "summary": "PANews 11月20日消息，据官方公告，币安合约平台将于以下时间上线永续合约：2026年11月20日17:30（东八区时间）上线JNJUSDT USDT计价永续合约，追踪Johnson & Johnson Common Stock (N…",
+      "published": "2026-11-21T03:26:15+08:00",
+      "summary": "PANews 11月21日消息，据链上转账提示，966枚BTC从Kraken转至Abraxas。该笔转账价值约5676.15万美元。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据官方公告，币安合约平台将于以下时间上线永续合约：2026年11月20日17:30（东八区时间）上线JNJUSDT USDT计价永续合约，追踪Johnson &amp; Johnson Common Stock (NYSE: JNJ)的价格；2026年11月20日17:35（东八区时间）上线AMDLUSDT USDT计价永续合约，追踪GraniteShares 2x Long AMD Daily ETF (Nasdaq: AMDL)的价格；2026年11月20日17:40（东八区时间）上线NIOUSDT USDT计价永续合约，追踪NIO Inc. ADR, each representing one Class A ordinary share (NYSE: NIO)的价格。上述合约最高杠杆均可达20倍。</p>"
+      "content": "<p>PANews 11月21日消息，据链上转账提示，966枚BTC从Kraken转至Abraxas。该笔转账价值约5676.15万美元。</p>"
     },
     {
-      "title": "何一：Netflix的SBF剧集远不如红果，“主角犯罪皆他人之过”",
-      "url": "https://www.panewslab.com/zh/articles/01a1f790-46da-74b3-bf7f-92bcaef3ce36",
+      "title": "BTC跌破58000美元，日内下跌 2.50%",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa64-ac9b-74ac-b0d8-e17f5dc336ed",
       "source": "PANews",
-      "published": "2026-11-20T14:06:32+08:00",
-      "summary": "PANews 11月20日消息，币安联合CEO何一批评Netflix以SBF为原型的剧集《The Altruists》，称其远不及中国短剧“红果”。她表示，与红果一样，Netflix的角色扁平刻板，“只要你是主角，连犯罪都是别人的错”，但红…",
+      "published": "2026-11-21T03:17:43+08:00",
+      "summary": "PANews 11月21日消息，欧易OKX行情显示，BTC刚刚跌破58000美元，现报57988.00美元/枚，日内下跌 2.50%。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，币安联合CEO何一批评Netflix以SBF为原型的剧集《The Altruists》，称其远不及中国短剧“红果”。她表示，与红果一样，Netflix的角色扁平刻板，“只要你是主角，连犯罪都是别人的错”，但红果至少每三分钟给一个反转，Netflix“还不如干脆别做了”。</p> <p>此番言论之前，币安联合创始人赵长鹏分享了一篇文章，指出该剧将其描绘成说服SBF欺骗FTX客户的人，而现实中并无经证实的证据。</p>"
+      "content": "<p>PANews 11月21日消息，欧易OKX行情显示，BTC刚刚跌破58000美元，现报57988.00美元/枚，日内下跌 2.50%。</p>"
     },
     {
-      "title": "币安将为BANK、INIT等代币添加观察标签，移除MORPHO和HYPE种子标签",
-      "url": "https://www.panewslab.com/zh/articles/01a1f78c-2fa1-7338-abd0-8dc4de24bde2",
+      "title": "ETH跌破1600美元，日内下跌 3.35%",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa60-0cb0-7643-8f36-975d9d0d9f10",
       "source": "PANews",
-      "published": "2026-11-20T14:02:04+08:00",
-      "summary": "PANews 11月20日消息，据官方公告，币安将于2026年11月20日为更多代币添加观察标签。添加至观察标签榜单的代币如下：Lorenzo Protocol (BANK)、Initia (INIT)、Mitosis (MITO)、Har…",
+      "published": "2026-11-21T03:12:40+08:00",
+      "summary": "PANews 11月21日消息，欧易OKX行情显示，ETH刚刚跌破1600美元，现报1599.86美元/枚，日内下跌 3.35%。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据官方公告，币安将于2026年11月20日为更多代币添加观察标签。添加至观察标签榜单的代币如下：Lorenzo Protocol (BANK)、Initia (INIT)、Mitosis (MITO)、Harmony (ONE)、THENA (THE)、Zilliqa (ZIL)。移除种子标签榜单的代币如下：Morpho Token (MORPHO)、Hyperliquid (HYPE)。</p>"
+      "content": "<p>PANews 11月21日消息，欧易OKX行情显示，ETH刚刚跌破1600美元，现报1599.86美元/枚，日内下跌 3.35%。</p>"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "过去24小时26.30万名交易者被爆仓，金额达15.4亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa5d-360c-7416-99dc-686a002ea4d0",
+      "source": "PANews",
+      "published": "2026-11-21T03:09:29+08:00",
+      "summary": "PANews 11月21日消息，过去24小时内，26.30万名交易者被爆仓，爆仓总金额达15.4亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月21日消息，过去24小时内，26.30万名交易者被爆仓，爆仓总金额达15.4亿美元。</p>"
+    },
+    {
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-20T14:00:00+08:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
-      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+      "published": "2026-11-21T02:37:10+08:00",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report link…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
+      "image_local": "assets/newsbot/img/fb4a07c4c275bb64.jpg",
+      "content": "<p></p><p>Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.</p>"
     },
     {
-      "title": "XMR1疑似遭黑客攻击，攻击者抛售520万枚XMR1后买入ETH",
-      "url": "https://www.panewslab.com/zh/articles/01a1f787-5de9-76e5-a465-64ea0832e804",
+      "title": "1742枚BTC转入Coinbase Institutional",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa38-0e3f-709d-9726-8dd92a435f7b",
       "source": "PANews",
-      "published": "2026-11-20T13:56:48+08:00",
-      "summary": "PANews 11月20日消息，据Lookonchain监测，XMR1疑似遭黑客攻击。攻击者0x1464收到520万枚XMR1并在Hyperliquid上抛售，随后用所得资金买入ETH。截至目前，该攻击者已花费1322万枚USDC买入746…",
+      "published": "2026-11-21T02:28:53+08:00",
+      "summary": "PANews 11月21日消息，一个未知钱包向Coinbase Institutional转入1742枚BTC，价值约1.04亿美元。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Lookonchain监测，XMR1疑似遭黑客攻击。攻击者0x1464收到520万枚XMR1并在Hyperliquid上抛售，随后用所得资金买入ETH。截至目前，该攻击者已花费1322万枚USDC买入7467枚ETH。</p>"
+      "content": "<p>PANews 11月21日消息，一个未知钱包向Coinbase Institutional转入1742枚BTC，价值约1.04亿美元。</p>"
     },
     {
-      "title": "CME的XRP期货在推出后的18个月内名义成交量达812亿美元",
-      "url": "https://www.panewslab.com/zh/articles/01a1f77f-c559-732d-aa28-820411104494",
+      "title": "EtherFi专属Aave V4实例存款超3.1亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa2b-a69d-7300-9cd2-7e3f24b4e393",
       "source": "PANews",
-      "published": "2026-11-20T13:48:30+08:00",
-      "summary": "PANews 11月20日消息，据Bitcoin.com报道，CME Group在11月19日公布，其标准及微型XRP期货在推出后的18个月内名义交易量达812亿美元，截至2026年11月16日合计成交190万份合约，日均名义交易量2.16…",
+      "published": "2026-11-21T02:15:21+08:00",
+      "summary": "PANews 11月21日消息，据一则社交媒体帖文，非托管加密信用卡项目EtherFi Cash支持1万多名持卡用户基于所持资产消费。该项目由Optimism上的Aave V4提供支持。EtherFi专属的Aave V4实例在运行的前两个月…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据Bitcoin.com报道，CME Group在11月19日公布，其标准及微型XRP期货在推出后的18个月内名义交易量达812亿美元，截至2026年11月16日合计成交190万份合约，日均名义交易量2.16亿美元，成交量相当于428亿枚XRP。CME援引Coinglass数据称，其XRP期货未平仓合约在北京时间2026年11月20日1:03约占18.5%，在跟踪的交易所中排名第一。</p>"
+      "content": "<p>PANews 11月21日消息，据一则社交媒体帖文，非托管加密信用卡项目EtherFi Cash支持1万多名持卡用户基于所持资产消费。该项目由Optimism上的Aave V4提供支持。EtherFi专属的Aave V4实例在运行的前两个月，存款规模增至超过3.1亿美元。</p>"
     },
     {
-      "title": "矿企PowerCompute出售267枚BTC偿还2200万美元债务，但仍存持续经营疑虑",
-      "url": "https://www.panewslab.com/zh/articles/01a1f779-89de-757e-9138-ef74922b4b5b",
+      "title": "Blockstream发布比特币后量子签名方案SHRINCS的安全分析",
+      "url": "https://www.panewslab.com/zh/articles/01a1fa02-1e3b-732a-82c8-6fbc7ba7ed6e",
       "source": "PANews",
-      "published": "2026-11-20T13:41:42+08:00",
-      "summary": "PANews 11月20日消息，据CoinDesk报道，纳斯达克上市的比特币矿企PowerCompute于9月24日由贷款方Arch Lending出售其质押的约267枚比特币，偿还近2200万美元贷款本金，担保债务降至125万美元。Arc…",
+      "published": "2026-11-21T01:29:56+08:00",
+      "summary": "PANews 11月20日消息，区块链技术公司Blockstream的研究人员发布了131页的安全分析报告。报告针对SHRINCS，这是一项为比特币提出的后量子签名方案。主要作者为Mikhail Kudinov，研究总监为Jonas Nic…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据CoinDesk报道，纳斯达克上市的比特币矿企PowerCompute于9月24日由贷款方Arch Lending出售其质押的约267枚比特币，偿还近2200万美元贷款本金，担保债务降至125万美元。Arch Lending联合创始人Himanshu Sahay称，此次出售由PowerCompute指示，属公司战略调整而非市场事件。</p> <p>PowerCompute上周提交的10-Q文件显示，截至9月底公司现金约65万美元，并称对公司持续经营能力的“重大疑虑”尚未消除。公司计划通过债务再融资和增发股票筹资，后者尚有约7100万美元额度。其股价周四收于约40美分，公司估值约100万美元。</p>"
+      "content": "<p>PANews 11月20日消息，区块链技术公司Blockstream的研究人员发布了131页的安全分析报告。报告针对SHRINCS，这是一项为比特币提出的后量子签名方案。主要作者为Mikhail Kudinov，研究总监为Jonas Nick。该方案将体积较小的有状态签名与体积较大的无状态备用签名结合，目的是使交易比其他竞争方案更轻量。其代价是钱包风险：重复使用一次性签名密钥，可能使资金面临被盗风险。作者称，该方案目前尚无独立审计，也未准备好部署。</p>"
     },
     {
-      "title": "Sky的USDS流通供应量单日下降约39%",
-      "url": "https://www.panewslab.com/zh/articles/01a1f771-617e-71b1-9471-adf767996828",
+      "title": "Coinbase Institutional转出1000枚BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a1f9ee-8f11-72af-9d0e-918980147dd8",
       "source": "PANews",
-      "published": "2026-11-20T13:32:47+08:00",
-      "summary": "PANews 11月20日消息，据The Defiant报道，据DefiLlama数据，截至北京时间2026年11月20日上午8点的24小时内，Sky的USDS流通供应量下降约39%，从约52.4亿枚降至32.1亿枚，减少约20.3亿枚。在…",
+      "published": "2026-11-21T01:08:37+08:00",
+      "summary": "PANews 11月20日消息，据社交平台X帖文，机构服务平台Coinbase Institutional转出1000枚BTC。这些BTC价值约6170.64万美元，转入一个未知新钱包。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，据The Defiant报道，据DefiLlama数据，截至北京时间2026年11月20日上午8点的24小时内，Sky的USDS流通供应量下降约39%，从约52.4亿枚降至32.1亿枚，减少约20.3亿枚。在最新稳定币市值排名中，USDS位列第五，排在USDT、USDC、USDe和DAI之后。</p> <p>以太坊记录显示一笔大规模转换：北京时间2026年11月19日23:48，Etherscan标记为“Poloniex 9”的地址通过Spark的转换合约将4亿枚USDS换成4亿枚USDC，USDS被销毁。Sky联合创始人Rune Christensen表示，协议在过去一天处理了超过20亿美元的资金流出，支持锚定的稳定币流动性已恢复至22.5亿美元以上。</p>"
+      "content": "<p>PANews 11月20日消息，据社交平台X帖文，机构服务平台Coinbase Institutional转出1000枚BTC。这些BTC价值约6170.64万美元，转入一个未知新钱包。</p>"
     },
     {
-      "title": "以太坊现货 ETF 昨日总净流出 1.31 亿美元，持续 5 日净流出",
-      "url": "https://www.panewslab.com/zh/articles/01a1f76f-5845-7772-8759-0b4b0c80f856",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-21T00:55:51+08:00",
+      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 1…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
+      "image_local": "assets/newsbot/img/2aa29652b390133a.jpg",
+      "content": "<p></p><p>Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.</p>"
+    },
+    {
+      "title": "BTC跌破59000美元，日内下跌 0.81%",
+      "url": "https://www.panewslab.com/zh/articles/01a1f9b2-78ae-75dd-9f0b-fc5bb2f45e9d",
       "source": "PANews",
-      "published": "2026-11-20T13:30:33+08:00",
-      "summary": "PANews 11月20日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 19 日）以太坊现货 ETF 总净流出 1.31 亿美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA…",
+      "published": "2026-11-21T00:03:05+08:00",
+      "summary": "PANews 11月21日消息，欧易OKX行情显示，BTC刚刚跌破59000美元，现报58994.20美元/枚，日内下跌 0.81%。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月20日消息，根据 SoSoValue 数据，昨日（美东时间 11 月 19 日）以太坊现货 ETF 总净流出 1.31 亿美元。<br>\n昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 1.24 亿美元，目前 ETHA 历史总净流入达 110.43 亿美元。<br>\n其次为灰度（Grayscale）以太坊信托 ETF ETHE，单日净流出为 520.90 万美元，目前 ETHE 历史总净流出达 55.42 亿美元。<br>\n截至发稿前，以太坊现货 ETF 总资产净值为 95.99 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 4.46%，历史累计净流入已达 113.07 亿美元。</p>"
+      "content": "<p>PANews 11月21日消息，欧易OKX行情显示，BTC刚刚跌破59000美元，现报58994.20美元/枚，日内下跌 0.81%。</p>"
     }
   ]
 }
