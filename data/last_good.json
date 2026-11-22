@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T14:11:57.186665+08:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:21:47.183790+08:00",
   "items": [
     {
-      "title": "Solana联创：加密领域下一场重大博弈将是金融互联网与金融内联网之争",
-      "url": "https://www.panewslab.com/zh/articles/01a201ce-1e0d-733f-b196-7b93c957021a",
+      "title": "Chainflip损失增至约1200万美元，提供10%赏金",
+      "url": "https://www.panewslab.com/zh/articles/01a204ac-81a9-745c-8e71-531b9e9a87f8",
       "source": "PANews",
-      "published": "2026-11-22T13:50:16+08:00",
-      "summary": "PANews 11月22日消息，Solana 联合创始人 Raj Gokal 发文表示，加密领域下一场重大博弈，将是“金融互联网”与“金融内联网”之间的较量。",
+      "published": "2026-11-23T03:12:16+08:00",
+      "summary": "PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Cha…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，Solana 联合创始人 Raj Gokal 发文表示，加密领域下一场重大博弈，将是“金融互联网”与“金融内联网”之间的较量。</p>"
+      "content": "<p>PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Chainflip向攻击者提出赏金方案。攻击者若在北京时间11月24日02:38前归还90%资金，可保留10%。若资金按期归还，Chainflip称将视为白帽追回，并撤回向执法部门的报案和投诉。</p> <p>11月21日，据 Onchain Lens 监测，Chainflip以太坊金库被盗约486万美元。黑客随后通过Tornado Cash转移资金。Chainflip已将协议切换至安全模式，暂停充值、提现、兑换和报价。</p>"
     },
     {
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "消息称英国将禁止加密交易所在自有平台做市",
+      "url": "https://www.panewslab.com/zh/articles/01a20490-e566-709d-b39a-e9c374226259",
+      "source": "PANews",
+      "published": "2026-11-23T02:42:09+08:00",
+      "summary": "PANews 11月23日消息，据一则标注为“INTEL”的消息，英国将禁止加密货币交易所在其自有平台上做市。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据一则标注为“INTEL”的消息，英国将禁止加密货币交易所在其自有平台上做市。</p>"
+    },
+    {
+      "title": "约1.43亿枚USDT从未知钱包转入Binance",
+      "url": "https://www.panewslab.com/zh/articles/01a2045e-80d6-7214-8cbc-7be16fbf3606",
+      "source": "PANews",
+      "published": "2026-11-23T01:47:01+08:00",
+      "summary": "PANews 11月22日消息，据链上转账提示，约1.43亿枚USDT（价值约1.42亿美元）从未知钱包转入中心化交易所Binance。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据链上转账提示，约1.43亿枚USDT（价值约1.42亿美元）从未知钱包转入中心化交易所Binance。</p>"
+    },
+    {
+      "title": "Coinbase Institutional转移1.92亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a2043e-d982-73c5-a012-256f5b8e0fed",
+      "source": "PANews",
+      "published": "2026-11-23T01:12:32+08:00",
+      "summary": "PANews 11月22日消息，据链上转账提示推文，Coinbase Institutional向Coinbase转移1.92亿枚USDC。推文标注该笔转账价值约1.92亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据链上转账提示推文，Coinbase Institutional向Coinbase转移1.92亿枚USDC。推文标注该笔转账价值约1.92亿美元。</p>"
+    },
+    {
+      "title": "Circle的USDC Treasury新铸造2.5亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a20412-761e-755e-b34d-3d7627f12f86",
+      "source": "PANews",
+      "published": "2026-11-23T00:24:03+08:00",
+      "summary": "PANews 11月22日消息，据 Whale Alert 监测，稳定币USDC发行方Circle的USDC Treasury新铸造2.5亿枚USDC。这批USDC价值约2.5亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据 Whale Alert 监测，稳定币USDC发行方Circle的USDC Treasury新铸造2.5亿枚USDC。这批USDC价值约2.5亿美元。</p>"
+    },
+    {
+      "title": "Curve创始人Michael Egorov：链上外汇可由用户需求自下而上发展",
+      "url": "https://www.panewslab.com/zh/articles/01a20408-e86d-76ac-9a3c-4bd30d75ca5a",
+      "source": "PANews",
+      "published": "2026-11-23T00:13:47+08:00",
+      "summary": "PANews 11月23日消息，据Cointelegraph报道，Curve Finance与Yield Basis创始人Michael Egorov发表观点文章称，链上外汇（FX）不必等机构流动性入场，可以从用户的实际需求开始自下而上发展…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据Cointelegraph报道，Curve Finance与Yield Basis创始人Michael Egorov发表观点文章称，链上外汇（FX）不必等机构流动性入场，可以从用户的实际需求开始自下而上发展。他援引Keyrock数据称，与新兴市场货币挂钩的链上稳定币交易大多在1,000至10,000美元之间；Chainalysis数据显示，截至2026年年中跨境稳定币活动超过2,200亿美元，一年内增长近80%。Egorov认为，链上兑换美元与欧元稳定币可以绕开Visa、Mastercard约1%的手续费，自动做市商（AMM）可为小规模外汇市场持续提供流动性，银行则继续负责法币的发行、赎回和合规。</p>"
+    },
+    {
+      "title": "美国财长贝森特：市场抛售源于美联储言论、中期选举等因素",
+      "url": "https://www.panewslab.com/zh/articles/01a203f2-44d3-769e-bd45-a41c0ea1434d",
+      "source": "PANews",
+      "published": "2026-11-22T23:49:02+08:00",
+      "summary": "PANews 11月22日消息，据金十数据，美国财长贝森特：市场抛售源于美联储言论、中期选举等因素。（关于黄仁勋回归英伟达的想法）我们得看看责任最终落在谁身上。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据金十数据，美国财长贝森特：市场抛售源于美联储言论、中期选举等因素。（关于黄仁勋回归英伟达的想法）我们得看看责任最终落在谁身上。</p>"
+    },
+    {
+      "title": "杰富瑞：将SpaceX评级上调至买入，目标价210美元",
+      "url": "https://www.panewslab.com/zh/articles/01a203e9-777c-763c-992f-a6e54c9efc2e",
+      "source": "PANews",
+      "published": "2026-11-22T23:39:27+08:00",
+      "summary": "PANews 11月22日消息，杰富瑞：将SpaceX(SPCX.O)评级上调至买入，目标价210美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，杰富瑞：将SpaceX(SPCX.O)评级上调至买入，目标价210美元。</p>"
+    },
+    {
+      "title": "过去24小时全网合约爆仓2.33亿美元，主爆空单",
+      "url": "https://www.panewslab.com/zh/articles/01a203e0-e60d-7722-aa18-0c7ddcbd6059",
+      "source": "PANews",
+      "published": "2026-11-22T23:30:00+08:00",
+      "summary": "PANews 11月22日消息，CoinGlass数据显示，过去24小时加密货币市场全网合约爆仓2.33亿美元，其中多单爆仓7125.49万美元，空单爆仓1.61亿美元。BTC爆仓总金额1.25亿美元，ETH爆仓总金额5551.67万美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，CoinGlass数据显示，过去24小时加密货币市场全网合约爆仓2.33亿美元，其中多单爆仓7125.49万美元，空单爆仓1.61亿美元。BTC爆仓总金额1.25亿美元，ETH爆仓总金额5551.67万美元。最大单笔爆仓单发生在Binance-ETHUSDT，价值1200.29万美元。</p>"
+    },
+    {
+      "title": "Cysic CEO：超600万枚BTC的公钥已在链上暴露，占流通量31.2%",
+      "url": "https://www.panewslab.com/zh/articles/01a203c5-963c-7419-ab9e-43a51e2319d4",
+      "source": "PANews",
+      "published": "2026-11-22T23:00:14+08:00",
+      "summary": "PANews 11月22日消息，据CoinDesk报道，Cysic CEO Leo Fan表示，比特币应对量子威胁的关键在于资金迁移，升级密码学并不足够。Glassnode数据显示，10月超600万枚BTC（占流通量31.2%）的公钥已在链…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据CoinDesk报道，Cysic CEO Leo Fan表示，比特币应对量子威胁的关键在于资金迁移，升级密码学并不足够。Glassnode数据显示，10月超600万枚BTC（占流通量31.2%）的公钥已在链上暴露。Fan称，单签名后量子签名已有标准，但门限签名和多签方案仍处研究阶段，托管机构和跨链桥需要另行改造系统。BIP 361（逐步限制未升级钱包的交易）和BIP 360目前仍为草案。开发者在强制冻结和自愿升级之间存在分歧。</p>"
+    },
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-22T13:28:43+08:00",
-      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
-      "image_local": "assets/newsbot/img/ba330ec080151959.jpg",
-      "content": "<p></p><p>Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.</p>"
+      "published": "2026-11-22T22:30:00+08:00",
+      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make sma…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg",
+      "image_local": "assets/newsbot/img/7b1e5533fecad49e.jpg",
+      "content": "<p></p><p>Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.</p>"
     },
     {
-      "title": "分析：与AI相关的投资为美国今年前三季度的实际GDP增长贡献1.27个百分点",
-      "url": "https://www.panewslab.com/zh/articles/01a201b0-3821-7537-95d5-b2606584f8a8",
-      "source": "PANews",
-      "published": "2026-11-22T13:17:39+08:00",
-      "summary": "PANews 11月22日消息，The Kobeissi Letter 最新分析指出，2026 年第一季度至第三季度，与人工智能相关的投资为美国实际 GDP 增长贡献了 1.27 个百分点。其次，软件投资贡献 0.45 个百分点；计算机及外…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，The Kobeissi Letter 最新分析指出，2026 年第一季度至第三季度，与人工智能相关的投资为美国实际 GDP 增长贡献了 1.27 个百分点。其次，软件投资贡献 0.45 个百分点；计算机及外围设备贡献了 0.37 个百分点。通信与电气设备贡献了 0.21 个百分点，研发投入贡献了 0.16 个百分点，数据中心基础设施则贡献了 0.07 个百分点。</p> <p><img src=\"../assets/newsbot/img/7dac35eaf6ba28e5.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
-    },
-    {
-      "title": "BTC跌破59000美元，日内下跌 1.58%",
-      "url": "https://www.panewslab.com/zh/articles/01a201ac-6f97-7390-bf4f-dd92a9eeecec",
-      "source": "PANews",
-      "published": "2026-11-22T13:13:27+08:00",
-      "summary": "PANews 11月22日消息，欧易OKX行情显示，BTC刚刚跌破59000美元，现报58992.60美元/枚，日内下跌 1.58%。",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，欧易OKX行情显示，BTC刚刚跌破59000美元，现报58992.60美元/枚，日内下跌 1.58%。</p>"
-    },
-    {
-      "title": "Anthropic现金储备超Alphabet、亚马逊、SpaceX和苹果的总和，达创纪录的2370亿美元",
-      "url": "https://www.panewslab.com/zh/articles/01a201aa-a8d0-7703-bedc-479c2c8620c0",
-      "source": "PANews",
-      "published": "2026-11-22T13:11:35+08:00",
-      "summary": "PANews 11月22日消息，The Kobeissi Letter 发文指出，Anthropic 的现金及现金等价物已达到创纪录的 2370 亿美元，超过 Alphabet（$GOOGL）、亚马逊（$AMZN）、SpaceX（$SPCX…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，The Kobeissi Letter 发文指出，Anthropic 的现金及现金等价物已达到创纪录的 2370 亿美元，超过 Alphabet（$GOOGL）、亚马逊（$AMZN）、SpaceX（$SPCX）和苹果（$AAPL）四家公司现金储备的总和。这一数额还是英伟达现金余额的 8 倍，微软的 12 倍，以及 Met 的 22 倍。作为参考，伯克希尔·哈撒韦（Berkshire Hathaway）的现金储备为 3770 亿美元。</p> <p>Anthropic 资金来源包括 IPO 筹集的 810 亿美元，以及通过向特定投资者进行私募所获得的 260 亿美元。</p> <p><img src=\"../assets/newsbot/img/77ebfe6644732f96.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
-    },
-    {
-      "title": "过去24小时CEX平台净流出10,496.49枚BTC，币安平台流出1.2万枚",
-      "url": "https://www.panewslab.com/zh/articles/01a201a4-ce2e-7139-bca4-2beff36ce94a",
-      "source": "PANews",
-      "published": "2026-11-22T13:05:12+08:00",
-      "summary": "PANews 11月22日消息，Coinglass数据显示，过去24小时CEX平台净流出10,496.49枚BTC，其中币安平台流出12,000.04枚，Coinbase Pro平台流出4,804.44枚。过去7天CEX平台净流出11,58…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，Coinglass数据显示，过去24小时CEX平台净流出10,496.49枚BTC，其中币安平台流出12,000.04枚，Coinbase Pro平台流出4,804.44枚。过去7天CEX平台净流出11,580枚BTC，其中币安平台流出12,515.69枚，Coinbase Pro平台流出11,910.93枚。</p>"
-    },
-    {
-      "title": "菲律宾加密交易所Coins.ph停止支持自托管钱包间的充提",
-      "url": "https://www.panewslab.com/zh/articles/01a20169-4c30-7581-b10d-ceccd6643f42",
-      "source": "PANews",
-      "published": "2026-11-22T12:00:10+08:00",
-      "summary": "PANews 11月22日消息，菲律宾加密交易所 Coins.ph 发文表示，依据菲律宾 Travel Rule（旅行规则）要求，自 11 月 19 日起不再支持与自托管钱包之间的转账，用户的外部加密转账仅限在受监管交易所账户之间进行，且无…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，菲律宾加密交易所 Coins.ph 发文表示，依据菲律宾 Travel Rule（旅行规则）要求，自 11 月 19 日起不再支持与自托管钱包之间的转账，用户的外部加密转账仅限在受监管交易所账户之间进行，且无论金额大小，每笔转账均需提供完整的交易对手方信息。新规适用于所有外部加密资产充值和提现，不设最低金额门槛。用户须提交发送方或接收方的姓名、地址、所属交易平台及转账用途等信息。提现须在资料核实后发出，充值则在核实后计入账户。</p>"
-    },
-    {
-      "title": "下周宏观展望：美国10月核心PCE登场，感恩节假期迎来休市",
-      "url": "https://www.panewslab.com/zh/articles/01a20158-c256-727a-95a3-d8ced1538d88",
-      "source": "PANews",
-      "published": "2026-11-22T11:42:08+08:00",
-      "summary": "PANews 11月22日消息，据金十报道，本周市场在AI交易退潮与通胀顽固的双重压力下运行。道指全周跌8.02%，标普500指数跌8.61%，纳指跌10.02%，其中标普500与道指均已确认进入回调。英伟达季度业绩稳健，股价却未能守住，周…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，据金十报道，本周市场在AI交易退潮与通胀顽固的双重压力下运行。道指全周跌8.02%，标普500指数跌8.61%，纳指跌10.02%，其中标普500与道指均已确认进入回调。英伟达季度业绩稳健，股价却未能守住，周五单日下跌14%，市值蒸发逾4900亿美元。Anthropic上市首日一度上涨38.6%，收盘涨幅收窄至17%，以下是新的一周里市场将重点关注的要点（均为北京时间）：</p> <ul> <li>周一22:45，美国11月标普全球制造业PMI初值、美国11月标普全球服务业PMI初值；</li> <li>周二05:00，FOMC永久票委、纽约联储主席威廉姆斯发表讲话；</li> <li>周二21:15，美国至11月7日当周ADP就业人数周度变动；</li> <li>周三21:30，美国至11月21日当周初请失业金人数、美国10月核心PCE物价指数年率、美国10月个人支出月率、美国第三季度实际GDP年化季率修正值、美国10月核心PCE物价指数月率、美国10月耐用品订单月率；</li> <li>周四03:00，美联储公布经济状况褐皮书。</li> </ul> <p>下周美股的焦点从财报转向消费。此外，下周多地迎来休市，具体如下：</p> <ul> <li>11月23日（周一），日本东京证券交易所因劳动感恩节假期休市一日。</li> <li>11月24日（周二），印度国家证券交易所因古鲁那纳克诞辰日休市一日。</li> <li>11月26日（周四），美国迎来感恩节假期，纽约证券交易所休市一日，芝商所（CME）旗下贵金属与美国原油期货合约交易提前于27日03:30结束，股指与美债期货合约交易提前于27日02:00结束，洲际交易所（ICE）旗下布伦特原油期货合约交易提前于27日02:30结束。</li> <li>11月27日（周五），纽约证券交易所提前于28日02:00休市，芝商所旗下贵金属、美国原油与外汇期货合约交易提前于28日03:45结束，洲际交易所布伦特原油期货合约交易提前于28日04:00结束。</li> </ul>"
-    },
-    {
-      "title": "加密钱包Fluidkey遭攻击损失约160万美元，52个账户受影响",
-      "url": "https://www.panewslab.com/zh/articles/01a2014a-bfc2-7053-ac81-1c7e2a7ad957",
-      "source": "PANews",
-      "published": "2026-11-22T11:26:49+08:00",
-      "summary": "PANews 11月22日消息，加密钱包 Fluidkey 发布报告称，11 月 19 日攻击者从未授权的 52 个账户转出约 160 万美元资金。团队已暂停交易处理以阻止进一步损失，并于 11 月 20 日恢复上线。攻击者利用第三方日志工…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，加密钱包 Fluidkey 发布报告称，11 月 19 日攻击者从未授权的 52 个账户转出约 160 万美元资金。团队已暂停交易处理以阻止进一步损失，并于 11 月 20 日恢复上线。攻击者利用第三方日志工具 SigNoz 的两个漏洞读取内部日志，获取部分用户的会话令牌，随后伪造转账请求并提高限额。用户设备上的私钥未泄露，攻击者通过诱导用户打开 App 触发签名完成转账。受影响资金涉及 Ethereum、Base、BNB Chain、Polygon、Optimism 和 Arbitrum 六条区块链。攻击者还获取了部分用户个人信息。Fluidkey 已联系受影响用户，向执法部门报案，并委托调查公司追踪资金，大部分已兑换为 ETH 并混币。</p>"
-    },
-    {
-      "title": "glassnode：BTC跌破短期持有者成本密集区，6.2万至6.5万美元或转化为阻力位",
-      "url": "https://www.panewslab.com/zh/articles/01a20133-c9c7-742d-8deb-0909ff8aa16b",
-      "source": "PANews",
-      "published": "2026-11-22T11:01:42+08:00",
-      "summary": "PANews 11月22日消息，据 glassnode 发文指出，BTC 短期持有者的成本密集区未能提供支撑。随着 BTC 跌破 6.2 万至 6.5 万美元这一区间，短期持有者开始加速亏损抛售。一旦价格跌至此类成本区间下方，该区间往往会转…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，据 glassnode 发文指出，BTC 短期持有者的成本密集区未能提供支撑。随着 BTC 跌破 6.2 万至 6.5 万美元这一区间，短期持有者开始加速亏损抛售。一旦价格跌至此类成本区间下方，该区间往往会转化为阻力位。</p> <p><img src=\"../assets/newsbot/img/bb4a54dfc3306e0a.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></p>"
-    },
-    {
-      "title": "Cyber正调查代币异常铸造事件，Upbit和Bithumb已暂停CYBER充提服务",
-      "url": "https://www.panewslab.com/zh/articles/01a20124-7f44-721b-9fca-d6ba733287ae",
-      "source": "PANews",
-      "published": "2026-11-22T10:45:00+08:00",
-      "summary": "PANews 11月22日消息，专注于社交功能的 L2 网络 Cyber 发文表示，正在调查 CYBER 代币在 Solana 上出现异常铸造，又有 CYBER 从跨链桥的以太坊锁定池中被转出的事件，并正核实受影响的资产及跨链路径。Cybe…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月22日消息，专注于社交功能的 L2 网络 Cyber 发文表示，正在调查 CYBER 代币在 Solana 上出现异常铸造，又有 CYBER 从跨链桥的以太坊锁定池中被转出的事件，并正核实受影响的资产及跨链路径。Cyber 提醒用户，在此期间，暂停使用 CYBER 跨链桥，也请勿将 CYBER 充值至交易所，并表示无需迁移代币、连接钱包或签名。事件原因仍在调查中。</p> <p>韩国交易所Upbit和Bithumb已暂停CYBER充值和提现，理由是疑似安全事件。</p>"
-    },
-    {
-      "title": "Galaxy Digital股价周五跌8%，周跌幅超20%",
-      "url": "https://www.panewslab.com/zh/articles/01a1ff3c-1b40-71e4-8c8c-4d78742d80a6",
-      "source": "PANews",
-      "published": "2026-11-22T01:51:26+08:00",
-      "summary": "PANews 11月21日消息，数字资产公司Galaxy Digital（GLXY）周五股价下跌8%。其本周跌幅已超过20%。同期加密货币和AI股票出现更广泛的抛售。首席执行官Mike Novogratz表示，他正在买入更多公司股票，认为市…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月21日消息，数字资产公司Galaxy Digital（GLXY）周五股价下跌8%。其本周跌幅已超过20%。同期加密货币和AI股票出现更广泛的抛售。首席执行官Mike Novogratz表示，他正在买入更多公司股票，认为市场大幅低估了公司价值。</p>"
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-22T19:25:27+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
     }
   ]
 }

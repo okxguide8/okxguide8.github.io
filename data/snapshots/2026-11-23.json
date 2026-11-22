@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:21:48.287318+08:00",
+  "degraded": false,
+  "items": [
+    {
+      "title": "Chainflip损失增至约1200万美元，提供10%赏金",
+      "url": "https://www.panewslab.com/zh/articles/01a204ac-81a9-745c-8e71-531b9e9a87f8",
+      "source": "PANews",
+      "published": "2026-11-23T03:12:16+08:00",
+      "summary": "PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Cha…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Chainflip向攻击者提出赏金方案。攻击者若在北京时间11月24日02:38前归还90%资金，可保留10%。若资金按期归还，Chainflip称将视为白帽追回，并撤回向执法部门的报案和投诉。</p> <p>11月21日，据 Onchain Lens 监测，Chainflip以太坊金库被盗约486万美元。黑客随后通过Tornado Cash转移资金。Chainflip已将协议切换至安全模式，暂停充值、提现、兑换和报价。</p>"
+    },
+    {
+      "title": "消息称英国将禁止加密交易所在自有平台做市",
+      "url": "https://www.panewslab.com/zh/articles/01a20490-e566-709d-b39a-e9c374226259",
+      "source": "PANews",
+      "published": "2026-11-23T02:42:09+08:00",
+      "summary": "PANews 11月23日消息，据一则标注为“INTEL”的消息，英国将禁止加密货币交易所在其自有平台上做市。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据一则标注为“INTEL”的消息，英国将禁止加密货币交易所在其自有平台上做市。</p>"
+    },
+    {
+      "title": "约1.43亿枚USDT从未知钱包转入Binance",
+      "url": "https://www.panewslab.com/zh/articles/01a2045e-80d6-7214-8cbc-7be16fbf3606",
+      "source": "PANews",
+      "published": "2026-11-23T01:47:01+08:00",
+      "summary": "PANews 11月22日消息，据链上转账提示，约1.43亿枚USDT（价值约1.42亿美元）从未知钱包转入中心化交易所Binance。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据链上转账提示，约1.43亿枚USDT（价值约1.42亿美元）从未知钱包转入中心化交易所Binance。</p>"
+    },
+    {
+      "title": "Coinbase Institutional转移1.92亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a2043e-d982-73c5-a012-256f5b8e0fed",
+      "source": "PANews",
+      "published": "2026-11-23T01:12:32+08:00",
+      "summary": "PANews 11月22日消息，据链上转账提示推文，Coinbase Institutional向Coinbase转移1.92亿枚USDC。推文标注该笔转账价值约1.92亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据链上转账提示推文，Coinbase Institutional向Coinbase转移1.92亿枚USDC。推文标注该笔转账价值约1.92亿美元。</p>"
+    },
+    {
+      "title": "Circle的USDC Treasury新铸造2.5亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a20412-761e-755e-b34d-3d7627f12f86",
+      "source": "PANews",
+      "published": "2026-11-23T00:24:03+08:00",
+      "summary": "PANews 11月22日消息，据 Whale Alert 监测，稳定币USDC发行方Circle的USDC Treasury新铸造2.5亿枚USDC。这批USDC价值约2.5亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据 Whale Alert 监测，稳定币USDC发行方Circle的USDC Treasury新铸造2.5亿枚USDC。这批USDC价值约2.5亿美元。</p>"
+    },
+    {
+      "title": "Curve创始人Michael Egorov：链上外汇可由用户需求自下而上发展",
+      "url": "https://www.panewslab.com/zh/articles/01a20408-e86d-76ac-9a3c-4bd30d75ca5a",
+      "source": "PANews",
+      "published": "2026-11-23T00:13:47+08:00",
+      "summary": "PANews 11月23日消息，据Cointelegraph报道，Curve Finance与Yield Basis创始人Michael Egorov发表观点文章称，链上外汇（FX）不必等机构流动性入场，可以从用户的实际需求开始自下而上发展…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据Cointelegraph报道，Curve Finance与Yield Basis创始人Michael Egorov发表观点文章称，链上外汇（FX）不必等机构流动性入场，可以从用户的实际需求开始自下而上发展。他援引Keyrock数据称，与新兴市场货币挂钩的链上稳定币交易大多在1,000至10,000美元之间；Chainalysis数据显示，截至2026年年中跨境稳定币活动超过2,200亿美元，一年内增长近80%。Egorov认为，链上兑换美元与欧元稳定币可以绕开Visa、Mastercard约1%的手续费，自动做市商（AMM）可为小规模外汇市场持续提供流动性，银行则继续负责法币的发行、赎回和合规。</p>"
+    },
+    {
+      "title": "美国财长贝森特：市场抛售源于美联储言论、中期选举等因素",
+      "url": "https://www.panewslab.com/zh/articles/01a203f2-44d3-769e-bd45-a41c0ea1434d",
+      "source": "PANews",
+      "published": "2026-11-22T23:49:02+08:00",
+      "summary": "PANews 11月22日消息，据金十数据，美国财长贝森特：市场抛售源于美联储言论、中期选举等因素。（关于黄仁勋回归英伟达的想法）我们得看看责任最终落在谁身上。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据金十数据，美国财长贝森特：市场抛售源于美联储言论、中期选举等因素。（关于黄仁勋回归英伟达的想法）我们得看看责任最终落在谁身上。</p>"
+    },
+    {
+      "title": "杰富瑞：将SpaceX评级上调至买入，目标价210美元",
+      "url": "https://www.panewslab.com/zh/articles/01a203e9-777c-763c-992f-a6e54c9efc2e",
+      "source": "PANews",
+      "published": "2026-11-22T23:39:27+08:00",
+      "summary": "PANews 11月22日消息，杰富瑞：将SpaceX(SPCX.O)评级上调至买入，目标价210美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，杰富瑞：将SpaceX(SPCX.O)评级上调至买入，目标价210美元。</p>"
+    },
+    {
+      "title": "过去24小时全网合约爆仓2.33亿美元，主爆空单",
+      "url": "https://www.panewslab.com/zh/articles/01a203e0-e60d-7722-aa18-0c7ddcbd6059",
+      "source": "PANews",
+      "published": "2026-11-22T23:30:00+08:00",
+      "summary": "PANews 11月22日消息，CoinGlass数据显示，过去24小时加密货币市场全网合约爆仓2.33亿美元，其中多单爆仓7125.49万美元，空单爆仓1.61亿美元。BTC爆仓总金额1.25亿美元，ETH爆仓总金额5551.67万美元…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，CoinGlass数据显示，过去24小时加密货币市场全网合约爆仓2.33亿美元，其中多单爆仓7125.49万美元，空单爆仓1.61亿美元。BTC爆仓总金额1.25亿美元，ETH爆仓总金额5551.67万美元。最大单笔爆仓单发生在Binance-ETHUSDT，价值1200.29万美元。</p>"
+    },
+    {
+      "title": "Cysic CEO：超600万枚BTC的公钥已在链上暴露，占流通量31.2%",
+      "url": "https://www.panewslab.com/zh/articles/01a203c5-963c-7419-ab9e-43a51e2319d4",
+      "source": "PANews",
+      "published": "2026-11-22T23:00:14+08:00",
+      "summary": "PANews 11月22日消息，据CoinDesk报道，Cysic CEO Leo Fan表示，比特币应对量子威胁的关键在于资金迁移，升级密码学并不足够。Glassnode数据显示，10月超600万枚BTC（占流通量31.2%）的公钥已在链…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月22日消息，据CoinDesk报道，Cysic CEO Leo Fan表示，比特币应对量子威胁的关键在于资金迁移，升级密码学并不足够。Glassnode数据显示，10月超600万枚BTC（占流通量31.2%）的公钥已在链上暴露。Fan称，单签名后量子签名已有标准，但门限签名和多签方案仍处研究阶段，托管机构和跨链桥需要另行改造系统。BIP 361（逐步限制未升级钱包的交易）和BIP 360目前仍为草案。开发者在强制冻结和自愿升级之间存在分歧。</p>"
+    },
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-22T22:30:00+08:00",
+      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make sma…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg",
+      "image_local": "assets/newsbot/img/7b1e5533fecad49e.jpg",
+      "content": "<p></p><p>Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-22T19:25:27+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    }
+  ]
+}
