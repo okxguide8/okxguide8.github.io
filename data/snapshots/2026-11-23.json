@@ -1,8 +1,118 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T03:21:48.287318+08:00",
+  "generated_at": "2026-11-23T15:03:22.830781+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "dtcpay 率先支持 Visa 稳定币资金流转，拓展跨境付款新路径",
+      "url": "https://www.panewslab.com/zh/articles/01a20730-b33c-74e0-88da-397c8e32fc13",
+      "source": "PANews",
+      "published": "2026-11-23T14:56:03+08:00",
+      "summary": "PANews 11月23日消息，获新加坡金融管理局(MAS)颁发主要支付机构牌照的 dtcpay 近日宣布，支持 Visa 在亚太地区推出的首个稳定币驱动资金流转项目。在这次与 Visa Direct 的试点中，dtcpay 将使用 USD…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，获新加坡金融管理局(MAS)颁发主要支付机构牌照的 dtcpay 近日宣布，支持 Visa 在亚太地区推出的首个稳定币驱动资金流转项目。在这次与 Visa Direct 的试点中，dtcpay 将使用 USDC 为跨境付款预充值，收款方以法币到账。</p> <p>通过该试点，dtcpay 客户可使用 USDC 向银行账户、Visa 卡及数字钱包付款，服务平台、汇款机构、电商市场和薪酬服务商等有跨境付款需求的企业。</p> <p>Visa Direct 是 Visa 的实时资金流转平台，连接超过 180 亿个终端。Visa 同期表示，dtcpay 是该能力在亚太的试点合作伙伴。</p> <p>dtcpay 为 Visa 正式会员，已发行合规稳定币 Visa 卡；其持牌布局覆盖新加坡、香港、卢森堡、澳大利亚、美国及加拿大等地，并持续扩张，为全球稳定币支付提供合规基础设施。</p>"
+    },
+    {
+      "title": "韩国KOSPI指数收跌3.31%",
+      "url": "https://www.panewslab.com/zh/articles/01a20721-1de4-76bd-aa34-e1630d651fc6",
+      "source": "PANews",
+      "published": "2026-11-23T14:39:04+08:00",
+      "summary": "PANews 11月23日消息，韩国KOSPI指数收跌3.31%，报4708.54点。三星电子收跌3.06%，SK海力士跌2.52%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，韩国KOSPI指数收跌3.31%，报4708.54点。三星电子收跌3.06%，SK海力士跌2.52%。</p>"
+    },
+    {
+      "title": "特朗普TRUMP币晚宴入场门槛大降，518美元即可获邀",
+      "url": "https://www.panewslab.com/zh/articles/01a2071f-3eab-7348-9f6d-129830ab461c",
+      "source": "PANews",
+      "published": "2026-11-23T14:37:00+08:00",
+      "summary": "PANews 11月23日消息，据《华盛顿邮报》报道，美国总统特朗普的 $TRUMP 晚宴于当地时间 11 月 22 日（周日）在其北弗吉尼亚高尔夫俱乐部举行。受邀嘉宾为表达参与意愿的前 185 名 $TRUMP 持有者。此次晚宴与 202…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据《华盛顿邮报》报道，美国总统特朗普的 $TRUMP 晚宴于当地时间 11 月 22 日（周日）在其北弗吉尼亚高尔夫俱乐部举行。受邀嘉宾为表达参与意愿的前 185 名 $TRUMP 持有者。此次晚宴与 2025 年 5 月首次晚宴形成鲜明对比，当时需持有至少约 5.5 万美元等值的 $TRUMP 才能获邀，部分买家投入数百万美元。此次晚宴一名用户仅投入 518 美元购买 $TRUMP 即跻身第 179 位，获得邀请。</p> <p>晚宴门槛大幅降低主要有两大原因，首先是 $TRUMP 价格跌至历史低点，较 2025 年 1 月峰值跌超 98%，尤其在共和党中期选举惨败后加速下跌；其次是近 5000 名符合资格的顶级持有者未报名参与竞争，主办方甚至延长报名期 4 天。</p>"
+    },
+    {
+      "title": "火币HTX将于11月23日开放MU（Micron）现货交易",
+      "url": "https://www.panewslab.com/zh/articles/01a20708-d198-7741-820c-8358a1cd3da6",
+      "source": "PANews",
+      "published": "2026-11-23T14:12:30+08:00",
+      "summary": "PANews 11月23日消息，据官方公告，火币HTX将于11月23日15:30（UTC+8）开放MU/USDT现货交易和网格交易。 据悉，火币HTX正在举办一系列美股及ETF代币福利活动，指定现货交易对的Maker（挂单）成交，将享受连续…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据官方公告，火币HTX将于11月23日15:30（UTC+8）开放MU/USDT现货交易和网格交易。</p> <p>据悉，火币HTX正在举办一系列美股及ETF代币福利活动，指定现货交易对的Maker（挂单）成交，将享受连续3个月0手续费的优惠，交易挑战、转盘抽奖等也在同步进行中。</p>"
+    },
+    {
+      "title": "智谱GLM-5.4模型发布，已上线Coding Plan",
+      "url": "https://www.panewslab.com/zh/articles/01a20706-2ea1-74db-b899-b4f20f4cd322",
+      "source": "PANews",
+      "published": "2026-11-23T14:09:37+08:00",
+      "summary": "PANews 11月23日消息，据金十报道，智谱官方运营人员发布消息，GLM-5.4模型已经上线Coding Plan。“过去三个月，我们同时激进的Scaling Loop和模型大小，大家首先看到的是Loop Transformer带来的惊…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据金十报道，智谱官方运营人员发布消息，GLM-5.4模型已经上线Coding Plan。“过去三个月，我们同时激进的Scaling Loop和模型大小，大家首先看到的是Loop Transformer带来的惊喜。GLM-5.4新增视觉能力与更强的泛Coding能力。”此外，V2、V3及团队版用户使用GLM-5.4模型额度已提升至1.5倍，将模型名设置为glm-5.4即可。</p>"
+    },
+    {
+      "title": "多链流动性管理平台Krystal：检测到可疑交易，自动化合约及服务已暂停",
+      "url": "https://www.panewslab.com/zh/articles/01a20702-3cbb-7685-aea9-e51239112606",
+      "source": "PANews",
+      "published": "2026-11-23T14:05:20+08:00",
+      "summary": "PANews 11月23日消息，多链流动性管理平台 Krystal 发文表示，检测到源自系统的可疑交易。作为预防措施，团队进行调查期间，自动化合约及自动化服务已暂停。Krystal 表示，金库未受影响，用户资金安全。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，多链流动性管理平台 Krystal 发文表示，检测到源自系统的可疑交易。作为预防措施，团队进行调查期间，自动化合约及自动化服务已暂停。Krystal 表示，金库未受影响，用户资金安全。</p>"
+    },
+    {
+      "title": "某交易员胜率仅为15.1%，但累计盈利970万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a206ed-0ece-70df-b798-963f9be7618d",
+      "source": "PANews",
+      "published": "2026-11-23T13:42:10+08:00",
+      "summary": "PANews 11月23日消息，据 Onchain Lens 监测，Hyperliquid 平台上一位“巨鲸”交易员，尽管胜率仅为 15.1%，目前却持有价值 1895 万美元的 ETH、BTC 和 NVDA 多头杠杆仓位。这三笔仓位均处于…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据 Onchain Lens 监测，Hyperliquid 平台上一位“巨鲸”交易员，尽管胜率仅为 15.1%，目前却持有价值 1895 万美元的 ETH、BTC 和 NVDA 多头杠杆仓位。这三笔仓位均处于盈利状态，未实现收益约为 32.99 万美元。该交易员在过去 24 小时内获利 32.81 万美元（尽管期间曾遭遇 26 次爆仓）。永续合约累计盈利 970 万美元。</p>"
+    },
+    {
+      "title": "上周市场遭遇剧烈抛售后，交易员已不再预期美联储会在12月加息50个基点",
+      "url": "https://www.panewslab.com/zh/articles/01a206e3-1b1f-7413-aa28-e900a6e1e32b",
+      "source": "PANews",
+      "published": "2026-11-23T13:31:18+08:00",
+      "summary": "PANews 11月23日消息，据 CoinDesk 报道，上周市场大跌后，交易员已完全排除美联储在 12 月加息 50 个基点的可能性。约 10 天前，这一概率尚为 10%。纳斯达克上周重挫 10.4%，为 2020 年 3 月新冠以来最…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据 CoinDesk 报道，上周市场大跌后，交易员已完全排除美联储在 12 月加息 50 个基点的可能性。约 10 天前，这一概率尚为 10%。纳斯达克上周重挫 10.4%，为 2020 年 3 月新冠以来最大跌幅；VIX 飙升 86%。比特币一度跌破 5.55 万美元（两年低点），后反弹至 6 万美元上方。数据显示，目前市场仍预期 12 月加息 25 个基点（至 4%–4.25% 区间），并认为 1 月再加息 25 个基点的概率接近 60%。本周将公布的核心 PCE 通胀数据成为关注焦点，若通胀压力持续，或重新点燃对更大幅度加息的押注。</p>"
+    },
+    {
+      "title": "United Stables联合Banxa在Robinhood Chain开放稳定币 $U 购买通道",
+      "url": "https://www.panewslab.com/zh/articles/01a206de-e2c5-761e-8c91-9a18f1ca8d07",
+      "source": "PANews",
+      "published": "2026-11-23T13:26:42+08:00",
+      "summary": "PANews 11月23日消息，据官方消息，稳定币发行商 United Stables 宣布与加密支付基础设施提供商 Banxa 达成合作，于新加坡时间 11 月 22 日 18:00 正式在 Robinhood Chain 上开放 1:1…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，据官方消息，稳定币发行商 United Stables 宣布与加密支付基础设施提供商 Banxa 达成合作，于新加坡时间 11 月 22 日 18:00 正式在 Robinhood Chain 上开放 1:1 美元锚定稳定币 $U 的购买通道。用户可通过 Banxa 官方购买入口在Robinhood Chain上直接购入 $U。<br>\n公告显示，受相关合规政策限制，该购买服务暂不对美国、欧盟、加拿大及中国香港地区的用户开放。</p>"
+    },
+    {
+      "title": "Arbitrum第三季度营收740万美元，环比增长200%，今年迄今收入已超1360万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a206d6-1329-762e-b700-9616ebaa0be8",
+      "source": "PANews",
+      "published": "2026-11-23T13:17:04+08:00",
+      "summary": "PANews 11月23日消息，Arbitrum 基金会投资策略主管 Brendan Ma 发布 10-11 月生态进展，Arbitrum 第三季度营收 740 万美元，环比增长 200%，今年迄今收入已超 1360 万美元，超过除以太坊和…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月23日消息，Arbitrum 基金会投资策略主管 Brendan Ma 发布 10-11 月生态进展，Arbitrum 第三季度营收 740 万美元，环比增长 200%，今年迄今收入已超 1360 万美元，超过除以太坊和 Tron 外的所有 L1 区块链。Arbitrum 的收入来源已扩展至五大板块：Arbitrum One 交易收入、Arbitrum Chain 许可费、优先/快速数据流（Priority/Fast Feed）收入、生态系统稳定币收益，以及金库管理收入。</p> <p>数据方面，Arbitrum 已成为首个 RWA 部署数量突破 7,000 个的网络。Arbitrum 上的 RWA 管理资产规模（AUM）已攀升至约 11 亿美元；过去 30 天内，RWA 持有者数量增长了 13%，总数接近 14,000 人。Arbitrum 上的代币化基金市值达到 11 亿美元，主要发行方包括 Spiko、富兰克林邓普顿（Franklin Templeton）和 WisdomTree 等。此外，网络整体活跃度也在持续增长。Arbitrum One 的累计交易笔数已超过 29 亿次，预计到今年年底将突破 30 亿次。</p>"
+    },
+    {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-23T11:37:20+08:00",
+      "summary": "In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M837EB2PSB0DCZVVC436715D/trump-1.jpg",
+      "image_local": "assets/newsbot/img/5641fe2dfd3918c2.jpg",
+      "content": "<p></p><p>In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US.</p>"
+    },
     {
       "title": "Chainflip损失增至约1200万美元，提供10%赏金",
       "url": "https://www.panewslab.com/zh/articles/01a204ac-81a9-745c-8e71-531b9e9a87f8",
