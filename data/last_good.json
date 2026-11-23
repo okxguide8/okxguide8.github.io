@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T15:03:21.378092+08:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:41:58.416147+08:00",
   "items": [
     {
-      "title": "dtcpay 率先支持 Visa 稳定币资金流转，拓展跨境付款新路径",
-      "url": "https://www.panewslab.com/zh/articles/01a20730-b33c-74e0-88da-397c8e32fc13",
+      "title": "平台禁用Ampleforth治理代币FORTH交易",
+      "url": "https://www.panewslab.com/zh/articles/01a20ab3-818d-7168-be54-cd6f34194a98",
       "source": "PANews",
-      "published": "2026-11-23T14:56:03+08:00",
-      "summary": "PANews 11月23日消息，获新加坡金融管理局(MAS)颁发主要支付机构牌照的 dtcpay 近日宣布，支持 Visa 在亚太地区推出的首个稳定币驱动资金流转项目。在这次与 Visa Direct 的试点中，dtcpay 将使用 USD…",
+      "published": "2026-11-24T07:17:43+08:00",
+      "summary": "PANews 11月24日消息，一则平台公告称，已禁用Ampleforth Governance Token（FORTH）的交易。公告称，用户资金仍可访问，并可随时提现。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，获新加坡金融管理局(MAS)颁发主要支付机构牌照的 dtcpay 近日宣布，支持 Visa 在亚太地区推出的首个稳定币驱动资金流转项目。在这次与 Visa Direct 的试点中，dtcpay 将使用 USDC 为跨境付款预充值，收款方以法币到账。</p> <p>通过该试点，dtcpay 客户可使用 USDC 向银行账户、Visa 卡及数字钱包付款，服务平台、汇款机构、电商市场和薪酬服务商等有跨境付款需求的企业。</p> <p>Visa Direct 是 Visa 的实时资金流转平台，连接超过 180 亿个终端。Visa 同期表示，dtcpay 是该能力在亚太的试点合作伙伴。</p> <p>dtcpay 为 Visa 正式会员，已发行合规稳定币 Visa 卡；其持牌布局覆盖新加坡、香港、卢森堡、澳大利亚、美国及加拿大等地，并持续扩张，为全球稳定币支付提供合规基础设施。</p>"
+      "content": "<p>PANews 11月24日消息，一则平台公告称，已禁用Ampleforth Governance Token（FORTH）的交易。公告称，用户资金仍可访问，并可随时提现。</p>"
     },
     {
-      "title": "韩国KOSPI指数收跌3.31%",
-      "url": "https://www.panewslab.com/zh/articles/01a20721-1de4-76bd-aa34-e1630d651fc6",
-      "source": "PANews",
-      "published": "2026-11-23T14:39:04+08:00",
-      "summary": "PANews 11月23日消息，韩国KOSPI指数收跌3.31%，报4708.54点。三星电子收跌3.06%，SK海力士跌2.52%。",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，韩国KOSPI指数收跌3.31%，报4708.54点。三星电子收跌3.06%，SK海力士跌2.52%。</p>"
-    },
-    {
-      "title": "特朗普TRUMP币晚宴入场门槛大降，518美元即可获邀",
-      "url": "https://www.panewslab.com/zh/articles/01a2071f-3eab-7348-9f6d-129830ab461c",
-      "source": "PANews",
-      "published": "2026-11-23T14:37:00+08:00",
-      "summary": "PANews 11月23日消息，据《华盛顿邮报》报道，美国总统特朗普的 $TRUMP 晚宴于当地时间 11 月 22 日（周日）在其北弗吉尼亚高尔夫俱乐部举行。受邀嘉宾为表达参与意愿的前 185 名 $TRUMP 持有者。此次晚宴与 202…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据《华盛顿邮报》报道，美国总统特朗普的 $TRUMP 晚宴于当地时间 11 月 22 日（周日）在其北弗吉尼亚高尔夫俱乐部举行。受邀嘉宾为表达参与意愿的前 185 名 $TRUMP 持有者。此次晚宴与 2025 年 5 月首次晚宴形成鲜明对比，当时需持有至少约 5.5 万美元等值的 $TRUMP 才能获邀，部分买家投入数百万美元。此次晚宴一名用户仅投入 518 美元购买 $TRUMP 即跻身第 179 位，获得邀请。</p> <p>晚宴门槛大幅降低主要有两大原因，首先是 $TRUMP 价格跌至历史低点，较 2025 年 1 月峰值跌超 98%，尤其在共和党中期选举惨败后加速下跌；其次是近 5000 名符合资格的顶级持有者未报名参与竞争，主办方甚至延长报名期 4 天。</p>"
-    },
-    {
-      "title": "火币HTX将于11月23日开放MU（Micron）现货交易",
-      "url": "https://www.panewslab.com/zh/articles/01a20708-d198-7741-820c-8358a1cd3da6",
-      "source": "PANews",
-      "published": "2026-11-23T14:12:30+08:00",
-      "summary": "PANews 11月23日消息，据官方公告，火币HTX将于11月23日15:30（UTC+8）开放MU/USDT现货交易和网格交易。 据悉，火币HTX正在举办一系列美股及ETF代币福利活动，指定现货交易对的Maker（挂单）成交，将享受连续…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据官方公告，火币HTX将于11月23日15:30（UTC+8）开放MU/USDT现货交易和网格交易。</p> <p>据悉，火币HTX正在举办一系列美股及ETF代币福利活动，指定现货交易对的Maker（挂单）成交，将享受连续3个月0手续费的优惠，交易挑战、转盘抽奖等也在同步进行中。</p>"
-    },
-    {
-      "title": "智谱GLM-5.4模型发布，已上线Coding Plan",
-      "url": "https://www.panewslab.com/zh/articles/01a20706-2ea1-74db-b899-b4f20f4cd322",
-      "source": "PANews",
-      "published": "2026-11-23T14:09:37+08:00",
-      "summary": "PANews 11月23日消息，据金十报道，智谱官方运营人员发布消息，GLM-5.4模型已经上线Coding Plan。“过去三个月，我们同时激进的Scaling Loop和模型大小，大家首先看到的是Loop Transformer带来的惊…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据金十报道，智谱官方运营人员发布消息，GLM-5.4模型已经上线Coding Plan。“过去三个月，我们同时激进的Scaling Loop和模型大小，大家首先看到的是Loop Transformer带来的惊喜。GLM-5.4新增视觉能力与更强的泛Coding能力。”此外，V2、V3及团队版用户使用GLM-5.4模型额度已提升至1.5倍，将模型名设置为glm-5.4即可。</p>"
-    },
-    {
-      "title": "多链流动性管理平台Krystal：检测到可疑交易，自动化合约及服务已暂停",
-      "url": "https://www.panewslab.com/zh/articles/01a20702-3cbb-7685-aea9-e51239112606",
-      "source": "PANews",
-      "published": "2026-11-23T14:05:20+08:00",
-      "summary": "PANews 11月23日消息，多链流动性管理平台 Krystal 发文表示，检测到源自系统的可疑交易。作为预防措施，团队进行调查期间，自动化合约及自动化服务已暂停。Krystal 表示，金库未受影响，用户资金安全。",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，多链流动性管理平台 Krystal 发文表示，检测到源自系统的可疑交易。作为预防措施，团队进行调查期间，自动化合约及自动化服务已暂停。Krystal 表示，金库未受影响，用户资金安全。</p>"
-    },
-    {
-      "title": "某交易员胜率仅为15.1%，但累计盈利970万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a206ed-0ece-70df-b798-963f9be7618d",
-      "source": "PANews",
-      "published": "2026-11-23T13:42:10+08:00",
-      "summary": "PANews 11月23日消息，据 Onchain Lens 监测，Hyperliquid 平台上一位“巨鲸”交易员，尽管胜率仅为 15.1%，目前却持有价值 1895 万美元的 ETH、BTC 和 NVDA 多头杠杆仓位。这三笔仓位均处于…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据 Onchain Lens 监测，Hyperliquid 平台上一位“巨鲸”交易员，尽管胜率仅为 15.1%，目前却持有价值 1895 万美元的 ETH、BTC 和 NVDA 多头杠杆仓位。这三笔仓位均处于盈利状态，未实现收益约为 32.99 万美元。该交易员在过去 24 小时内获利 32.81 万美元（尽管期间曾遭遇 26 次爆仓）。永续合约累计盈利 970 万美元。</p>"
-    },
-    {
-      "title": "上周市场遭遇剧烈抛售后，交易员已不再预期美联储会在12月加息50个基点",
-      "url": "https://www.panewslab.com/zh/articles/01a206e3-1b1f-7413-aa28-e900a6e1e32b",
-      "source": "PANews",
-      "published": "2026-11-23T13:31:18+08:00",
-      "summary": "PANews 11月23日消息，据 CoinDesk 报道，上周市场大跌后，交易员已完全排除美联储在 12 月加息 50 个基点的可能性。约 10 天前，这一概率尚为 10%。纳斯达克上周重挫 10.4%，为 2020 年 3 月新冠以来最…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据 CoinDesk 报道，上周市场大跌后，交易员已完全排除美联储在 12 月加息 50 个基点的可能性。约 10 天前，这一概率尚为 10%。纳斯达克上周重挫 10.4%，为 2020 年 3 月新冠以来最大跌幅；VIX 飙升 86%。比特币一度跌破 5.55 万美元（两年低点），后反弹至 6 万美元上方。数据显示，目前市场仍预期 12 月加息 25 个基点（至 4%–4.25% 区间），并认为 1 月再加息 25 个基点的概率接近 60%。本周将公布的核心 PCE 通胀数据成为关注焦点，若通胀压力持续，或重新点燃对更大幅度加息的押注。</p>"
-    },
-    {
-      "title": "United Stables联合Banxa在Robinhood Chain开放稳定币 $U 购买通道",
-      "url": "https://www.panewslab.com/zh/articles/01a206de-e2c5-761e-8c91-9a18f1ca8d07",
-      "source": "PANews",
-      "published": "2026-11-23T13:26:42+08:00",
-      "summary": "PANews 11月23日消息，据官方消息，稳定币发行商 United Stables 宣布与加密支付基础设施提供商 Banxa 达成合作，于新加坡时间 11 月 22 日 18:00 正式在 Robinhood Chain 上开放 1:1…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，据官方消息，稳定币发行商 United Stables 宣布与加密支付基础设施提供商 Banxa 达成合作，于新加坡时间 11 月 22 日 18:00 正式在 Robinhood Chain 上开放 1:1 美元锚定稳定币 $U 的购买通道。用户可通过 Banxa 官方购买入口在Robinhood Chain上直接购入 $U。<br>\n公告显示，受相关合规政策限制，该购买服务暂不对美国、欧盟、加拿大及中国香港地区的用户开放。</p>"
-    },
-    {
-      "title": "Arbitrum第三季度营收740万美元，环比增长200%，今年迄今收入已超1360万美元",
-      "url": "https://www.panewslab.com/zh/articles/01a206d6-1329-762e-b700-9616ebaa0be8",
-      "source": "PANews",
-      "published": "2026-11-23T13:17:04+08:00",
-      "summary": "PANews 11月23日消息，Arbitrum 基金会投资策略主管 Brendan Ma 发布 10-11 月生态进展，Arbitrum 第三季度营收 740 万美元，环比增长 200%，今年迄今收入已超 1360 万美元，超过除以太坊和…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，Arbitrum 基金会投资策略主管 Brendan Ma 发布 10-11 月生态进展，Arbitrum 第三季度营收 740 万美元，环比增长 200%，今年迄今收入已超 1360 万美元，超过除以太坊和 Tron 外的所有 L1 区块链。Arbitrum 的收入来源已扩展至五大板块：Arbitrum One 交易收入、Arbitrum Chain 许可费、优先/快速数据流（Priority/Fast Feed）收入、生态系统稳定币收益，以及金库管理收入。</p> <p>数据方面，Arbitrum 已成为首个 RWA 部署数量突破 7,000 个的网络。Arbitrum 上的 RWA 管理资产规模（AUM）已攀升至约 11 亿美元；过去 30 天内，RWA 持有者数量增长了 13%，总数接近 14,000 人。Arbitrum 上的代币化基金市值达到 11 亿美元，主要发行方包括 Spiko、富兰克林邓普顿（Franklin Templeton）和 WisdomTree 等。此外，网络整体活跃度也在持续增长。Arbitrum One 的累计交易笔数已超过 29 亿次，预计到今年年底将突破 30 亿次。</p>"
-    },
-    {
-      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
-      "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-23T11:37:20+08:00",
-      "summary": "In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M837EB2PSB0DCZVVC436715D/trump-1.jpg",
-      "image_local": "assets/newsbot/img/5641fe2dfd3918c2.jpg",
-      "content": "<p></p><p>In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US.</p>"
+      "published": "2026-11-24T05:40:44+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
     },
     {
-      "title": "Chainflip损失增至约1200万美元，提供10%赏金",
-      "url": "https://www.panewslab.com/zh/articles/01a204ac-81a9-745c-8e71-531b9e9a87f8",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T05:04:03+08:00",
+      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin m…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png",
+      "image_local": "assets/newsbot/img/a58c916f4553f7ac.jpg",
+      "content": "<p></p><p>US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.</p>"
+    },
+    {
+      "title": "美股收盘光模块/高速互联、半导体与存储集体大涨，英伟达涨超31%",
+      "url": "https://www.panewslab.com/zh/articles/01a20a36-4f0b-7452-b89a-cea0da24dcb4",
       "source": "PANews",
-      "published": "2026-11-23T03:12:16+08:00",
-      "summary": "PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Cha…",
+      "published": "2026-11-24T05:01:00+08:00",
+      "summary": "PANews 11月24日消息，据币安行情，美股收盘，三大指数集体收涨，道指涨约2.85%，标普500涨约4.38%，纳指涨约6.26%。 美股七巨头中：英伟达（NVDA）涨31.25%；特斯拉（TSLA）涨11.52%；Meta（META…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月23日消息，跨链兑换协议Chainflip总损失增至约1200万美元。据Chainflip Labs声明，被盗资产包括122.86枚BTC和520.22枚ETH。另有325万枚USDC和75.81万枚USDT被盗。Chainflip向攻击者提出赏金方案。攻击者若在北京时间11月24日02:38前归还90%资金，可保留10%。若资金按期归还，Chainflip称将视为白帽追回，并撤回向执法部门的报案和投诉。</p> <p>11月21日，据 Onchain Lens 监测，Chainflip以太坊金库被盗约486万美元。黑客随后通过Tornado Cash转移资金。Chainflip已将协议切换至安全模式，暂停充值、提现、兑换和报价。</p>"
+      "content": "<p>PANews 11月24日消息，据币安行情，美股收盘，三大指数集体收涨，道指涨约2.85%，标普500涨约4.38%，纳指涨约6.26%。</p> <p>美股七巨头中：英伟达（NVDA）涨31.25%；特斯拉（TSLA）涨11.52%；Meta（META）涨6.46%。</p> <p>加密概念股中：Robinhood（HOOD）涨8.51%；Strategy（MSTR）涨8.24%；Circle（CRCL）涨8.04%。</p> <p>半导体与存储中：SK海力士（SKHY）涨19.92%；美光（MU）涨18.50%；迈威尔（MRVL）涨17.98%。</p> <p>光模块/高速互联中：Lumentum（LITE）涨18.61%；应用光电（AAOI）涨17.63%；Coherent（COHR）涨15.63%。</p> <p>Neocloud中：IREN Limited（IREN）涨24.09%；CoreWeave（CRWV）涨22.84%；HIVE Digital（HIVE）涨15.22%。</p> <p>AI软件应用中：甲骨文（ORCL）涨12.63%；Palantir（PLTR）涨10.97%；MongoDB（MDB）涨9.32%。</p>"
+    },
+    {
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T04:38:43+08:00",
+      "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts mov…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84YTSSZCSXXMQBKZMNS9T51/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth-2.jpg",
+      "image_local": "assets/newsbot/img/a775d596d615ed11.jpg",
+      "content": "<p></p><p>The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.</p>"
+    },
+    {
+      "title": "BTC跌破61000美元，日内下跌 3.01%",
+      "url": "https://www.panewslab.com/zh/articles/01a209e9-f6fc-7322-8253-a2e56acfb50a",
+      "source": "PANews",
+      "published": "2026-11-24T03:37:37+08:00",
+      "summary": "PANews 11月24日消息，欧易OKX行情显示，BTC刚刚跌破61000美元，现报60999.10美元/枚，日内下跌 3.01%。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月24日消息，欧易OKX行情显示，BTC刚刚跌破61000美元，现报60999.10美元/枚，日内下跌 3.01%。</p>"
+    },
+    {
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T03:35:06+08:00",
+      "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added anothe…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png",
+      "image_local": "assets/newsbot/img/12a3dc3472b09860.jpg",
+      "content": "<p></p><p>BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.</p>"
+    },
+    {
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T03:16:46+08:00",
+      "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, althou…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png",
+      "image_local": "assets/newsbot/img/2d3c9da1ba182ca4.jpg",
+      "content": "<p></p><p>Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.</p>"
+    },
+    {
+      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T01:42:18+08:00",
+      "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issue…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84M84M1DETDNEDTPRT3V1N7/hi-okx-fake-ban.png",
+      "image_local": "assets/newsbot/img/878ec7f8cfa4bfb8.jpg",
+      "content": "<p></p><p>Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.</p>"
+    },
+    {
+      "title": "杜均称有兴趣买下Rune全部SKY仓位",
+      "url": "https://www.panewslab.com/zh/articles/01a20955-d626-76e0-a436-52b07942cad5",
+      "source": "PANews",
+      "published": "2026-11-24T00:55:56+08:00",
+      "summary": "PANews 11月24日消息，Vernal Capital创始人、火币联合创始人杜均发帖称，已向Sky（原MakerDAO）联合创始人Rune私信，并表示有兴趣买下其全部SKY仓位。此前 Rune披露 ，已从其质押SKY的借款头寸偿还30…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月24日消息，Vernal Capital创始人、火币联合创始人杜均发帖称，已向Sky（原MakerDAO）联合创始人Rune私信，并表示有兴趣买下其全部SKY仓位。此前<a href=\"https://www.panewslab.com/zh/articles/01a208af-9aea-7102-9fd9-389133c59c4a\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Rune披露</a>，已从其质押SKY的借款头寸偿还300万枚USDS，仍欠约7700万枚，并正探讨向认同Sky愿景的机构投资者直接出售部分SKY以偿还剩余债务。</p>"
+    },
+    {
+      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+      "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T00:51:17+08:00",
+      "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidat…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
+      "image_local": "assets/newsbot/img/07563ae21659a239.jpg",
+      "content": "<p></p><p>Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.</p>"
+    },
+    {
+      "title": "美股加密概念股走高，Galaxy Digital涨19%",
+      "url": "https://www.panewslab.com/zh/articles/01a20946-8342-705b-99b2-c64041022182",
+      "source": "PANews",
+      "published": "2026-11-24T00:39:03+08:00",
+      "summary": "PANews 11月24日消息，美股加密概念股随华尔街一同上涨。Galaxy Digital涨19%，Bullish涨16.5%，Strategy涨14%。Circle涨12%，Coinbase涨8.3%。比特币同步上涨3%，报6.30万美…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月24日消息，美股加密概念股随华尔街一同上涨。Galaxy Digital涨19%，Bullish涨16.5%，Strategy涨14%。Circle涨12%，Coinbase涨8.3%。比特币同步上涨3%，报6.30万美元。推文称，此轮上涨与英伟达CEO黄仁勋回归同时出现。</p>"
     }
   ]
 }
