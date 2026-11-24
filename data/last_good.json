@@ -1,7 +1,57 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T07:41:58.416147+08:00",
+  "generated_at": "2026-11-24T17:28:48.518269+08:00",
   "items": [
+    {
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T15:41:50+08:00",
+      "summary": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outf…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
+      "image_local": "assets/newsbot/img/2910e24bed910d40.jpg",
+      "content": "<p></p><p>BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.</p>"
+    },
+    {
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T13:07:30+08:00",
+      "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg",
+      "image_local": "assets/newsbot/img/f4f178200d94a87b.jpg",
+      "content": "<p></p><p>The independent macro research company warns the Bitcoin sell-off may not have yet run its course. </p>"
+    },
+    {
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T11:13:22+08:00",
+      "summary": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role i…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg",
+      "image_local": "assets/newsbot/img/cfe6b3965ec102f3.jpg",
+      "content": "<p></p><p>Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy. </p>"
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T08:36:26+08:00",
+      "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it ea…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
+      "image_local": "assets/newsbot/img/c642e5be5fc7754a.jpg",
+      "content": "<p></p><p>The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs. </p>"
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T07:43:34+08:00",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg",
+      "image_local": "assets/newsbot/img/251c3ffd04935920.jpg",
+      "content": "<p></p><p>The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.</p>"
+    },
     {
       "title": "平台禁用Ampleforth治理代币FORTH交易",
       "url": "https://www.panewslab.com/zh/articles/01a20ab3-818d-7168-be54-cd6f34194a98",
@@ -71,56 +121,6 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png",
       "image_local": "assets/newsbot/img/12a3dc3472b09860.jpg",
       "content": "<p></p><p>BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.</p>"
-    },
-    {
-      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-24T03:16:46+08:00",
-      "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, althou…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png",
-      "image_local": "assets/newsbot/img/2d3c9da1ba182ca4.jpg",
-      "content": "<p></p><p>Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.</p>"
-    },
-    {
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-24T01:42:18+08:00",
-      "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issue…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84M84M1DETDNEDTPRT3V1N7/hi-okx-fake-ban.png",
-      "image_local": "assets/newsbot/img/878ec7f8cfa4bfb8.jpg",
-      "content": "<p></p><p>Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.</p>"
-    },
-    {
-      "title": "杜均称有兴趣买下Rune全部SKY仓位",
-      "url": "https://www.panewslab.com/zh/articles/01a20955-d626-76e0-a436-52b07942cad5",
-      "source": "PANews",
-      "published": "2026-11-24T00:55:56+08:00",
-      "summary": "PANews 11月24日消息，Vernal Capital创始人、火币联合创始人杜均发帖称，已向Sky（原MakerDAO）联合创始人Rune私信，并表示有兴趣买下其全部SKY仓位。此前 Rune披露 ，已从其质押SKY的借款头寸偿还30…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月24日消息，Vernal Capital创始人、火币联合创始人杜均发帖称，已向Sky（原MakerDAO）联合创始人Rune私信，并表示有兴趣买下其全部SKY仓位。此前<a href=\"https://www.panewslab.com/zh/articles/01a208af-9aea-7102-9fd9-389133c59c4a\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Rune披露</a>，已从其质押SKY的借款头寸偿还300万枚USDS，仍欠约7700万枚，并正探讨向认同Sky愿景的机构投资者直接出售部分SKY以偿还剩余债务。</p>"
-    },
-    {
-      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-      "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-24T00:51:17+08:00",
-      "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidat…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
-      "image_local": "assets/newsbot/img/07563ae21659a239.jpg",
-      "content": "<p></p><p>Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.</p>"
-    },
-    {
-      "title": "美股加密概念股走高，Galaxy Digital涨19%",
-      "url": "https://www.panewslab.com/zh/articles/01a20946-8342-705b-99b2-c64041022182",
-      "source": "PANews",
-      "published": "2026-11-24T00:39:03+08:00",
-      "summary": "PANews 11月24日消息，美股加密概念股随华尔街一同上涨。Galaxy Digital涨19%，Bullish涨16.5%，Strategy涨14%。Circle涨12%，Coinbase涨8.3%。比特币同步上涨3%，报6.30万美…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月24日消息，美股加密概念股随华尔街一同上涨。Galaxy Digital涨19%，Bullish涨16.5%，Strategy涨14%。Circle涨12%，Coinbase涨8.3%。比特币同步上涨3%，报6.30万美元。推文称，此轮上涨与英伟达CEO黄仁勋回归同时出现。</p>"
     }
   ]
 }

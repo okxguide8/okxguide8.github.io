@@ -1,8 +1,58 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T07:42:00.794320+08:00",
+  "generated_at": "2026-11-24T17:29:32.742078+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T15:41:50+08:00",
+      "summary": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outf…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
+      "image_local": "assets/newsbot/img/2910e24bed910d40.jpg",
+      "content": "<p></p><p>BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.</p>"
+    },
+    {
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T13:07:30+08:00",
+      "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg",
+      "image_local": "assets/newsbot/img/f4f178200d94a87b.jpg",
+      "content": "<p></p><p>The independent macro research company warns the Bitcoin sell-off may not have yet run its course. </p>"
+    },
+    {
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T11:13:22+08:00",
+      "summary": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role i…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg",
+      "image_local": "assets/newsbot/img/cfe6b3965ec102f3.jpg",
+      "content": "<p></p><p>Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy. </p>"
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T08:36:26+08:00",
+      "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it ea…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
+      "image_local": "assets/newsbot/img/c642e5be5fc7754a.jpg",
+      "content": "<p></p><p>The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs. </p>"
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-24T07:43:34+08:00",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg",
+      "image_local": "assets/newsbot/img/251c3ffd04935920.jpg",
+      "content": "<p></p><p>The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.</p>"
+    },
     {
       "title": "平台禁用Ampleforth治理代币FORTH交易",
       "url": "https://www.panewslab.com/zh/articles/01a20ab3-818d-7168-be54-cd6f34194a98",
