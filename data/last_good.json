@@ -1,126 +1,126 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:14:00.361645+08:00",
+  "generated_at": "2026-11-25T15:59:25.909188+08:00",
   "items": [
     {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T05:50:25+08:00",
-      "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png",
-      "image_local": "assets/newsbot/img/93b5d5fd7c81e769.jpg",
-      "content": "<p></p><p>Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.</p>"
-    },
-    {
-      "title": "美股收盘Neocloud、光模块/高速互联集体重挫，Bitdeer Group跌超16%",
-      "url": "https://www.panewslab.com/zh/articles/01a20f5c-aaea-7389-8271-e91a6c5ac111",
+      "title": "Tether被曝向部分黑客攻击受害者收取最高20%的USDT重新发行费用",
+      "url": "https://www.panewslab.com/zh/articles/01a211b2-1ea9-75ef-8cd2-1ef66e36a21f",
       "source": "PANews",
-      "published": "2026-11-25T05:01:00+08:00",
-      "summary": "PANews 11月25日消息，据币安行情，美股收盘，三大指数涨跌不一，道指涨约0.55%，标普500跌约0.76%，纳指跌约2.20%。 美股七巨头中：英伟达（NVDA）跌6.12%；Meta（META）跌1.53%；亚马逊（AMZN）跌…",
+      "published": "2026-11-25T15:53:35+08:00",
+      "summary": "PANews 11月25日消息，据彭博社调查报道，Tether曾向部分黑客攻击受害者收取最高达20%的资金重新发行费。这些受害者的USDT被盗后，涉案资金被Tether冻结。总部位于新加坡的交易所Bittok在2020年6月的一次黑客攻击中…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据币安行情，美股收盘，三大指数涨跌不一，道指涨约0.55%，标普500跌约0.76%，纳指跌约2.20%。</p> <p>美股七巨头中：英伟达（NVDA）跌6.12%；Meta（META）跌1.53%；亚马逊（AMZN）跌1.32%。</p> <p>加密概念股中：Strategy（MSTR）跌8.09%；Circle（CRCL）跌6.02%；Coinbase（COIN）跌5.60%。</p> <p>半导体与存储中：美光（MU）跌11.01%；闪迪（SNDK）跌10.89%；SK海力士（SKHY）跌9.99%。</p> <p>光模块/高速互联中：Lumentum（LITE）跌10.58%；Ciena（CIEN）跌9.61%；Coherent（COHR）跌9.07%。</p> <p>Neocloud中：Bitdeer Group（BTDR）跌16.99%；Bit Digital（BTBT）跌14.73%；CoreWeave（CRWV）跌11.32%。</p> <p>AI软件应用中：Salesforce（CRM）涨4.16%；甲骨文（ORCL）跌4.05%；Twilio（TWLO）跌2.28%。</p>"
+      "content": "<p>PANews 11月25日消息，据彭博社调查报道，Tether曾向部分黑客攻击受害者收取最高达20%的资金重新发行费。这些受害者的USDT被盗后，涉案资金被Tether冻结。总部位于新加坡的交易所Bittok在2020年6月的一次黑客攻击中损失了5000万美元，Tether决定冻结部分资产，但五年多过去，Bittok的USDT仍未返还。知情人士称，Tether在其他几起案件中也采取了类似做法，受害者只能分批拿回被盗的USDT，并支付相同费用。</p> <p>Tether首席执行官Paolo Ardoino表示，在民事案件中，Tether分阶段重新发行，需要管理自身风险，因为可能存在其他索赔人，而且目前没有相关法律指导。Tether发言人表示，该公司迄今已重新发行12亿美元的USDT，所收取的费用用于资助这一过程及法律成本。此外，报道还对比了Circle的做法，称Circle因过于依赖法院命令而受到批评，在一起2.85亿美元的黑客事件中，Circle选择等待法院命令而未立即冻结资金，导致受害者损失。</p>"
     },
     {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T04:48:27+08:00",
-      "summary": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, whi…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png",
-      "image_local": "assets/newsbot/img/2f148ccf21b7822d.jpg",
-      "content": "<p></p><p>Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.</p>"
-    },
-    {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T03:44:23+08:00",
-      "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an un…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
-      "image_local": "assets/newsbot/img/8f65d40059bb8218.jpg",
-      "content": "<p></p><p>The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.</p>"
-    },
-    {
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T03:04:26+08:00",
-      "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp",
-      "image_local": "assets/newsbot/img/e77aae896c61e6ba.jpg",
-      "content": "<p></p><p>Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.</p>"
-    },
-    {
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T02:31:42+08:00",
-      "summary": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch pre…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
-      "image_local": "assets/newsbot/img/0f05e482fbb03d6d.jpg",
-      "content": "<p></p><p>The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.</p>"
-    },
-    {
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T02:07:22+08:00",
-      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International par…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png",
-      "image_local": "assets/newsbot/img/206ae18cd76ff9cf.jpg",
-      "content": "<p></p><p>The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.</p>"
-    },
-    {
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T01:09:11+08:00",
-      "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp",
-      "image_local": "assets/newsbot/img/65b60cf4cac2f3ab.jpg",
-      "content": "<p></p><p>Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.</p>"
-    },
-    {
-      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-      "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-25T00:33:26+08:00",
-      "summary": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-      "image_local": "assets/newsbot/img/37b2d561da951f9f.jpg",
-      "content": "<p></p><p>Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.</p>"
-    },
-    {
-      "title": "现货白银向下触及41美元/盎司，日内跌5.01%",
-      "url": "https://www.panewslab.com/zh/articles/01a20e49-9b6f-7687-9df5-787b61a9ecfc",
+      "title": "加密手续费返现平台Paybacks完成1000万美元Pre-A轮融资",
+      "url": "https://www.panewslab.com/zh/articles/01a211a8-bab1-707b-9b5a-062e43203e6d",
       "source": "PANews",
-      "published": "2026-11-24T23:59:00+08:00",
-      "summary": "PANews 11月25日消息，现货白银向下触及41美元/盎司，日内跌5.01%。",
+      "published": "2026-11-25T15:43:20+08:00",
+      "summary": "PANews 11月25日消息，据Globenewswire报道，加密手续费返现平台Paybacks宣布完成1000万美元Pre-A轮融资，Foresight Ventures为本轮唯一投资方，以1亿美元的估值获得了10%的股份。此外，Pa…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，现货白银向下触及41美元/盎司，日内跌5.01%。</p>"
+      "content": "<p>PANews 11月25日消息，据Globenewswire报道，加密手续费返现平台Paybacks宣布完成1000万美元Pre-A轮融资，Foresight Ventures为本轮唯一投资方，以1亿美元的估值获得了10%的股份。此外，Paybacks正式推出其平台paybacks.io。</p> <p>据介绍，Paybacks是一个为加密期货交易手续费提供返现的平台。通过与参与交易所的协议，它向交易者返还最高90%的符合条件的交易手续费，返现于次日以USDT自动支付。</p>"
     },
     {
-      "title": "Anthropic跌幅扩大至10%",
-      "url": "https://www.panewslab.com/zh/articles/01a20e3a-84fd-76a0-b4c5-b5567a9ba4ad",
+      "title": "分析师：过去7天现货比特币ETF净流出34785枚BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a2119d-dc6d-75e1-8c8e-f7792ebc27c4",
       "source": "PANews",
-      "published": "2026-11-24T23:44:05+08:00",
-      "summary": "PANews 11月24日消息，币安行情显示：Anthropic(ANT.O)跌幅扩大至10%。",
+      "published": "2026-11-25T15:31:27+08:00",
+      "summary": "PANews 11月25日消息，CryptoQuant分析师Axel Adler Jr.称，过去七天现货比特币ETF净流出34,785枚BTC，前一周为净流出14,313枚BTC，流出量增加20,472枚BTC；11月24日最近一个交易日则…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月24日消息，币安行情显示：Anthropic(ANT.O)跌幅扩大至10%。</p>"
+      "content": "<p>PANews 11月25日消息，CryptoQuant分析师Axel Adler Jr.称，过去七天现货比特币ETF净流出34,785枚BTC，前一周为净流出14,313枚BTC，流出量增加20,472枚BTC；11月24日最近一个交易日则录得119枚BTC的小幅净流入。同期交易所比特币净流出13,997枚BTC，已连续第九天为负，表明交易所买方需求较强，比特币流出速度快于流入。</p> <p>报道称，同期ETF流出量比交易所净提现量多20,788枚BTC。分析认为，ETF持续流出显示市场压力较大，而交易所净提现方向相反；若ETF恢复持续净流入且交易所继续净提现，将强化市场正在形成支撑的迹象；若ETF流出持续且交易所流量转正，市场压力可能加剧。</p>"
     },
     {
-      "title": "Anchorage拟设资管子公司推出比特币计价基金，预计于12月初开始运营",
-      "url": "https://www.panewslab.com/zh/articles/01a20e32-3d1f-7386-909b-be9fce9b3b8e",
+      "title": "X平台在一起涉27.7万美元比特币机器人骗局的诉讼中胜诉，法院作出缺席判决",
+      "url": "https://www.panewslab.com/zh/articles/01a21196-d7eb-77ff-a1a3-76200d586ee5",
       "source": "PANews",
-      "published": "2026-11-24T23:35:03+08:00",
-      "summary": "PANews 11月24日消息，据CoinDesk报道，美国受监管加密资产托管机构Anchorage Digital计划成立资产管理子公司61st Parallel Asset Management，预计于12月初开始运营，并将推出一只以比…",
+      "published": "2026-11-25T15:23:47+08:00",
+      "summary": "PANews 11月25日消息，据crypto.news报道，马斯克旗下社交平台X在一起涉及比特币相关账号的创作者收益欺诈案中胜诉，法院因被告未应诉而作出缺席判决。伦敦高等法院11月20日的法院命令显示，法官Teverson作出有利于X I…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月24日消息，据CoinDesk报道，美国受监管加密资产托管机构Anchorage Digital计划成立资产管理子公司61st Parallel Asset Management，预计于12月初开始运营，并将推出一只以比特币计价的基金，使托管客户能够通过所持加密资产获取收益。Anchorage Digital首席执行官Nathan McCauley在采访中表示，越来越多客户希望在Anchorage托管的资产上获得收益，这在传统大型金融机构中已较为常见。据报道，公司已提交投资顾问注册及信息披露文件Form ADV，正寻求开展投资顾问业务所需资质。</p>"
+      "content": "<p>PANews 11月25日消息，据crypto.news报道，马斯克旗下社交平台X在一起涉及比特币相关账号的创作者收益欺诈案中胜诉，法院因被告未应诉而作出缺席判决。伦敦高等法院11月20日的法院命令显示，法官Teverson作出有利于X Internet Unlimited Company和X Corp.的判决，被告Vivek Kumar Sen和Zamyang Sherpa均未在规定期限内应诉。</p> <p>X称，涉案账号通过发布高度相似内容、互相互动来人为抬高互动量，从而从前创作者收益分享计划中获取至少207,384英镑（约27.7万美元），并主张超过7.5万英镑的调查与整改费用，合计估计损失不低于282,384英镑。损害赔偿和利息金额将在另行的处置听证会上确定。</p>"
+    },
+    {
+      "title": "A股收评：创业板指缩量跌超4%，全市场超4900只个股下跌",
+      "url": "https://www.panewslab.com/zh/articles/01a2118f-d6d2-7075-a069-3e46e8666d09",
+      "source": "PANews",
+      "published": "2026-11-25T15:16:09+08:00",
+      "summary": "PANews 11月25日消息，据财联社报道，市场集体走弱，创业板指跌超4%，科创50指数跌超5%，沪指失守3500点。量能明显萎缩，沪深两市成交额1.38万亿，较上一个交易日缩量2720亿。全市场超4900只个股下跌。盘面上，医药板块逆势…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据财联社报道，市场集体走弱，创业板指跌超4%，科创50指数跌超5%，沪指失守3500点。量能明显萎缩，沪深两市成交额1.38万亿，较上一个交易日缩量2720亿。全市场超4900只个股下跌。盘面上，医药板块逆势走强，抗流感方向领涨，康芝药业、拓新药业、亨迪药业、双鹭药业、特一药业等多股涨停；零售概念表现活跃，杭州解百3连板，中央商场、国芳集团、家家悦涨停。下跌方面，芯片产业链集体下挫，华虹宏力、灿芯股份、北方华创、沐曦股份、富创精密等纷纷回落；电池产业链震荡调整，尚太科技跌停，宁德时代、尚水智能等走弱。截至收盘，沪指跌2.03%，深成指跌3.24%，创业板指跌4.19%。</p>"
+    },
+    {
+      "title": "报告：近万个休眠比特币钱包自2018年以来共转出约24.5万枚BTC，价值约147亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a2118b-8472-75de-a6dc-c4096eef0a68",
+      "source": "PANews",
+      "published": "2026-11-25T15:11:25+08:00",
+      "summary": "PANews 11月25日消息，据Decrypt报道，开发者Quickben22在2018年整理了一份92,076个、超过六年未动过的比特币钱包名单，当时假设所有者已丢失私钥。八年后他重新核查发现，其中9,990个钱包此后共转出约24.5万…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据Decrypt报道，开发者Quickben22在2018年整理了一份92,076个、超过六年未动过的比特币钱包名单，当时假设所有者已丢失私钥。八年后他重新核查发现，其中9,990个钱包此后共转出约24.5万枚BTC，按当前价格计价值略超147亿美元。他表示，休眠不等于丢失。</p> <p>这一发现正值纽约一项诉讼试图将39,069个休眠比特币地址（包括与中本聪关联的钱包）认定为废弃财产。部分被列入诉讼的钱包此后已转移资金，其中2013年首次入金的一个地址在10月转出411.45枚BTC，当时价值3340万美元；一名化名持有者也已提交动议要求驳回案件，称仍控制其中一个被列名钱包。Quickben22称，链上只能证明有人签名，无法证明是谁。</p>"
+    },
+    {
+      "title": "币安将于11月26日对Tron网络（TRX）进行钱包维护，预计需要1小时",
+      "url": "https://www.panewslab.com/zh/articles/01a21182-682f-756c-a009-7fb2ef3b7cae",
+      "source": "PANews",
+      "published": "2026-11-25T15:01:28+08:00",
+      "summary": "PANews 11月25日消息，据官方公告，币安将于2026年11月26日14:00（东八区时间）对Tron网络（TRX）进行钱包维护。为支持此次维护，币安将于当日13:55暂停Tron网络的充值、提现业务，维护预计需要1小时，完成后将自动…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据官方公告，币安将于2026年11月26日14:00（东八区时间）对Tron网络（TRX）进行钱包维护。为支持此次维护，币安将于当日13:55暂停Tron网络的充值、提现业务，维护预计需要1小时，完成后将自动恢复。</p>"
+    },
+    {
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-25T14:54:59+08:00",
+      "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the l…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg",
+      "image_local": "assets/newsbot/img/41b954acd2abc853.jpg",
+      "content": "<p></p><p>South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders. </p>"
+    },
+    {
+      "title": "Solana开发人员推动验证者停止处理未被采用的区块，以减少无效计算",
+      "url": "https://www.panewslab.com/zh/articles/01a2116b-a373-7483-a4c8-3ea49c4f7719",
+      "source": "PANews",
+      "published": "2026-11-25T14:36:36+08:00",
+      "summary": "PANews 11月25日消息，据CoinDesk报道，据CoinDesk报道，Solana主要验证者软件开发商Anza已提交提案，拟允许验证者在网络最终确定另一个竞争区块后，立即停止处理未被采用的区块，以减少无效计算。目前网络偶尔会同时出…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据CoinDesk报道，据CoinDesk报道，Solana主要验证者软件开发商Anza已提交提案，拟允许验证者在网络最终确定另一个竞争区块后，立即停止处理未被采用的区块，以减少无效计算。目前网络偶尔会同时出现两个略有差异的同区块版本，验证者可能在网络确定哪个有效前就处理其中一个，最终发现处理的是未被采用的版本，造成重复计算。</p> <p>该提案提交至大多数Solana验证者运行的Agave软件。约一个月前，Solana启用Alpenglow升级，将交易最终确定时间缩短至约150毫秒，但验证者仍需执行每笔交易并核对结果。Anza还在开发另一项相关改动，防止验证者在等待交易排序软件时停滞。两项提案仍在开发中，Anza尚未公布可节省的算力规模。</p>"
+    },
+    {
+      "title": "数字资产与结构化金融平台OpenVault完成200万美元种子轮融资",
+      "url": "https://www.panewslab.com/zh/articles/01a2115d-85e0-72fa-b3fe-18f77920814d",
+      "source": "PANews",
+      "published": "2026-11-25T14:21:11+08:00",
+      "summary": "PANews 11月25日消息，据NewsBTC报道，数字资产与结构化金融平台OpenVault宣布完成200万美元种子轮融资，由HorizonArc Ventures领投，投后估值2000万美元。本轮资金将主要用于AI技术开发、产品组合扩…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据NewsBTC报道，数字资产与结构化金融平台OpenVault宣布完成200万美元种子轮融资，由HorizonArc Ventures领投，投后估值2000万美元。本轮资金将主要用于AI技术开发、产品组合扩展、合规基础设施和全球市场增长。</p> <p>OpenVault表示，其通过标准化Vault架构整合稳定币收益、量化投资策略和多元化资产配置，提供数字资产收益管理、RWA及结构化产品。平台AI引擎支持智能推荐与自动申购、稳定收益产品套件、BTC FCN等结构化产品及端到端AI辅助管理。</p>"
+    },
+    {
+      "title": "Ark Invest昨日减持183万美元Bullish股票和681万美元自有比特币ETF",
+      "url": "https://www.panewslab.com/zh/articles/01a2114e-a098-7746-9edd-8fd911b9ec54",
+      "source": "PANews",
+      "published": "2026-11-25T14:04:55+08:00",
+      "summary": "PANews 11月25日消息，据The Block报道，Cathie Wood旗下Ark Invest周二通过其ARKK ETF卖出价值183万美元的Bullish股票，当日Bullish股价收跌8%。该公司还卖出价值681万美元的自有A…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月25日消息，据The Block报道，Cathie Wood旗下Ark Invest周二通过其ARKK ETF卖出价值183万美元的Bullish股票，当日Bullish股价收跌8%。该公司还卖出价值681万美元的自有Ark 21Shares比特币ETF（ARKB），以及价值32.5万美元的3iQ Ether Staking ETF（ETHQ.U）和价值141,806美元的3iQ Solana Staking ETF（SOLQ.U）。</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-25T13:50:43+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
     }
   ]
 }
