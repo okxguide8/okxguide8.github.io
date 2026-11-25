@@ -1,126 +1,126 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T15:59:25.909188+08:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T05:29:40.883443+08:00",
   "items": [
     {
-      "title": "Tether被曝向部分黑客攻击受害者收取最高20%的USDT重新发行费用",
-      "url": "https://www.panewslab.com/zh/articles/01a211b2-1ea9-75ef-8cd2-1ef66e36a21f",
+      "title": "Van Hollen和Warren敦促SEC撤回加密拟议规则",
+      "url": "https://www.panewslab.com/zh/articles/01a21497-3012-7445-a36c-401d375d22c3",
       "source": "PANews",
-      "published": "2026-11-25T15:53:35+08:00",
-      "summary": "PANews 11月25日消息，据彭博社调查报道，Tether曾向部分黑客攻击受害者收取最高达20%的资金重新发行费。这些受害者的USDT被盗后，涉案资金被Tether冻结。总部位于新加坡的交易所Bittok在2020年6月的一次黑客攻击中…",
+      "published": "2026-11-26T05:22:54+08:00",
+      "summary": "PANews 11月26日消息，据The Block报道，参议员Chris Van Hollen和Elizabeth Warren发出两封信函。两人敦促SEC主席Paul Atkins撤回相关拟议规则。这些规则涉及加密项目如何融资，以及代币…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据彭博社调查报道，Tether曾向部分黑客攻击受害者收取最高达20%的资金重新发行费。这些受害者的USDT被盗后，涉案资金被Tether冻结。总部位于新加坡的交易所Bittok在2020年6月的一次黑客攻击中损失了5000万美元，Tether决定冻结部分资产，但五年多过去，Bittok的USDT仍未返还。知情人士称，Tether在其他几起案件中也采取了类似做法，受害者只能分批拿回被盗的USDT，并支付相同费用。</p> <p>Tether首席执行官Paolo Ardoino表示，在民事案件中，Tether分阶段重新发行，需要管理自身风险，因为可能存在其他索赔人，而且目前没有相关法律指导。Tether发言人表示，该公司迄今已重新发行12亿美元的USDT，所收取的费用用于资助这一过程及法律成本。此外，报道还对比了Circle的做法，称Circle因过于依赖法院命令而受到批评，在一起2.85亿美元的黑客事件中，Circle选择等待法院命令而未立即冻结资金，导致受害者损失。</p>"
+      "content": "<p>PANews 11月26日消息，据The Block报道，参议员Chris Van Hollen和Elizabeth Warren发出两封信函。两人敦促SEC主席Paul Atkins撤回相关拟议规则。这些规则涉及加密项目如何融资，以及代币化证券如何交易。两人周三表示，信函对SEC为加密资产和代币化证券设置特殊待遇的做法表示担忧。两人称，这将以牺牲投资者保护和市场完整性为代价。</p>"
     },
     {
-      "title": "加密手续费返现平台Paybacks完成1000万美元Pre-A轮融资",
-      "url": "https://www.panewslab.com/zh/articles/01a211a8-bab1-707b-9b5a-062e43203e6d",
+      "title": "USDC Treasury销毁约1.00亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a21496-4caa-7765-8938-0728cda11a2f",
       "source": "PANews",
-      "published": "2026-11-25T15:43:20+08:00",
-      "summary": "PANews 11月25日消息，据Globenewswire报道，加密手续费返现平台Paybacks宣布完成1000万美元Pre-A轮融资，Foresight Ventures为本轮唯一投资方，以1亿美元的估值获得了10%的股份。此外，Pa…",
+      "published": "2026-11-26T05:21:56+08:00",
+      "summary": "PANews 11月26日消息，USDC Treasury销毁约1.00亿枚USDC，价值约1.00亿美元。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据Globenewswire报道，加密手续费返现平台Paybacks宣布完成1000万美元Pre-A轮融资，Foresight Ventures为本轮唯一投资方，以1亿美元的估值获得了10%的股份。此外，Paybacks正式推出其平台paybacks.io。</p> <p>据介绍，Paybacks是一个为加密期货交易手续费提供返现的平台。通过与参与交易所的协议，它向交易者返还最高90%的符合条件的交易手续费，返现于次日以USDT自动支付。</p>"
+      "content": "<p>PANews 11月26日消息，USDC Treasury销毁约1.00亿枚USDC，价值约1.00亿美元。</p>"
     },
     {
-      "title": "分析师：过去7天现货比特币ETF净流出34785枚BTC",
-      "url": "https://www.panewslab.com/zh/articles/01a2119d-dc6d-75e1-8c8e-f7792ebc27c4",
+      "title": "Kraken向未知钱包转出1.22亿枚USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a21491-1cd9-7047-a22c-ae92773ea62d",
       "source": "PANews",
-      "published": "2026-11-25T15:31:27+08:00",
-      "summary": "PANews 11月25日消息，CryptoQuant分析师Axel Adler Jr.称，过去七天现货比特币ETF净流出34,785枚BTC，前一周为净流出14,313枚BTC，流出量增加20,472枚BTC；11月24日最近一个交易日则…",
+      "published": "2026-11-26T05:16:19+08:00",
+      "summary": "PANews 11月26日消息，1.22亿枚USDC（约1.22亿美元）从加密货币交易所Kraken转入未知钱包。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，CryptoQuant分析师Axel Adler Jr.称，过去七天现货比特币ETF净流出34,785枚BTC，前一周为净流出14,313枚BTC，流出量增加20,472枚BTC；11月24日最近一个交易日则录得119枚BTC的小幅净流入。同期交易所比特币净流出13,997枚BTC，已连续第九天为负，表明交易所买方需求较强，比特币流出速度快于流入。</p> <p>报道称，同期ETF流出量比交易所净提现量多20,788枚BTC。分析认为，ETF持续流出显示市场压力较大，而交易所净提现方向相反；若ETF恢复持续净流入且交易所继续净提现，将强化市场正在形成支撑的迹象；若ETF流出持续且交易所流量转正，市场压力可能加剧。</p>"
+      "content": "<p>PANews 11月26日消息，1.22亿枚USDC（约1.22亿美元）从加密货币交易所Kraken转入未知钱包。</p>"
     },
     {
-      "title": "X平台在一起涉27.7万美元比特币机器人骗局的诉讼中胜诉，法院作出缺席判决",
-      "url": "https://www.panewslab.com/zh/articles/01a21196-d7eb-77ff-a1a3-76200d586ee5",
-      "source": "PANews",
-      "published": "2026-11-25T15:23:47+08:00",
-      "summary": "PANews 11月25日消息，据crypto.news报道，马斯克旗下社交平台X在一起涉及比特币相关账号的创作者收益欺诈案中胜诉，法院因被告未应诉而作出缺席判决。伦敦高等法院11月20日的法院命令显示，法官Teverson作出有利于X I…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据crypto.news报道，马斯克旗下社交平台X在一起涉及比特币相关账号的创作者收益欺诈案中胜诉，法院因被告未应诉而作出缺席判决。伦敦高等法院11月20日的法院命令显示，法官Teverson作出有利于X Internet Unlimited Company和X Corp.的判决，被告Vivek Kumar Sen和Zamyang Sherpa均未在规定期限内应诉。</p> <p>X称，涉案账号通过发布高度相似内容、互相互动来人为抬高互动量，从而从前创作者收益分享计划中获取至少207,384英镑（约27.7万美元），并主张超过7.5万英镑的调查与整改费用，合计估计损失不低于282,384英镑。损害赔偿和利息金额将在另行的处置听证会上确定。</p>"
-    },
-    {
-      "title": "A股收评：创业板指缩量跌超4%，全市场超4900只个股下跌",
-      "url": "https://www.panewslab.com/zh/articles/01a2118f-d6d2-7075-a069-3e46e8666d09",
-      "source": "PANews",
-      "published": "2026-11-25T15:16:09+08:00",
-      "summary": "PANews 11月25日消息，据财联社报道，市场集体走弱，创业板指跌超4%，科创50指数跌超5%，沪指失守3500点。量能明显萎缩，沪深两市成交额1.38万亿，较上一个交易日缩量2720亿。全市场超4900只个股下跌。盘面上，医药板块逆势…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据财联社报道，市场集体走弱，创业板指跌超4%，科创50指数跌超5%，沪指失守3500点。量能明显萎缩，沪深两市成交额1.38万亿，较上一个交易日缩量2720亿。全市场超4900只个股下跌。盘面上，医药板块逆势走强，抗流感方向领涨，康芝药业、拓新药业、亨迪药业、双鹭药业、特一药业等多股涨停；零售概念表现活跃，杭州解百3连板，中央商场、国芳集团、家家悦涨停。下跌方面，芯片产业链集体下挫，华虹宏力、灿芯股份、北方华创、沐曦股份、富创精密等纷纷回落；电池产业链震荡调整，尚太科技跌停，宁德时代、尚水智能等走弱。截至收盘，沪指跌2.03%，深成指跌3.24%，创业板指跌4.19%。</p>"
-    },
-    {
-      "title": "报告：近万个休眠比特币钱包自2018年以来共转出约24.5万枚BTC，价值约147亿美元",
-      "url": "https://www.panewslab.com/zh/articles/01a2118b-8472-75de-a6dc-c4096eef0a68",
-      "source": "PANews",
-      "published": "2026-11-25T15:11:25+08:00",
-      "summary": "PANews 11月25日消息，据Decrypt报道，开发者Quickben22在2018年整理了一份92,076个、超过六年未动过的比特币钱包名单，当时假设所有者已丢失私钥。八年后他重新核查发现，其中9,990个钱包此后共转出约24.5万…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据Decrypt报道，开发者Quickben22在2018年整理了一份92,076个、超过六年未动过的比特币钱包名单，当时假设所有者已丢失私钥。八年后他重新核查发现，其中9,990个钱包此后共转出约24.5万枚BTC，按当前价格计价值略超147亿美元。他表示，休眠不等于丢失。</p> <p>这一发现正值纽约一项诉讼试图将39,069个休眠比特币地址（包括与中本聪关联的钱包）认定为废弃财产。部分被列入诉讼的钱包此后已转移资金，其中2013年首次入金的一个地址在10月转出411.45枚BTC，当时价值3340万美元；一名化名持有者也已提交动议要求驳回案件，称仍控制其中一个被列名钱包。Quickben22称，链上只能证明有人签名，无法证明是谁。</p>"
-    },
-    {
-      "title": "币安将于11月26日对Tron网络（TRX）进行钱包维护，预计需要1小时",
-      "url": "https://www.panewslab.com/zh/articles/01a21182-682f-756c-a009-7fb2ef3b7cae",
-      "source": "PANews",
-      "published": "2026-11-25T15:01:28+08:00",
-      "summary": "PANews 11月25日消息，据官方公告，币安将于2026年11月26日14:00（东八区时间）对Tron网络（TRX）进行钱包维护。为支持此次维护，币安将于当日13:55暂停Tron网络的充值、提现业务，维护预计需要1小时，完成后将自动…",
-      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
-      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据官方公告，币安将于2026年11月26日14:00（东八区时间）对Tron网络（TRX）进行钱包维护。为支持此次维护，币安将于当日13:55暂停Tron网络的充值、提现业务，维护预计需要1小时，完成后将自动恢复。</p>"
-    },
-    {
-      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-25T14:54:59+08:00",
-      "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the l…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg",
-      "image_local": "assets/newsbot/img/41b954acd2abc853.jpg",
-      "content": "<p></p><p>South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders. </p>"
+      "published": "2026-11-26T05:11:39+08:00",
+      "summary": "ECB",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg",
+      "image_local": "assets/newsbot/img/f6edde79863945d6.jpg",
+      "content": "ECB"
     },
     {
-      "title": "Solana开发人员推动验证者停止处理未被采用的区块，以减少无效计算",
-      "url": "https://www.panewslab.com/zh/articles/01a2116b-a373-7483-a4c8-3ea49c4f7719",
+      "title": "1亿枚USDC从Aave转出至未知钱包",
+      "url": "https://www.panewslab.com/zh/articles/01a2148c-4dd9-777b-981a-ea85b25aa9e1",
       "source": "PANews",
-      "published": "2026-11-25T14:36:36+08:00",
-      "summary": "PANews 11月25日消息，据CoinDesk报道，据CoinDesk报道，Solana主要验证者软件开发商Anza已提交提案，拟允许验证者在网络最终确定另一个竞争区块后，立即停止处理未被采用的区块，以减少无效计算。目前网络偶尔会同时出…",
+      "published": "2026-11-26T05:10:57+08:00",
+      "summary": "PANews 11月26日消息，1亿枚USDC（约1.00亿美元）从DeFi借贷协议Aave转入未知钱包。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据CoinDesk报道，据CoinDesk报道，Solana主要验证者软件开发商Anza已提交提案，拟允许验证者在网络最终确定另一个竞争区块后，立即停止处理未被采用的区块，以减少无效计算。目前网络偶尔会同时出现两个略有差异的同区块版本，验证者可能在网络确定哪个有效前就处理其中一个，最终发现处理的是未被采用的版本，造成重复计算。</p> <p>该提案提交至大多数Solana验证者运行的Agave软件。约一个月前，Solana启用Alpenglow升级，将交易最终确定时间缩短至约150毫秒，但验证者仍需执行每笔交易并核对结果。Anza还在开发另一项相关改动，防止验证者在等待交易排序软件时停滞。两项提案仍在开发中，Anza尚未公布可节省的算力规模。</p>"
+      "content": "<p>PANews 11月26日消息，1亿枚USDC（约1.00亿美元）从DeFi借贷协议Aave转入未知钱包。</p>"
     },
     {
-      "title": "数字资产与结构化金融平台OpenVault完成200万美元种子轮融资",
-      "url": "https://www.panewslab.com/zh/articles/01a2115d-85e0-72fa-b3fe-18f77920814d",
+      "title": "美股收盘半导体与存储、加密概念股走势分化，Bitdeer Group涨超9%",
+      "url": "https://www.panewslab.com/zh/articles/01a21483-066d-72df-83bc-c0919f3cd237",
       "source": "PANews",
-      "published": "2026-11-25T14:21:11+08:00",
-      "summary": "PANews 11月25日消息，据NewsBTC报道，数字资产与结构化金融平台OpenVault宣布完成200万美元种子轮融资，由HorizonArc Ventures领投，投后估值2000万美元。本轮资金将主要用于AI技术开发、产品组合扩…",
+      "published": "2026-11-26T05:01:00+08:00",
+      "summary": "PANews 11月26日消息，据币安行情，美股收盘，三大指数涨跌不一，道指涨约0.39%，标普500跌约0.24%，纳指跌约0.72%。 美股七巨头中：英伟达（NVDA）跌3.95%；Meta（META）涨3.37%；亚马逊（AMZN）跌…",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据NewsBTC报道，数字资产与结构化金融平台OpenVault宣布完成200万美元种子轮融资，由HorizonArc Ventures领投，投后估值2000万美元。本轮资金将主要用于AI技术开发、产品组合扩展、合规基础设施和全球市场增长。</p> <p>OpenVault表示，其通过标准化Vault架构整合稳定币收益、量化投资策略和多元化资产配置，提供数字资产收益管理、RWA及结构化产品。平台AI引擎支持智能推荐与自动申购、稳定收益产品套件、BTC FCN等结构化产品及端到端AI辅助管理。</p>"
+      "content": "<p>PANews 11月26日消息，据币安行情，美股收盘，三大指数涨跌不一，道指涨约0.39%，标普500跌约0.24%，纳指跌约0.72%。</p> <p>美股七巨头中：英伟达（NVDA）跌3.95%；Meta（META）涨3.37%；亚马逊（AMZN）跌3.03%。</p> <p>加密概念股中：Strategy（MSTR）涨3.27%；PayPal（PYPL）涨2.90%；Block（XYZ）涨2.78%。</p> <p>半导体与存储中：闪迪（SNDK）跌6.22%；泛林（LRCX）跌5.73%；美光（MU）跌4.73%。</p> <p>光模块/高速互联中：应用光电（AAOI）跌3.33%；Lumentum（LITE）跌1.98%；Ciena（CIEN）涨1.93%。</p> <p>Neocloud中：Bitdeer Group（BTDR）涨9.69%；BTCS Inc（BTCS）涨3.06%；超微电脑（SMCI）涨2.48%。</p> <p>AI软件应用中：甲骨文（ORCL）跌5.14%；Datadog（DDOG）跌4.28%；IBM（IBM）涨3.42%。</p>"
     },
     {
-      "title": "Ark Invest昨日减持183万美元Bullish股票和681万美元自有比特币ETF",
-      "url": "https://www.panewslab.com/zh/articles/01a2114e-a098-7746-9edd-8fd911b9ec54",
+      "title": "Tether Treasury向Bitfinex转入1.7亿USDT",
+      "url": "https://www.panewslab.com/zh/articles/01a21472-0bab-7294-bb3b-c7e9e1037cd5",
       "source": "PANews",
-      "published": "2026-11-25T14:04:55+08:00",
-      "summary": "PANews 11月25日消息，据The Block报道，Cathie Wood旗下Ark Invest周二通过其ARKK ETF卖出价值183万美元的Bullish股票，当日Bullish股价收跌8%。该公司还卖出价值681万美元的自有A…",
+      "published": "2026-11-26T04:42:20+08:00",
+      "summary": "PANews 11月26日消息，Tether Treasury向Bitfinex转入1.7亿枚USDT，约合1.7亿美元。",
       "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
       "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
-      "content": "<p>PANews 11月25日消息，据The Block报道，Cathie Wood旗下Ark Invest周二通过其ARKK ETF卖出价值183万美元的Bullish股票，当日Bullish股价收跌8%。该公司还卖出价值681万美元的自有Ark 21Shares比特币ETF（ARKB），以及价值32.5万美元的3iQ Ether Staking ETF（ETHQ.U）和价值141,806美元的3iQ Solana Staking ETF（SOLQ.U）。</p>"
+      "content": "<p>PANews 11月26日消息，Tether Treasury向Bitfinex转入1.7亿枚USDT，约合1.7亿美元。</p>"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitfinex向Tether Treasury转移1.4亿USDT",
+      "url": "https://www.panewslab.com/zh/articles/01a2146d-ecc4-7006-b2ce-31caaf8c81c5",
+      "source": "PANews",
+      "published": "2026-11-26T04:37:50+08:00",
+      "summary": "PANews 11月26日消息，1.4亿枚USDT（价值约1.4亿美元）从中心化交易所Bitfinex转入Tether Treasury。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月26日消息，1.4亿枚USDT（价值约1.4亿美元）从中心化交易所Bitfinex转入Tether Treasury。</p>"
+    },
+    {
+      "title": "2683枚BTC转入未知新钱包，价值约1.61亿美元",
+      "url": "https://www.panewslab.com/zh/articles/01a21455-c9c5-72f5-9bf4-04bbecd3e912",
+      "source": "PANews",
+      "published": "2026-11-26T04:11:28+08:00",
+      "summary": "PANews 11月26日消息，2683枚BTC从未知钱包转入未知新钱包。该笔转账价值约1.61亿美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月26日消息，2683枚BTC从未知钱包转入未知新钱包。该笔转账价值约1.61亿美元。</p>"
+    },
+    {
+      "title": "美国战略比特币储备法案已从众议院金融服务委员会报出",
+      "url": "https://www.panewslab.com/zh/articles/01a21453-68ff-730f-a584-ea18c422bbff",
+      "source": "PANews",
+      "published": "2026-11-26T04:08:52+08:00",
+      "summary": "PANews 11月26日消息，美国战略比特币储备法案已从众议院金融服务委员会报出，现可交由众议院全体表决。该法案将禁止美国出售储备中的BTC，期限至少20年。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月26日消息，美国战略比特币储备法案已从众议院金融服务委员会报出，现可交由众议院全体表决。该法案将禁止美国出售储备中的BTC，期限至少20年。</p>"
+    },
+    {
+      "title": "10至1万枚BTC钱包自11月2日起累计减持15万枚BTC",
+      "url": "https://www.panewslab.com/zh/articles/01a2141d-bbb3-718f-ac79-47e1c5c9d76f",
+      "source": "PANews",
+      "published": "2026-11-26T03:10:09+08:00",
+      "summary": "PANews 11月26日消息，据Santiment数据，自11月2日以来，持有10至1万枚BTC的钱包合计减持15万枚BTC。比特币价格已下跌24.5%，至5.79万美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月26日消息，据Santiment数据，自11月2日以来，持有10至1万枚BTC的钱包合计减持15万枚BTC。比特币价格已下跌24.5%，至5.79万美元。</p>"
+    },
+    {
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-25T13:50:43+08:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
-      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+      "published": "2026-11-26T02:54:51+08:00",
+      "summary": "ehereum logo characters with arms and legs standing in a line with their arms linked",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SXA51G4YCM0WZSF0YF9C3/ethereum-characters-in-line.png",
+      "image_local": "",
+      "content": "ehereum logo characters with arms and legs standing in a line with their arms linked"
     }
   ]
 }
