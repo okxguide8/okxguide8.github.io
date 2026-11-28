@@ -1,8 +1,128 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T04:58:35.234057+08:00",
+  "generated_at": "2026-11-28T15:20:59.394526+08:00",
   "degraded": false,
   "items": [
+    {
+      "title": "“AI股神”Leopold发布Q3投资信：押注AI智能体与超智能浪潮，点名Anthropic等10家潜在受益企业",
+      "url": "https://www.panewslab.com/zh/articles/01a22105-f4e0-75ab-8cda-e4072dea37bc",
+      "source": "PANews",
+      "published": "2026-11-28T15:19:27+08:00",
+      "summary": "PANews 11月28日消息，Situational Awareness创始人Leopold Aschenbrenner在第三季度投资者信中表示，市场低估了AI智能体及超智能演进的速度，预计2027年可能集中实现相当于过去3年规模的AI技…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，Situational Awareness创始人Leopold Aschenbrenner在第三季度投资者信中表示，市场低估了AI智能体及超智能演进的速度，预计2027年可能集中实现相当于过去3年规模的AI技术进步，其投资布局主要围绕五大方向：一是基础模型、二是存储芯片、三是GPU租赁、四是数据中心电力供应、五是机器人，其重点关注的股票包括：Anthropic、SK海力士、铠侠、SanDisk、SpaceX、Nebius、SharonAI、CoreWeave、IREN及Bloom Energy。</p> <p>Leopold Aschenbrenner同时警告，部分软件公司、AI套壳企业、芯片设计商乃至当前的AI行业赢家，都可能因AI逐步替代其工程师、代码、知识产权及管理能力而失去竞争壁垒，其认为应谨慎对待的股票则包括：Salesforce、Adobe、ServiceNow、<a href=\"http://C3.ai\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">C3.ai</a>、Synopsys、Arm、英伟达、AMD、博通及ASML，需要注意的是上述内容为其投资观点，并非确定性市场预测。</p>"
+    },
+    {
+      "title": "方程式新闻创始人回应WLFI暴跌：已抛售过半USD1，警惕周末稳定币脱锚FUD",
+      "url": "https://www.panewslab.com/zh/articles/01a220ec-e128-7661-8822-1b6bb5c16361",
+      "source": "PANews",
+      "published": "2026-11-28T14:52:04+08:00",
+      "summary": "PANews 11月28日消息，方程式新闻创始人Vida发文回应WLFI暴跌事件称，在得知自己的仓位遭遇ADL（自动减仓）后，刚刚以0.997美元的均价、顶着负溢价卖出了自己持有的过半USD1，相当于变相做空了一部分USD1。Vida表示…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，方程式新闻创始人Vida发文回应WLFI暴跌事件称，在得知自己的仓位遭遇ADL（自动减仓）后，刚刚以0.997美元的均价、顶着负溢价卖出了自己持有的过半USD1，相当于变相做空了一部分USD1。Vida表示，其认为USD1这一稳定币项目最终安然度过此次风波的概率仍有99%，但当前正值周末及深度熊市，市场可能借机炒作其暴雷预期。他还指出，市场可能再次上演此前周末稳定币脱锚的典型剧本：周末利空引发挤兑，做市商库存逐渐耗尽，社交媒体集中传播未经证实的负面消息，进而导致稳定币因恐慌情绪脱锚至0.9美元区间，随后在下周一、周二逐步恢复。</p>"
+    },
+    {
+      "title": "CZ：币安生态将弹窗警告旧版iOS风险",
+      "url": "https://www.panewslab.com/zh/articles/01a220ea-8fa7-71b8-b263-20ced8c969df",
+      "source": "PANews",
+      "published": "2026-11-28T14:49:32+08:00",
+      "summary": "PANews 11月28日消息，币安创始人 CZ 发文称，受影响的 iOS 版本（18.4–18.7）用户将在币安生态多数 App 和网站（包括 Trust Wallet、CoinMarketCap、PancakeSwap、BNB Chai…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，币安创始人 CZ 发文称，受影响的 iOS 版本（18.4–18.7）用户将在币安生态多数 App 和网站（包括 Trust Wallet、CoinMarketCap、PancakeSwap、BNB Chain、Binance Wallet 等）看到安全警告弹窗。</p> <p>此前 Trust Wallet 提醒，近期发现的 DarkSword 等漏洞利用工具可针对旧版 iOS 系统漏洞获取钱包数据。CZ 呼吁其他加密应用也采取类似措施，提醒用户及时更新系统以降低风险。</p>"
+    },
+    {
+      "title": "日本上市公司enish拟清仓约5932枚SOL，并退出对SBI加密基金的出资",
+      "url": "https://www.panewslab.com/zh/articles/01a220e0-404c-7276-b1d1-45b017530967",
+      "source": "PANews",
+      "published": "2026-11-28T14:38:17+08:00",
+      "summary": "PANews 11月28日消息，日本上市游戏公司 enish 计划于 11 月 27 日至 12 月 27 日清仓 5932.0586 枚 SOL，累计购入成本约 9994 万日元。卖出后预估损失约 4300 万日元。公司还拟撤回对 SBI…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，日本上市游戏公司 enish 计划于 11 月 27 日至 12 月 27 日清仓 5932.0586 枚 SOL，累计购入成本约 9994 万日元。卖出后预估损失约 4300 万日元。公司还拟撤回对 SBI Crypto Fund I 的 5000 万日元出资，尚待基金运营方批准。enish 表示，此举旨在优先保障游戏主业资金及财务稳定，数字资产财库业务仍将继续，但暂无再购入 SOL 的具体计划。</p>"
+    },
+    {
+      "title": "《AIGC内容生产行业自律公约》发布",
+      "url": "https://www.panewslab.com/zh/articles/01a220ce-b112-74a6-a92f-e139b50a19b6",
+      "source": "PANews",
+      "published": "2026-11-28T14:19:06+08:00",
+      "summary": "PANews 11月28日消息，据财联社报道，在2026中国文化产业发展大会上，《AIGC内容生产行业自律公约》正式发布。《公约》引导市场主体在拥抱技术创新的同时，坚守价值导向，严守版权保护底线，厘清人机创作边界，防范技术滥用风险。中国民营…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，据财联社报道，在2026中国文化产业发展大会上，《AIGC内容生产行业自律公约》正式发布。《公约》引导市场主体在拥抱技术创新的同时，坚守价值导向，严守版权保护底线，厘清人机创作边界，防范技术滥用风险。中国民营文化产业商会会长吴建荣表示，在积极拥抱AI技术的同时，我们也需要推动相关法律法规和行业规范的完善，进一步明确原创作品的知识产权归属、使用边界及利益分配机制，让原创者的价值得到充分尊重和合理回报。</p>"
+    },
+    {
+      "title": "币安：应监管要求已优化SAFU资产配置，将7500枚BTC换成5亿USDC",
+      "url": "https://www.panewslab.com/zh/articles/01a220c5-2ef2-7475-b400-6f3f91405757",
+      "source": "PANews",
+      "published": "2026-11-28T14:08:43+08:00",
+      "summary": "PANews 11月28日消息，据官方公告，按照监管对储备资产结构的最新要求，币安已对用户安全资产基金（SAFU）的持有结构进行优化调整。SAFU 地址中的 7,500 枚 BTC 已转回币安自有资本账户。币安自有资本中的 5 亿 USDC…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，据官方公告，按照监管对储备资产结构的最新要求，币安已对用户安全资产基金（SAFU）的持有结构进行优化调整。SAFU 地址中的 7,500 枚 BTC 已转回币安自有资本账户。币安自有资本中的 5 亿 USDC 已注入 SAFU。币安表示，本次调整在币安内部账户之间完成，BTC 仍留存于币安储备，不涉及任何市场卖出或交易。提高稳定币占比，可提升 SAFU 的稳定性与流动性，使其在真正需要启用时可被立即使用。</p> <p>此外，币安已启动对 SAFU 的持续补充：本次注入 5 亿 USDC，后续将根据市场与储备结构情况持续回填，确保 SAFU 长期维持在充足水平。SAFU 仍由 Nest Clearing and Custody Limited 持有并管理，该机构是受 ADGM 监管的认可清算机构（Recognised Clearing House）。用户可通过 SAFU 地址在链上核实资金变动。</p>"
+    },
+    {
+      "title": "WLFI 4小时下跌超50%，最低跌至0.01585美元",
+      "url": "https://www.panewslab.com/zh/articles/01a220bb-572e-723e-888d-ce38d392a3ec",
+      "source": "PANews",
+      "published": "2026-11-28T13:57:58+08:00",
+      "summary": "PANews 11月28日消息，欧易OKX行情显示，WLFI 4 小时下跌超 50%，最低跌至 0.01585 美元，现报 0.01955 美元。 此前消息 ，WLFI抛售12,121枚ETH，预计亏损1926万美元。",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，欧易OKX行情显示，WLFI 4 小时下跌超 50%，最低跌至 0.01585 美元，现报 0.01955 美元。</p> <p><a href=\"https://www.panewslab.com/zh/articles/01a21fb0-9dac-70f6-afb2-a34186ef49e8\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">此前消息</a>，WLFI抛售12,121枚ETH，预计亏损1926万美元。</p>"
+    },
+    {
+      "title": "Chiliz：ChainPort跨链桥将于12月1日关闭，持有USDC的用户需尽快转出",
+      "url": "https://www.panewslab.com/zh/articles/01a220b5-167c-7486-a34d-3abfa63ed3f5",
+      "source": "PANews",
+      "published": "2026-11-28T13:51:08+08:00",
+      "summary": "PANews 11月28日消息，Chiliz 发文称，ChainPort 跨链桥将于 12 月 1 日停止服务，持有 Chiliz Chain 上 USDC 的用户需尽快将资金桥接至支持的目标网络，目前可用的网络为 Arbitrum、BNB…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，Chiliz 发文称，ChainPort 跨链桥将于 12 月 1 日停止服务，持有 Chiliz Chain 上 USDC 的用户需尽快将资金桥接至支持的目标网络，目前可用的网络为 Arbitrum、BNB Chain 和 Avalanche。</p>"
+    },
+    {
+      "title": "YZi Labs公布EASY Residency第五季24支入选团队，录取率低于4%",
+      "url": "https://www.panewslab.com/zh/articles/01a220a4-28e9-7381-be5d-3572c197deb5",
+      "source": "PANews",
+      "published": "2026-11-28T13:32:38+08:00",
+      "summary": "PANews 11月28日消息，YZi Labs 公布旗下孵化计划 EASY Residency 第五季 24 支入选团队，录取率低于 4%，涵盖 Web3、AI 和生物科技。入选项目包括：生物科技套件平台 Advanced BioInsi…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，YZi Labs 公布旗下孵化计划 EASY Residency 第五季 24 支入选团队，录取率低于 4%，涵盖 Web3、AI 和生物科技。入选项目包括：生物科技套件平台 Advanced BioInsights、AI 资本配置平台 AlloX、社交交易应用平台 Arbital、自动驾驶财富账户平台 Axal、加密抵押借贷协议 Bima、BNB Chain 零售交易平台 BitLV、稳定币兑换与支付服务平台 BlankFX、嵌入式信贷平台 Cr3dentials、AI 代理交易技能经济平台 DEXless、奢侈收藏品数字盲盒平台 DripBox、代币化股票与黄金期权收益协议 Enhanced、个人 AI 投资研究代理平台 Midas、AI 代理发行代币协议 Moss AI、可编程链上转账基础设施协议 MultiHopper、隐私优先多链钱包平台 Noir、RWA 即时赎回协议 Octarine、肖像所有权平台 PersonaShield、资产未来价值切片交易平台 Qualiq、不确定结果预测平台 Raven Labs、可交易 GPU 算力协议 RAX Finance、多市场统一图表界面平台 OpenMarket、永续交易平台 Vanta Exchange、日本实体店稳定币支付平台 WEA Japan、叙事市场平台 Xposure Markets。</p>"
+    },
+    {
+      "title": "币安获不丹格勒普正念之城原则性批准，计划设立亚洲区域中心",
+      "url": "https://www.panewslab.com/zh/articles/01a22096-45c6-7258-8e89-9e61bd514a7f",
+      "source": "PANews",
+      "published": "2026-11-28T13:17:28+08:00",
+      "summary": "PANews 11月28日消息，据官方消息，币安已获得不丹格勒普中央银行的原则性批准，可在不丹格勒普正念之城开展受监管的数字资产相关业务。币安与 GMC 签署了一项合作协议，明确双方更广泛的合作关系，以及将 GMC 打造为币安亚洲用户区域中…",
+      "image": "https://uploads.panewslab.com/5bee5808-d018-409d-9257-89c453c91b2b",
+      "image_local": "assets/newsbot/img/566d93d9db60cd6d.jpg",
+      "content": "<p>PANews 11月28日消息，据官方消息，币安已获得不丹格勒普中央银行的原则性批准，可在不丹格勒普正念之城开展受监管的数字资产相关业务。币安与 GMC 签署了一项合作协议，明确双方更广泛的合作关系，以及将 GMC 打造为币安亚洲用户区域中心的计划。此次原则性批准是双方持续推进合作、拓展服务覆盖范围并推动当地生态建设的重要里程碑。</p> <p>自 2025 年推出由加密货币支持的国家级旅游支付系统以来，币安持续深化在不丹的布局。随着双方合作不断推进，币安将继续推动当地数字资产生态系统建设。接下来，币安将与 GCB 合作，满足原则性批准所附带的各项条件，并完成剩余监管要求，以获得正式牌照。此次合作不仅限于牌照申请。币安计划在不丹建立实质性的运营布局，在创造就业机会的同时，投资于当地人才培养及数字资产相关能力建设。</p> <p>币安亚太区负责人 SB Seker 表示：“在格勒普正念之城设立亚洲区域中心是一项战略性决策，体现了币安致力于在明确且具有前瞻性的监管框架下开展业务的承诺。GMC 致力于将传统价值理念与前沿科技相结合，并以可再生能源为支撑，这使其成为币安设立区域卓越中心的理想之地。”</p>"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-28T06:12:51+08:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "image_local": "assets/newsbot/img/b56a5a4179d9857e.jpg",
+      "content": "<p></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-28T05:15:29+08:00",
+      "summary": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets und…",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+      "image_local": "assets/newsbot/img/19550447b54f453c.jpg",
+      "content": "<p></p><p>The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.</p>"
+    },
     {
       "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
       "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
